@@ -1,0 +1,21 @@
+.navbar {
+	margin-bottom: 0;
+	font-size: 16px;
+
+}
+
+.widewrapper {
+  width:100%;
+  }
+
+.widewrapper > img {
+  width:100%;
+}
+.img-responsive {
+	height: 50%;
+}
+.jumbotron{
+	width: 100%;
+	margin-bottom: 0;
+
+}
