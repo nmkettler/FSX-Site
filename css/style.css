@@ -1,17 +1,5 @@
 /*http://www.bootply.com/W8c08gujh2*/
 
-.page-header{
-	margin-top: 0;
-}
-.panel-body{
-	padding-top: 0;
-}
-.navbar-default .navbar-nav>li>a {
-	color: #fff;
-    text-transform: uppercase;
-
-}
-
 .navbar-default.transparent {
 	background-color: transparent;
 }
@@ -21,13 +9,21 @@
     background-color: rgba(0,0,0,.25);
 }
 
-.widewrapper {
-  width:100%;
-  }
+/* ----------Read.php----------- */
 
-.widewrapper > img {
-  width:100%;
+.page-header{
+  margin-top: 0;
 }
-.img-responsive {
-	height: 50%;
+.panel-body{
+  margin-top: 0;
+  
 }
+.featuredImg{
+  margin-bottom: 15px;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+    text-transform: uppercase;
+
+}
+

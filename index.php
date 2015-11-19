@@ -11,7 +11,7 @@
                 <div class = "navbar navbar-default transparent navbar-fixed-top" id="mainNav">
                         <div class = "container">
                                
-                                <a href="#" class="pull-left"><img src="css/fsxLogo.png" height="60" width="80"></a>
+                                <a href="index.php" class="pull-left"><img src="css/fsxLogo.png" height="60" width="80"></a>
                                
                                 <button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
                                         <span class = "icon-bar"></span>
@@ -23,16 +23,20 @@
                                
                                         <ul class = "nav navbar-nav navbar-right">
                                        
-                                                <li class = "active"><a href = "#">Home</a></li>
+                                                <li class = "active"><a href = "index.php">Home</a></li>
                                                 <li><a href = "#">Competitive Comparison</a></li>
                                                 <li class = "dropdown">
                                                        
-                                                        <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Products <b class = "caret"></b></a>
+                                                        <a href = "products.php" class = "dropdown-toggle" data-toggle = "dropdown">Products <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
-                                                                <li><a href = "#">Trap Blaster</a></li>
-                                                                <li><a href = "#">Soot Sucker</a></li>
-                                                                <li><a href = "#">Competition</a></li>
-                                                                <li><a href = "#">Diesel Filters</a></li>
+                                                                <li><a href = "products.php">Complete Cleaning Package</a></li>
+                                                                <li><a href = "#">Trapblaster Pneumatic Cleaners</a></li>
+                                                                <li><a href = "#">Trapburner Thermal Cleaners</a></li>
+                                                                <li><a href = "#">Traptester Airflow Tester</a></li>
+                                                                <li><a href = "#">Sootsucker 2 Dust Collector</a></li>
+                                                                <li><a href = "#">FSX Banners & Posters</a></li>
+                                                                <li><a href = "#">Accessories</a></li>
+                                                                <li><a href = "#">FSX Cleaning Manual</a></li>
                                                         </ul>
                                                
                                                 </li>
@@ -46,12 +50,12 @@
                         </div>
                 </div>
  				<div class = "widewrapper_main">
- 					<img src = "cleaning1.png"> <!-- class = "img-responsive" alt = "Responsive image" to make image responsive-->
+ 					<img src = "cleaning1.png" class="img-responsive" alt="Responsive image"> <!-- class = "img-responsive" alt = "Responsive image" to make image responsive-->
 
                                         <div class = "container">
                                                 <div class = "jumbotron">
-                                                        <h2 class = "text-center">Hello World!</h2>
-                                                        <p class = "text-center">This is the paragraph for the jumbotron</p>
+                                                        <h2 class = "text-center">Javascript Slideshow</h2>
+                                                        <p class = "text-center">This may be where the slideshow will go</p>
                                                 </div>
                                         </div>
 				       
@@ -101,18 +105,4 @@
                                                                                    
                                 </div>
                                          
-                      				
-                                        <div class = "navbar navbar-inverse navbar-static-bottom">
-
-         					<div class = "container">
-         						<p class = "navbar-text pull-left">Site built by Noah</p>
-         						<a href ="#" class = "navbar-btn btn-danger btn pull-right">Subscribe on Youtube</a>
-         					</div>
-
-         				</div>
-                           
-                <script src = "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-                <script src = "js/bootstrap.js"></script>
-               
-        </body>
-</html>
+<?php include "footer.php" ?>

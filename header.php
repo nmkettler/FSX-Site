@@ -7,11 +7,11 @@
                 <link href = "css/style.css" rel = "stylesheet">
         </head>
         <body>
- 
-                <div class = "navbar navbar-inverse navbar-fixed-top" id="mainNav">
+               
+                <div class = "navbar navbar-inverse navbar-static-top">
                         <div class = "container">
                                
-                                <a href="#" class="pull-left"><img src="css/fsxLogo.png" height="60" width="80"></a>
+                                <a href="index.php" class="pull-left"><img src="css/fsxLogo.png" height="60" width="80"></a>
                                
                                 <button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
                                         <span class = "icon-bar"></span>
@@ -23,7 +23,7 @@
                                
                                         <ul class = "nav navbar-nav navbar-right">
                                        
-                                                <li class = "active"><a href = "#">Home</a></li>
+                                                <li class = "active"><a href = "index.php">Home</a></li>
                                                 <li><a href = "#">Competitive Comparison</a></li>
                                                 <li class = "dropdown">
                                                        
@@ -45,5 +45,3 @@
                                
                         </div>
                 </div>
-      </body>
-</html>
