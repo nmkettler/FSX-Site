@@ -3,6 +3,8 @@
         <head>
                 <title>Bootstrap 3</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <meta name="description" content="">
+                <meta name="author" content="">
                 <link href = "css/bootstrap.min.css" rel = "stylesheet">
                 <link href = "css/style.css" rel = "stylesheet">
         </head>
@@ -30,7 +32,7 @@
                                                         <a href = "products.php" class = "dropdown-toggle" data-toggle = "dropdown">Products <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
                                                                 <li><a href = "products.php">Complete Cleaning Package</a></li>
-                                                                <li><a href = "#">Trapblaster Pneumatic Cleaners</a></li>
+                                                                <li><a href = "trapblaster7.php">Trapblaster Pneumatic Cleaners</a></li>
                                                                 <li><a href = "#">Trapburner Thermal Cleaners</a></li>
                                                                 <li><a href = "#">Traptester Airflow Tester</a></li>
                                                                 <li><a href = "#">Sootsucker 2 Dust Collector</a></li>
@@ -40,6 +42,7 @@
                                                         </ul>
                                                
                                                 </li>
+                                                <li><a href = "#">Enviromental & Saftey</a></li>
                                                 <li><a href = "#">About Us</a></li>
                                                 <li><a href = "#">Contact</a></li>
                                        
@@ -55,7 +58,60 @@
                                         <div class = "container">
                                                 <div class = "jumbotron">
                                                         <h2 class = "text-center">Javascript Slideshow</h2>
-                                                        <p class = "text-center">This may be where the slideshow will go</p>
+                                                            <!-- Full Page Image Background Carousel Header -->
+                                                            <header id="myCarousel" class="carousel slide">
+                                                                <!-- Indicators -->
+                                                                <ol class="carousel-indicators">
+                                                                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                                                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                                                                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                                                                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                                                                </ol>
+
+                                                                <!-- Wrapper for Slides -->
+                                                                <div class="carousel-inner">
+                                                                    <div class="item active">
+                                                                        <!-- Set the first background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "img/special_offer_fsx.png" class="img-responsive center-block" alt="Responsive image"></a></div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <!-- Set the second background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "img/oem_tested_slide.png" class="img-responsive center-block" alt="Responsive image"></a></div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <!-- Set the third background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = "products.php"><img src = "img/dpf_cleaning_system.png" class="img-responsive center-block" alt="Responsive image"></a></div>
+                                                                    </div>
+                                                                       <div class="item">
+                                                                        <!-- Set the third background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "img/find_fsx.png" class="img-responsive center-block" alt="Responsive image"></a></div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Controls -->
+                                                                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                                                                    <span class="icon-prev"></span>
+                                                                </a>
+                                                                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                                                                    <span class="icon-next"></span>
+                                                                </a>
+
+                                                            </header>
+
+                                                            <!-- /.container -->
+                                                            <!--
+                                                            
+                                                            <script src="js/jquery.js"></script>
+
+                                                            
+                                                            <script src="js/bootstrap.min.js"></script>
+
+                                                            
+                                                            <script>
+                                                            $('.carousel').carousel({
+                                                                interval: 5000 //changes the speed
+                                                            })
+                                                            </script>
+                                                        -->
                                                 </div>
                                         </div>
 				       

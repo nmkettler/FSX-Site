@@ -29,13 +29,18 @@
                                                        
                                                         <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Products <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
-                                                                <li><a href = "#">Trap Blaster</a></li>
-                                                                <li><a href = "#">Soot Sucker</a></li>
-                                                                <li><a href = "#">Competition</a></li>
-                                                                <li><a href = "#">Diesel Filters</a></li>
+                                                                <li><a href = "products.php">Complete Cleaning Package</a></li>
+                                                                <li><a href = "trapblaster7.php">Trapblaster Pneumatic Cleaners</a></li>
+                                                                <li><a href = "trapburner7.php">Trapburner Thermal Cleaners</a></li>
+                                                                <li><a href = "#">Traptester Airflow Tester</a></li>
+                                                                <li><a href = "#">Sootsucker 2 Dust Collector</a></li>
+                                                                <li><a href = "#">FSX Banners & Posters</a></li>
+                                                                <li><a href = "#">Accessories</a></li>
+                                                                <li><a href = "#">FSX Cleaning Manual</a></li>
                                                         </ul>
                                                
                                                 </li>
+                                                <li><a href = "#">Enviromental & Saftey</a></li>
                                                 <li><a href = "#">About Us</a></li>
                                                 <li><a href = "#">Contact</a></li>
                                        

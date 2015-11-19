@@ -9,7 +9,7 @@
     background-color: rgba(0,0,0,.25);
 }
 
-/* ----------Read.php----------- */
+/* ----------products.php----------- */
 
 .page-header{
   margin-top: 0;
@@ -24,6 +24,60 @@
 .navbar-default .navbar-nav>li>a {
   color: #fff;
     text-transform: uppercase;
+}
 
+/*---------Product Tabs Menu------------*/
+.m1{
+	background-color: rgba(0,0,0,.25);
+	border-right: 1px solid rgba(0,0,0,.50);
+}
+.m1 a{
+	color: black;
+	font-weight: bold;
+}
+
+#features li{
+	margin-left: 5%;
+}
+
+#menu1 li{
+	margin-left: 5%;
+}
+#menu2 li{
+	margin-left: 5%;
+}
+#menu3 li{
+	margin-left: 5%;
+}
+
+/*-------------Carousel-----------*/
+
+/*!
+ * Start Bootstrap - Full Slider HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.carousel,
+.item
+{
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+    width: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
