@@ -24,12 +24,11 @@
                                         <ul class = "nav navbar-nav navbar-right">
                                        
                                                 <li class = "active"><a href = "index.php">Home</a></li>
-                                                <li><a href = "#">Competitive Comparison</a></li>
                                                 <li class = "dropdown">
                                                        
                                                         <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Products <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
-                                                                <li><a href = "products.php">Complete Cleaning Package</a></li>
+                                                                <li><a href = "basepkg.php">Complete Cleaning Package</a></li>
                                                                 <li><a href = "trapblaster7.php">Trapblaster Pneumatic Cleaners</a></li>
                                                                 <li><a href = "trapburner7.php">Trapburner Thermal Cleaners</a></li>
                                                                 <li><a href = "#">Traptester Airflow Tester</a></li>
@@ -40,7 +39,26 @@
                                                         </ul>
                                                
                                                 </li>
-                                                <li><a href = "#">Enviromental & Saftey</a></li>
+                                               <li class = "dropdown">
+                                                       
+                                                        <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Competitive Comparison <b class = "caret"></b></a>
+                                                        <ul class = "dropdown-menu">
+                                                                <li><a href = "basepkg.php">Cleaning Technology Comparison</a></li>
+                                                                <li><a href = "trapblaster7.php">Features Checklist</a></li>
+                                                        </ul>
+                                               
+                                                </li>
+                                                <li class = "dropdown">
+                                                       
+                                                        <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Enviromental & Saftey <b class = "caret"></b></a>
+                                                        <ul class = "dropdown-menu">
+                                                                <li><a href = "basepkg.php">Recommended Saftey Equipment</a></li>
+                                                                <li><a href = "trapblaster7.php">Soot & Ash Disposal</a></li>
+                                                                <li><a href = "trapburner7.php">DPF Ash Composition</a></li>
+                                                                <li><a href = "#">SDS of Diesel Soot & Ash</a></li>
+                                                        </ul>
+                                               
+                                                </li>
                                                 <li><a href = "#">About Us</a></li>
                                                 <li><a href = "#">Contact</a></li>
                                        

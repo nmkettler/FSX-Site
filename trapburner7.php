@@ -112,7 +112,7 @@
     		<a href = "#" class = "list-group-item text-center">
     			<h4 class = "list-group-item-heading">SootSucker</h4>
     			<p class = "list-group-item-text">
-    				<img class = "featuredImg" src = "http://fsxinc.com/site1/images/Products/kilm.jpg" height = "200px"> 
+    				<img class = "featuredImg" src = "img/sootsucker25.jpg" height = "200px"> 
     			</p>
     		</a>
     	</div>
