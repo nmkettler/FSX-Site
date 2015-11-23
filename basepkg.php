@@ -58,7 +58,7 @@
                           <ul>
                             <li><a href="trapblaster7.php">TrapBlaster<span class="name1">™</span> Pneumatic Cleaner</a></li>
                             <li> <a href="TrapTester7.html">  TrapTester<span class="name1">™</span> <span class="name1"> </span> Air Flow Test Bench</a></li>
-                            <li><a href="trapburner7.php">TrapBurner<span class="name1">™</span><span class="name1"> </span> Thermal Cleaner</a></li>
+                            <li><a href="trapburner">TrapBurner<span class="name1">™</span><span class="name1"> </span> Thermal Cleaner</a></li>
                             <li> <a href="SootSucker2.html">SootSucker<span class="name1">™</span> Dust Collector</a></li>
                            </ul>
                            <h3>Electrical Options Chart</h3>
