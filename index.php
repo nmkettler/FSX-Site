@@ -92,7 +92,63 @@
  				<div class = "widewrapper_main">
  					<img src = "cleaning1.png" class="img-responsive" alt="Responsive image"> <!-- class = "img-responsive" alt = "Responsive image" to make image responsive-->
 
+                                        
+            
+                                <div class = "container">
+                                        <div class = "row">
+                                            
+                                                <div class = "col-md-4">
+
+                                                        <h2>FSX DPF CLEANING EQUIPMENT</h2>
+                                                        <p class = "">Our DPF cleaners and test bench 
+                                                                were proven in our own cleaning operations long before they were
+                                                                released to market. We make sure that buyers of FSX DPF cleaning 
+                                                                equipment have the same machines
+                                                                that are utilized in on our own shops. 
+                                                                The FSX Diesel Particulate Filter cleaning equipment equates to quality.
+                                                        </p>
+                                                </div>
+
+                                                <div class = "col-md-4">
+                                                                          <h2 class = "">PROVEN CLEANING METHOD</h2>
+                                                        <p class = "">The machines were designed to duplicate the exact cleaning method 
+                                                                that we found worked the best and designed into a professional, compact package.
+                                                        </p>
+                                                        
+                                                </div>
+
+                                                <div class = "col-md-4">
+                                                        <h2 class = "">DURABLE MACHINES</h2>
+                                                        <p class = "">FSX proves DPF cleaning techniques and transforms the technique 
+                                                                into durable machinery that makes cleaning filters easy and reliable for our customers 
+                                                                at economical prices.
+                                                        </p>
+                                                </div>
+                                                                                   
+                                </div>
+
+                                <!--Featuretts Start-->
+                                  <hr>
+  
+                                  <div class="row">
+                                    <div class="col-md-7">
+                                      <h2 class="featurette-heading">CLEANER DPF = LONGER FILTER LIFE</h2>
+                                      <p class="lead">FSX manufactures and distributes diesel particulate filter cleaning equipment used in the trucking, 
+                                        transit, off-road, railroad and power generation. Utilizing FSX DPF cleaners assures that the user will get the maximum 
+                                        life possible between cleanings, plus maximize the overall life of the DPF or DOC.
+                                      </p>
+                                    </div>
+                                    <div class="col-md-5 text-center">
+                                      <img src="http://www.excalibretech.com/Content/Images/uploaded/IMG_2833_FSX.jpg" alt="placeholder" class="featurette-image img-responsive">
+                                    </div>
+                                       <a class = "btn btn-default">FSX Equipment</a>
+                                       <a class = "btn btn-default">FSX DPF Cleaning</a>
+                                       <a class = "btn btn-default">FSX DPF & DOC Recycling</a>
+                                  </div>
+                                  
+                                  <hr>
                                         <div class = "container">
+                                            
                                                 <div class = "jumbotron">
                                                             <!-- Full Page Image Background Carousel Header -->
                                                             <header id="myCarousel" class="carousel slide">
@@ -150,63 +206,8 @@
                                                         -->
                                                 </div>
                                         </div>
-				       
- 				</div>
-
-                                <div class = "container">
-                                        <div class = "row">
-                                            
-                                                <div class = "col-md-4">
-
-                                                        <h2>FSX DPF CLEANING EQUIPMENT</h2>
-                                                        <p class = "">Our DPF cleaners and test bench 
-                                                                were proven in our own cleaning operations long before they were
-                                                                released to market. We make sure that buyers of FSX DPF cleaning 
-                                                                equipment have the same machines
-                                                                that are utilized in on our own shops. 
-                                                                The FSX Diesel Particulate Filter cleaning equipment equates to quality.
-                                                        </p>
-                                                </div>
-
-                                                <div class = "col-md-4">
-                                                                          <h2 class = "">PROVEN CLEANING METHOD</h2>
-                                                        <p class = "">The machines were designed to duplicate the exact cleaning method 
-                                                                that we found worked the best and designed into a professional, compact package.
-                                                        </p>
-                                                        
-                                                </div>
-
-                                                <div class = "col-md-4">
-                                                        <h2 class = "">DURABLE MACHINES</h2>
-                                                        <p class = "">FSX proves DPF cleaning techniques and transforms the technique 
-                                                                into durable machinery that makes cleaning filters easy and reliable for our customers 
-                                                                at economical prices.
-                                                        </p>
-                                                </div>
-                                                                                   
-                                </div>
-
-                                <!--Featuretts Start-->
-                                  <hr>
-  
-                                  <div class="row">
-                                    <div class="col-md-7">
-                                      <h2 class="featurette-heading">CLEANER DPF = LONGER FILTER LIFE</h2>
-                                      <p class="lead">FSX manufactures and distributes diesel particulate filter cleaning equipment used in the trucking, 
-                                        transit, off-road, railroad and power generation. Utilizing FSX DPF cleaners assures that the user will get the maximum 
-                                        life possible between cleanings, plus maximize the overall life of the DPF or DOC.
-                                      </p>
-                                    </div>
-                                    <div class="col-md-5 text-center">
-                                      <img src="http://www.excalibretech.com/Content/Images/uploaded/IMG_2833_FSX.jpg" alt="placeholder" class="featurette-image img-responsive">
-                                    </div>
-                                       <a class = "btn btn-default">FSX Equipment</a>
-                                       <a class = "btn btn-default">FSX DPF Cleaning</a>
-                                       <a class = "btn btn-default">FSX DPF & DOC Recycling</a>
-                                  </div>
-                                  
-                                  <hr>
-
+                       
+                </div>
                          <div class = "modal fade" id = "contact" role = "dialog">
                    <div class= "modal-dialog">
                         <div class = "modal-content">
