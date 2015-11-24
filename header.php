@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html>
         <head>
-                <title>Bootstrap 3</title>
+                <title>FSX Inc.</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <meta name="description" content="">
+                <meta name="author" content="">
                 <link href = "css/bootstrap.min.css" rel = "stylesheet">
                 <link href = "css/style.css" rel = "stylesheet">
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+                <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+                <script type="text/javascript" src="js/siteFunc.js"></script>
         </head>
-        <body>
+        <body data-spy="scroll" data-target="#navbar-example">
                
                 <div class = "navbar navbar-inverse navbar-static-top">
                         <div class = "container">
@@ -41,7 +46,7 @@
                                                                 <li><a href = "sootsucker2.php">Sootsucker 2 Dust Collector</a></li>
                                                                 <li><a href = "bannersposters.php">FSX Banners & Posters</a></li>
                                                                 <li><a href = "accessories.php">Accessories</a></li>
-                                                                <li><a href = "#">FSX Cleaning Manual</a></li>
+                                                                <li><a href = "cleaningmanual.php">FSX Cleaning Manual</a></li>
                                                         </ul>
                                                
                                                 </li>
@@ -69,9 +74,9 @@
                                                        
                                                         <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">About Us <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
-                                                                <li><a href = "trapblaster7.php">Service Locator Map</a></li>
+                                                                <li><a href = "servicelocator.php">Service Locator Map</a></li>
                                                                 <li><a href = "basepkg.php">News</a></li>
-                                                                <li><a href = "trapblaster7.php">Videos</a></li>
+                                                                <li><a href = "videos.php">Videos</a></li>
                                                         </ul>
                                                
                                                 </li>
@@ -114,8 +119,8 @@
 
                                    </div>
                                    <div class = "modal-footer">
-                           </form>
-                                <a class = "btn-btn-default" data-dismiss="modal">Close</a>
+                           </form>                              
+                                <button class = "btn btn-danger" data-dismiss="modal">Close</button>
                                 <button class = "btn btn-primary" type = "submit">Send</button>
                            </div>
                         </div>

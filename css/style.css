@@ -1,11 +1,23 @@
 /*http://www.bootply.com/W8c08gujh2*/
+@import url(//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css);
 
 body {
 	margin-bottom: 80px;
 }
 
+#foot {
+	background-color: rgba(96,96,96,96);
+}
 
-.navbar-default.transparent {
+#foot p{
+	color: white;
+}
+
+#fsxlogo :hover{
+	color:white;
+}
+
+.navbar-default {
 	background-color: transparent;
 }
 
@@ -124,15 +136,14 @@ body {
 }
 
 /*----------------Banners/Posters----------- */
+#inspecChart{
 
-#inspecChart {
-	border: 1px solid black;
 }
 
 #inspecChart1 {
-	border: 1px solid black;
+	border-right: 1px solid black;
 	border-top: none;
-	border-left: none;
-	border-bottom: none;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
 
 }
