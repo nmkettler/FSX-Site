@@ -17,7 +17,7 @@
                 <div class = "navbar navbar-default transparent navbar-fixed-top" id="mainNav">
                         <div class = "container">
                                
-                                <a href="index.php" class="pull-left"><img src="css/fsxLogo.png" height="60" width="80"></a>
+                                <a href="index.php" class="pull-left"><img src="css/fsxLogo.png" id="logo" height="60" width="80"></a>
                                
                                 <button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
                                         <span class = "icon-bar"></span>
@@ -25,7 +25,7 @@
                                         <span class = "icon-bar"></span>
                                 </button>
                                
-                                <div class = "collapse navbar-collapse navHeaderCollapse">
+                                <div class = "collapse navbar-collapse navHeaderCollapse" id="bs-eample">
                                
                                         <ul class = "nav navbar-nav navbar-right">
                                        
@@ -76,7 +76,7 @@
                                                         <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">About Us <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
                                                                 <li><a href = "servicelocator.php">Service Locator Map</a></li>
-                                                                <li><a href = "basepkg.php">News</a></li>
+                                                                <li><a href = "news.php">News</a></li>
                                                                 <li><a href = "videos.php">Videos</a></li>                                                                
                                                         </ul>
                                                
@@ -91,7 +91,9 @@
                 </div>
  				<div class = "widewrapper_main">
  					<img src = "cleaning1.png" class="img-responsive" alt="Responsive image"> <!-- class = "img-responsive" alt = "Responsive image" to make image responsive-->
-
+                   <!--<video autoplay loop class="fillWidth">
+                        <source src="img/FSXDPFCleaningEquipment.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
+                    </video>--> 
                                         
             
                                 <div class = "container">

@@ -16,7 +16,7 @@
                 <div class = "navbar navbar-inverse navbar-static-top">
                         <div class = "container">
                                
-                                <a href="index.php" class="pull-left"><img src="css/fsxLogo.png" height="60" width="80"></a>
+                                <a href="index.php" class="pull-left"><img src="css/fsxLogo.png" id="logo" height="60" width="80"></a>
                                
                                 <button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
                                         <span class = "icon-bar"></span>
@@ -75,7 +75,7 @@
                                                         <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">About Us <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
                                                                 <li><a href = "servicelocator.php">Service Locator Map</a></li>
-                                                                <li><a href = "basepkg.php">News</a></li>
+                                                                <li><a href = "news.php">News</a></li>
                                                                 <li><a href = "videos.php">Videos</a></li>
                                                         </ul>
                                                
