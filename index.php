@@ -55,8 +55,8 @@
                                                        
                                                         <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Competitive Comparison <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
-                                                                <li><a href = "basepkg.php">Cleaning Technology Comparison</a></li>
-                                                                <li><a href = "trapblaster7.php">Features Checklist</a></li>
+                                                                <li><a href = "cleaningcomparison.php">Cleaning Technology Comparison</a></li>
+                                                                <li><a href = "featureschecklist.php">Features Checklist</a></li>
                                                         </ul>
                                                
                                                 </li>
@@ -64,10 +64,10 @@
                                                    
                                                     <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Enviromental & Saftey <b class = "caret"></b></a>
                                                     <ul class = "dropdown-menu">
-                                                            <li><a href = "basepkg.php">Recommended Saftey Equipment</a></li>
-                                                            <li><a href = "trapblaster7.php">Soot & Ash Disposal</a></li>
-                                                            <li><a href = "trapburner7.php">DPF Ash Composition</a></li>
-                                                            <li><a href = "#">SDS of Diesel Soot & Ash</a></li>
+                                                            <li><a href = "reccSafteyEquip.php">Recommended Saftey Equipment</a></li>
+                                                            <li><a href = "sootashdisposal.php">Soot & Ash Disposal</a></li>
+                                                            <li><a href = "dpfashcompo.php">DPF Ash Composition</a></li>
+                                                            <li><a href = "sdsdiesalsoot">SDS of Diesel Soot & Ash</a></li>
                                                     </ul>
                                                
                                                 </li>
@@ -135,7 +135,7 @@
                                   <div class="row">
                                     <div class="col-md-7">
                                       <h2 class="featurette-heading">CLEANER DPF = LONGER FILTER LIFE</h2>
-                                      <p class="lead">FSX manufactures and distributes diesel particulate filter cleaning equipment used in the trucking, 
+                                      <p class="homepageP">FSX manufactures and distributes diesel particulate filter cleaning equipment used in the trucking, 
                                         transit, off-road, railroad and power generation. Utilizing FSX DPF cleaners assures that the user will get the maximum 
                                         life possible between cleanings, plus maximize the overall life of the DPF or DOC.
                                       </p>
@@ -166,7 +166,7 @@
                                                                 <div class="carousel-inner">
                                                                     <div class="item active">
                                                                         <!-- Set the first background image using inline CSS below. -->
-                                                                        <div class="fill"><a href = ""><img src = "img/special_offer_fsx.png" class="img-responsive center-block" alt="Responsive image"></a></div>
+                                                                        <div class="fill"><a href = "specials.php"><img src = "img/special_offer_fsx.png" class="img-responsive center-block" alt="Responsive image"></a></div>
                                                                     </div>
                                                                     <div class="item">
                                                                         <!-- Set the second background image using inline CSS below. -->

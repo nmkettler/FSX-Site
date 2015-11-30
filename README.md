@@ -1,7 +1,7 @@
 # prac
 # pracNav
 
-# Left to do: Service Locator Map
-#			  News
-#			  Features Checklist
-#			  Add additional pictures to Modals
+# Left to do: 
+#			Service Locator Map
+#			Add additional pictures to Modals
+#			Finish Baseline Chart Page

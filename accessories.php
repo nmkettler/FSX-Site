@@ -148,8 +148,34 @@
                         <h2>FSX TrapTester Flow Reduction Adapter™</h2>
                     </div> 
                     <div class = "modal-body">
-                        <img class = "featuredImg center-block" src = "img/flow-adapter.jpg">                     
-                        <p>
+                       <header id="myCarousel" class="carousel slide">
+                                                                <!-- Indicators -->
+                                                                <ol class="carousel-indicators">
+                                                                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                                                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                                                                </ol>
+
+                                                                <!-- Wrapper for Slides -->
+                                                                <div class="carousel-inner">
+                                                                    <div class="item active">
+                                                                        <!-- Set the first background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "img/flow-adapter.jpg" class="img-responsive center-block" alt="Responsive image"></a></div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <!-- Set the second background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "img/airflowadapter.jpg" class="img-responsive center-block" alt="Responsive image"></a></div>
+                                                                    </div>                                                                   
+                                                                </div>
+                                                                <!-- Controls -->
+                                                                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                                                                    <span class="icon-prev"></span>
+                                                                </a>
+                                                                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                                                                    <span class="icon-next"></span>
+                                                                </a>
+
+                        </header>                  
+                        <p class = "accCaro">
                           A necessary add-on to the <a href = "traptester.php">TrapTester™</a> for 8" diameter DPFs and smaller. 
                           The FSX TrapTester Flow Reduction Adapter™ adjusts air flow for an accurate reading on small DPFs.
                         </p> 

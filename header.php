@@ -54,8 +54,8 @@
                                                        
                                                         <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Competitive Comparison <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
-                                                                <li><a href = "basepkg.php">Cleaning Technology Comparison</a></li>
-                                                                <li><a href = "trapblaster7.php">Features Checklist</a></li>
+                                                                <li><a href = "cleaningcomparison.php">Cleaning Technology Comparison</a></li>
+                                                                <li><a href = "featureschecklist.php">Features Checklist</a></li>
                                                         </ul>
                                                
                                                 </li>
@@ -63,10 +63,10 @@
                                                        
                                                         <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Enviromental & Saftey <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
-                                                                <li><a href = "basepkg.php">Recommended Saftey Equipment</a></li>
-                                                                <li><a href = "trapblaster7.php">Soot & Ash Disposal</a></li>
-                                                                <li><a href = "trapburner7.php">DPF Ash Composition</a></li>
-                                                                <li><a href = "#">SDS of Diesel Soot & Ash</a></li>
+                                                                <li><a href = "reccSafteyEquip.php">Recommended Saftey Equipment</a></li>
+                                                                <li><a href = "sootashdisposal.php">Soot & Ash Disposal</a></li>
+                                                                <li><a href = "dpfashcompo.php">DPF Ash Composition</a></li>
+                                                                <li><a href = "sdsdiesalsoot.php">SDS of Diesel Soot & Ash</a></li>
                                                         </ul>
                                                
                                                 </li>

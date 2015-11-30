@@ -28,7 +28,9 @@ body {
 .jumbotron {
 	background-color: #fff;
 }
-
+ .homepageP{
+ 	font-size: 18px;
+ }
 /* ----------products.php----------- */
 
 .page-header{
@@ -204,4 +206,40 @@ video.fillWidth {
 }
 .video-container video.fillWidth {
   width: 100%;
+}
+
+/* Accesory Modal Slider*/
+
+.accCaro{
+	padding-top: 10%;
+}
+
+/*Features Checklist Table/Cleaning Comparison */
+.tableTitle {
+	background-color: yellow;
+	font-weight: bold;
+}
+
+.featureList {
+	border: 1px solid black;
+}
+
+.PROCEESTIME{
+	border: 1px solid black;
+	background-color: yellow;
+}
+
+.PROCEESTIMELINES{
+	border: 1px solid black;
+	background-color: yellow;
+}
+
+/*Saftey Equipment Page*/
+
+.protectiveEquip{
+	padding-top:5%;
+}
+
+#safteyPic{
+	padding-bottom: 5%;
 }
