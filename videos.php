@@ -3,7 +3,9 @@
 <div class = "container">
 	<div class = "jumbotron">
 
-		<iframe width="853" height="480" src="https://www.youtube.com/embed/0PVSz-F2x6A" frameborder="0" allowfullscreen></iframe>
+		<div class="embed-responsive embed-responsive-16by9">
+		    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0PVSz-F2x6A"></iframe>
+		</div>
 		
 	</div>
 </div>

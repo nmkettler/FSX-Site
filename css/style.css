@@ -4,8 +4,15 @@
 @import url(//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css);
 
 body {
-	margin-bottom: 80px;
+	
 }
+
+.navbar-default { background-color: #000; }
+     @media only screen and (min-width : 768px) {
+        .navbar-default { 
+            background-color: transparent; 
+        }
+     }
 
 #foot {
 	background-color: rgba(96,96,96,96);
@@ -14,11 +21,41 @@ body {
 #foot p{
 	color: white;
 }
-
-.navbar-default {
-	background-color: transparent;
+#foot a{
+	color: black;
 }
 
+.footer {
+  position: relative;  
+  clear:both;
+  margin-top: 5%;
+  width: 100%;
+} 
+/*---------Nav Menu---------*/
+
+.navbar-default { background-color: rgba(96,96,96,96); } /*--change color of mobile menu while full screen is transparent*/
+     @media only screen and (min-width : 768px) {
+        .navbar-default { 
+            background-color: transparent; 
+        }
+     }
+
+.dropdown-menu li{
+	background-color: #fff;
+}
+
+.dropdown-submenu {
+	background-color: #fff;
+}
+
+@media all and (max-width: 38em) {
+
+ nav {
+  position: fixed;
+  top: 0;
+ }
+
+}
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus { /*adjust color of nav items*/
     color: #fff;
     background-color: rgba(0,0,0,.25);
@@ -243,3 +280,4 @@ video.fillWidth {
 #safteyPic{
 	padding-bottom: 5%;
 }
+

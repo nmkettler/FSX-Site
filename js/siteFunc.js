@@ -41,4 +41,16 @@ $('.dropdown').on('hide.bs.dropdown', function(e){
 });
 
 
+$(document).ready(function(){
+
+$('.carousel').carousel({                                    
+  interval: 2000 //changes the speed
+  })
+
+});
+
+
+
+
+
 

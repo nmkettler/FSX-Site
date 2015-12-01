@@ -23,9 +23,8 @@
 
 						Part #79-10X105 - DPF Cleaning Banner
 	                </p>
-	        </div>                                                                                
+	        </div>
+	</div>                                                                                
 </div>
-
-
 
 <?php include "footer.php" ?>

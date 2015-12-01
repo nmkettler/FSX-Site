@@ -14,7 +14,7 @@
         </head>
         <body>
  
-                <div class = "navbar navbar-default transparent navbar-fixed-top" id="mainNav">
+                <div class = "navbar navbar-default navbar-fixed-top" id="mainNav">
                         <div class = "container">
                                
                                 <a href="index.php" class="pull-left"><img src="css/fsxLogo.png" id="logo" height="60" width="80"></a>
@@ -189,23 +189,7 @@
                                                                     <span class="icon-next"></span>
                                                                 </a>
 
-                                                            </header>
-
-                                                            <!-- /.container -->
-                                                            <!--
-                                                            
-                                                            <script src="js/jquery.js"></script>
-
-                                                            
-                                                            <script src="js/bootstrap.min.js"></script>
-
-                                                            
-                                                            <script>
-                                                            $('.carousel').carousel({
-                                                                interval: 5000 //changes the speed
-                                                            })
-                                                            </script>
-                                                        -->
+                                                            </header>                                                           
                                                 </div>
                                         </div>
                        

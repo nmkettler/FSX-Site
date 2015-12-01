@@ -514,4 +514,6 @@
 	<span class="style7">Predecessor company becomes involved in cleaning industrial filters and manufactures dust collection equipment.</span><br><br>
    </div>
 </div>
+</div>
+</div>
 <?php include "footer.php" ?>
