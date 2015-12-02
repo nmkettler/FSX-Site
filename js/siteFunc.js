@@ -1,12 +1,30 @@
 //Scroll Bar color adjust
 
+$(document).ready(function(){       
+   var scroll_start = 0;
+   var startchange = $('.container');
+   var offset = startchange.offset();
+    if (startchange.length){
+   $(document).scroll(function() {
+      scroll_start = $(this).scrollTop();
+      if(scroll_start > offset.top) {
+          $(".navbar-default").css('background-color', 'gray');
+       } else {
+          $('.navbar-default').css('background-color', 'transparent');
+       }
+   });
+    }
+});
+
+
+/*
 $(document).scroll(function() {
   var dHeight = $(this).height()-$(window).height();
   if (dHeight >= $(this).scrollTop()) {
     $('.navbar-default').css('background', 'rgba(96,96,96,' + $(this).scrollTop() / dHeight + ')');
   }
 });
-
+*/
 //Newsfeed Buttons Show/Hide
 
 $(document).ready(function() {

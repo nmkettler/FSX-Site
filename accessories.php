@@ -191,17 +191,56 @@
                     <div class = "modal-header">
                         <button type="btn btn-default" class="close" data-dismiss="modal" aria-hidden="true">&times;                     
                         </button>
-                        <h2>Second</h2>
+                        <h2>CLOSED-END DOC ADAPTER PLATE</h2>
                     </div> 
                     <div class = "modal-body">
-                        <p>Content</p>
-                    </div>
-            
+                    <header id="myCarousel1" class="carousel slide">
+                                                                <!-- Indicators -->
+                                                                <ol class="carousel-indicators">
+                                                                    <li data-target="#myCarousel1" data-slide-to="0" class="active" ></li>
+                                                                    <li data-target="#myCarousel1" data-slide-to="1"></li>
+                                                                    <li data-target="#myCarousel1" data-slide-to="2"></li>
+                                                                </ol>
+
+                                                                <!-- Wrapper for Slides -->
+                                                                <div class="carousel-inner">
+                                                                    <div class="item active">
+                                                                        <!-- Set the first background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "img/web-DOC-adapterhq.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <!-- Set the second background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "img/enclosed-DOC-adapter-UP.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <!-- Set the second background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "img/enclosed-DOC-adapterhq.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                                                    </div>                                                                       
+                                                                </div>
+                                                                <!-- Controls -->
+                                                                <a class="left carousel-control" href="#myCarousel1" data-slide="prev">
+                                                                    <span class="icon-prev"></span>
+                                                                </a>
+                                                                <a class="right carousel-control" href="#myCarousel1" data-slide="next">
+                                                                    <span class="icon-next"></span>
+                                                                </a>
+
+                        </header>                                   
+                        <p class = "accCaro">
+                          A must-have accessory for Cummins, International, PACCAR, and Volvo Closed-End DOCs.</br></br>
+                          The adapter plate channels more vacuum to the upper cleaning chamber to compensate for
+                           the reduced flow through the small filter outlet. This adapter will prevent particulate
+                            from escaping out the top of the <a href = "trapblaster7.php">TrapBlaster ™ </a>during cleaning.</br></br>
+                            <strong>Note:</strong> Cleaning these type of DOCs may cause particulate to escape out of the top of the 
+                            TrapBlaster, so it is recommended that you don't clean these unless this adapter plate is used.</br>
+                            <strong>Note:</strong> Cleaning these closed-end DOCs is accomplished by using only the lower air nozzle.
+                        </p>
+                    </div>          
         </div>
       </div>
     </div> 
   </div>                                                                         
-</div>
+
  <!--Third Modal-->
         <div id="thirdModal" class= "modal fade" >
             <div class="modal-dialog">
@@ -212,7 +251,38 @@
                         <h2>KUBOTA OVAL ADAPTER PLATE™</h2>
                     </div> 
                     <div class = "modal-body">
-                        <img class = "featuredImg center-block" src = "img/ovalringHQ.jpg" width = "200px">                     
+                         <header id="myCarousel2" class="carousel slide">
+                                                                <!-- Indicators -->
+                                                                <ol class="carousel-indicators">
+                                                                    <li data-target="#myCarousel2" data-slide-to="0" class="active" ></li>
+                                                                    <li data-target="#myCarousel2" data-slide-to="1"></li>
+                                                                    <li data-target="#myCarousel2" data-slide-to="2"></li>
+                                                                </ol>
+
+                                                                <!-- Wrapper for Slides -->
+                                                                <div class="carousel-inner">
+                                                                    <div class="item active">
+                                                                        <!-- Set the first background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "products/ovalringHQ.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <!-- Set the second background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "products/ovalDPFonTTl.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <!-- Set the second background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "products/ovalringtrapblaster.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                                                    </div>                                                                       
+                                                                </div>
+                                                                <!-- Controls -->
+                                                                <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
+                                                                    <span class="icon-prev"></span>
+                                                                </a>
+                                                                <a class="right carousel-control" href="#myCarousel2" data-slide="next">
+                                                                    <span class="icon-next"></span>
+                                                                </a>
+
+                        </header>                                                       
                         <p>
                           A necessary accessory for cleaning and testing the Kubota Oval DPF.
                         </p> 
@@ -235,7 +305,33 @@
                         <h2>FSX TrapBurner Extension Rings</h2>
                     </div> 
                     <div class = "modal-body">
-                        <img class = "featuredImg center-block" src = "img/ExtRings.jpg">                     
+                        <header id="myCarousel3" class="carousel slide">
+                                                                <!-- Indicators -->
+                                                                <ol class="carousel-indicators">
+                                                                    <li data-target="#myCarousel3" data-slide-to="0" class="active" ></li>
+                                                                    <li data-target="#myCarousel3" data-slide-to="1"></li>                                                                   
+                                                                </ol>
+
+                                                                <!-- Wrapper for Slides -->
+                                                                <div class="carousel-inner">
+                                                                    <div class="item active">
+                                                                        <!-- Set the first background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "img/ExtRings.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                                                    </div>
+                                                                    <div class="item">
+                                                                        <!-- Set the second background image using inline CSS below. -->
+                                                                        <div class="fill"><a href = ""><img src = "products/ringsdisplay.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                                                    </div>                                                                    
+                                                                </div>
+                                                                <!-- Controls -->
+                                                                <a class="left carousel-control" href="#myCarousel3" data-slide="prev">
+                                                                    <span class="icon-prev"></span>
+                                                                </a>
+                                                                <a class="right carousel-control" href="#myCarousel3" data-slide="next">
+                                                                    <span class="icon-next"></span>
+                                                                </a>
+
+                        </header>                                                                
                         <p>
                           The FSX TrapBurner Extension Ring(s) adds additional height to your TrapBurner™ Kiln, 
                           allowing Stage 2 Thermal processing of larger height filters, or when combined with the
@@ -264,11 +360,43 @@
                     <div class = "modal-header">
                         <button type="btn btn-default" class="close" data-dismiss="modal" aria-hidden="true">&times;                     
                         </button>
-                        <h2>KUBOTA OVAL ADAPTER PLATE™</h2>
+                        <h2>FSX TRAPTONGS</h2>
                     </div> 
                     <div class = "modal-body">
                         <img class = "featuredImg center-block" src = "img/GSAAdvantage.jpg" width = "200px">
-                        <img class = "featuredImg center-block" src = "img/tongs.jpg" width = "200px">                     
+                        <header id="myCarousel4" class="carousel slide">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators">
+                                    <li data-target="#myCarousel4" data-slide-to="0" class="active" ></li>
+                                    <li data-target="#myCarousel4" data-slide-to="1"></li>
+                                    <li data-target="#myCarousel4" data-slide-to="2"></li>
+                                </ol>
+
+                                <!-- Wrapper for Slides -->
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <!-- Set the first background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "img/tongs.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>
+                                    <div class="item">
+                                        <!-- Set the second background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "products/tongs2L.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>
+                                    <div class="item">
+                                        <!-- Set the second background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "products/tonguseL.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>                                                                       
+                                </div>
+                                <!-- Controls -->
+                                <a class="left carousel-control" href="#myCarousel4" data-slide="prev">
+                                    <span class="icon-prev"></span>
+                                </a>
+                                <a class="right carousel-control" href="#myCarousel4" data-slide="next">
+                                    <span class="icon-next"></span>
+                                </a>
+
+                        </header>                             
+                                            
                         <p>
                           The FSX TrapTong™ is probably one of most labor-saving devices ever created
                            to assist in Thermal Cleaning Diesel Particulate Filters.</br></br>
@@ -299,11 +427,43 @@
                     <div class = "modal-header">
                         <button type="btn btn-default" class="close" data-dismiss="modal" aria-hidden="true">&times;                     
                         </button>
-                        <h2>KUBOTA OVAL ADAPTER PLATE™</h2>
+                        <h2>FSX FILTER RACKS</h2>
                     </div> 
                     <div class = "modal-body">
-                        <img class = "featuredImg center-block" src = "img/GSAAdvantage.jpg" width = "200px">
-                        <img class = "featuredImg center-block" src = "img/tongs.jpg" width = "200px">                     
+                      <img class = "featuredImg center-block" src = "img/GSAAdvantage.jpg" width = "200px">
+                      <header id="myCarousel5" class="carousel slide">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators">
+                                    <li data-target="#myCarousel5" data-slide-to="0" class="active" ></li>
+                                    <li data-target="#myCarousel5" data-slide-to="1"></li>
+                                    <li data-target="#myCarousel5" data-slide-to="2"></li>
+                                </ol>
+
+                                <!-- Wrapper for Slides -->
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <!-- Set the first background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "products/tonguseL.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>
+                                    <div class="item">
+                                        <!-- Set the second background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "products/rackS2L.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>
+                                    <div class="item">
+                                        <!-- Set the second background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "products/TBurner7-RackRing inside.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>                                                                       
+                                </div>
+                                <!-- Controls -->
+                                <a class="left carousel-control" href="#myCarousel5" data-slide="prev">
+                                    <span class="icon-prev"></span>
+                                </a>
+                                <a class="right carousel-control" href="#myCarousel5" data-slide="next">
+                                    <span class="icon-next"></span>
+                                </a>
+
+                        </header>                           
+                                                                   
                         <p>
                           The FSX Filter Rack is an add-on accessory that allows you to perform a Stage 2 
                           Thermal cleaning of two (2) standard size DPFs (17inches or shorter) at the same 
@@ -380,7 +540,6 @@
       </div>
     </div> 
   </div>
-
 <!--Ninth Modal-->
         <div id="ninthModal" class= "modal fade" >
             <div class="modal-dialog">
@@ -391,6 +550,7 @@
                         <h2>FSX TrapBlaster Curved Nozzle Kit</h2>
                     </div> 
                     <div class = "modal-body">
+
                         <img class = "featuredImg center-block" src = "img/GSAAdvantage.jpg" width = "200px">
                         <img class = "featuredImg center-block" src = "img/nozzelsm.jpg" width = "200px">                     
                         <p>
