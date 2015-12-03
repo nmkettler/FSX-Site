@@ -494,7 +494,33 @@
                     </div> 
                     <div class = "modal-body">
                         <img class = "featuredImg center-block" src = "img/GSAAdvantage.jpg" width = "200px">
-                        <img class = "featuredImg center-block" src = "img/sootsuckerfilter.jpg" width = "200px">                     
+                        <header id="myCarousel6" class="carousel slide">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators">
+                                    <li data-target="#myCarousel6" data-slide-to="0" class="active" ></li>
+                                    <li data-target="#myCarousel6" data-slide-to="1"></li>                                   
+                                </ol>
+
+                                <!-- Wrapper for Slides -->
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <!-- Set the first background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "img/sootsuckerfilter.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>
+                                    <div class="item">
+                                        <!-- Set the second background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "products/refiltersuperhq.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>                                                                                                       
+                                </div>
+                                <!-- Controls -->
+                                <a class="left carousel-control" href="#myCarousel6" data-slide="prev">
+                                    <span class="icon-prev"></span>
+                                </a>
+                                <a class="right carousel-control" href="#myCarousel6" data-slide="next">
+                                    <span class="icon-next"></span>
+                                </a>
+
+                        </header>                                               
                         <p>
                           The SootSucker 2 Paper Filters were designed for long life. 
                           One of the many advantages, both from an operation and an 
@@ -550,9 +576,39 @@
                         <h2>FSX TrapBlaster Curved Nozzle Kit</h2>
                     </div> 
                     <div class = "modal-body">
-
                         <img class = "featuredImg center-block" src = "img/GSAAdvantage.jpg" width = "200px">
-                        <img class = "featuredImg center-block" src = "img/nozzelsm.jpg" width = "200px">                     
+                        <header id="myCarousel7" class="carousel slide">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators">
+                                    <li data-target="#myCarousel7" data-slide-to="0" class="active" ></li>
+                                    <li data-target="#myCarousel7" data-slide-to="1"></li>
+                                    <li data-target="#myCarousel7" data-slide-to="2"></li>
+                                </ol>
+
+                                <!-- Wrapper for Slides -->
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <!-- Set the first background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "img/nozzelsm.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>
+                                    <div class="item">
+                                        <!-- Set the second background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "products/nozzleUseHQ.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>
+                                    <div class="item">
+                                        <!-- Set the second background image using inline CSS below. -->
+                                        <div class="fill"><a href = ""><img src = "products/nozzleUse2HQ.jpg" class="img-responsive center-block" alt="Responsive image" width= "200px"></a></div>
+                                    </div>                                                                       
+                                </div>
+                                <!-- Controls -->
+                                <a class="left carousel-control" href="#myCarousel7" data-slide="prev">
+                                    <span class="icon-prev"></span>
+                                </a>
+                                <a class="right carousel-control" href="#myCarousel7" data-slide="next">
+                                    <span class="icon-next"></span>
+                                </a>
+
+                        </header>                   
                         <p>
                           The FSX Curved Nozzle Kit is now avaliable for the following 
                           Navistar International DPF's:
