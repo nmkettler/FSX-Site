@@ -67,4 +67,6 @@ $('.carousel').carousel({
 
 });
 
-
+$(document).ready(function() {
+    $('#example').DataTable();
+} );
