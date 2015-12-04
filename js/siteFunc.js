@@ -66,7 +66,20 @@ $('.carousel').carousel({
   })
 
 });
+ //------data table for Baseline chart------ 
 
 $(document).ready(function() {
     $('#example').DataTable();
+} );
+
+$(document).ready(function() {
+    $('#example').DataTable( {
+        "dom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>'
+    } );
+} );
+
+$(document).ready(function() {
+    $('#example').DataTable( {
+        "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]
+    } );
 } );
