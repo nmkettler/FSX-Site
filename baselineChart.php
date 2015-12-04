@@ -133,6 +133,21 @@
 <div class = "container">
   <table id="example">
      <thead>
+        <tr valign="top">
+            <td width="37%" valign="middle">DPF Air Pressure Baseline <br>
+              Cleaning Range Mastersheet<span class="clear"></span><br>
+                As measured on FSX Trap Tester™
+                </td>
+                <td width="15%" valign="middle">Last Modified:      September 17, 2015 
+                </td> 
+                  <td width="25%" align="center" valign="top"><a href="FSXBaselineChart.pdf" target="_parent">Download Updated <br>
+                  <img src="img/pdf.jpg" width="42" height="42" alt="Baseline PDF"><br>
+                  Baseline Chart PDF</a></td>
+                  <td width="23%" align="center" valign="top">
+                  <a href="DPF_Cleaning_WorkSheet.pdf" target="_new">Download <br>      
+                  <img src="img/CleaningWorksheetSmall.jpg" alt="DPF Cleaning Worksheet" width="43" height="42"><br>
+                  DPF Cleaning Worksheet</a><a href="DPF_Cleaning_WorkSheet.pdf"> </a></td>
+                 </tr>
         <tr>
             <th>Manufacturer</th>
             <th>Part No.</th>
@@ -158,8 +173,8 @@
             <th>Red Tag (if above)</th>
         </tr>
     </tfoot>
-
             <tbody>
+
           <tr>
             <td style="width: 15%; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; text-align: left; color: rgb(0, 0, 0);">Caterpillar</td>
             <td style="width: 15%; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: rgb(0, 0, 0);">260-7807</td>
@@ -2332,13 +2347,20 @@
         </tbody>
 
         </table>
-        <div>
+        </div>
             <script type="text/javascript" charset="utf8" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.2.min.js"></script>
             <script type="text/javascript" charset="utf8" src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js"></script>
             <script>
             $(function(){
-              $("#example").dataTable();
-          })
+               $('#example').dataTable({
+                    aLengthMenu: [
+                        [25, 50, 100, 200, -1],
+                        [25, 50, 100, 200, "All"]
+                    ],
+                    iDisplayLength: -1
+                });
+               $('.dataTables_filter input').attr("placeholder", "Manufacturer/Part No.");
+              })
             </script>
 
             <footer class = "footer" id = "foot">

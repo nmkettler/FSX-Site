@@ -81,7 +81,7 @@
                                                         </ul>
                                                
                                                 </li>
-                                                <li><a href = "#contact" data-toggle = "modal">Contact</a></li>
+                                                <li><a href = "contact.php">Contact</a></li>
                                        
                                         </ul>
                                
