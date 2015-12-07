@@ -29,24 +29,26 @@
                                         <ul class = "nav navbar-nav navbar-right">
                                        
                                                 <li class = "active"><a href = "index.php">Home</a></li>
-                                                <li class = "dropdown">
+                                                 <li class = "dropdown">
                                                        
-                                                        <a href = "products.php" class = "dropdown-toggle" data-toggle = "dropdown">Products <b class = "caret"></b></a>
+                                                        <a href = "basepkg.php" class = "dropdown-toggle" data-toggle = "dropdown">Products <b class = "caret"></b></a>
                                                         <ul class = "dropdown-menu">
-                                                                <li class="dropdown-submenu">
-                                                                <a tabindex="-1" href="#">Complete Cleaning Package</a>
-                                                                <ul class="dropdown-menu">
-                                                                  <li><a href="bidSpecLang.php">Bid Specification</br> Language</a></li>
-                                                                  <li><a href="baselineChart.php">Baseline Chart</a></li>
-                                                                </ul>
-                                                              </li>
+                                                                <li><a href = "basepkg.php">Complete Cleaning Package</a></li>
                                                                 <li><a href = "trapblaster7.php">Trapblaster Pneumatic Cleaners</a></li>
                                                                 <li><a href = "trapburner7.php">Trapburner Thermal Cleaners</a></li>
                                                                 <li><a href = "traptester.php">Traptester Airflow Tester</a></li>
                                                                 <li><a href = "sootsucker2.php">Sootsucker 2 Dust Collector</a></li>
                                                                 <li><a href = "bannersposters.php">FSX Banners & Posters</a></li>
                                                                 <li><a href = "accessories.php">Accessories</a></li>
-                                                                <li><a href = "cleaningmanual.php">FSX Cleaning Manual</a></li>
+                                                                <li class="dropdown-submenu">
+                                                                <a tabindex="-1" href="basepkg.php">Extras</a>
+                                                                <ul class="dropdown-menu">
+                                                                  <li><a href="bidSpecLang.php">Bid Specification</br> Language</a></li>
+                                                                  <li><a href="baselineChart.php">Baseline Chart</a></li>
+                                                                  <li><a href = "cleaningmanual.php">FSX Cleaning Manual</a></li>
+                                                                </ul>
+                                                              </li>
+                                                                
                                                         </ul>
                                                
                                                 </li>
