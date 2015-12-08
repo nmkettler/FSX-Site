@@ -138,7 +138,7 @@
                                 <a href = "traptester.php" class = "list-group-item">
                                     <h4 class = "list-group-item-heading text-center">TrapTester</h4>
                                     <p class = "list-group-item-text">
-                                        <img class = "featuredImg" src = "http://fsxinc.com/site1/images/Products/TrapTester7.jpg" height = "200px">  
+                                        <img class = "featuredImg" src = "img/TrapTester7.jpg" height = "200px">  
                                     </p>
                                 </a>
                                 <a href = "#" class = "list-group-item text-center">
@@ -150,7 +150,7 @@
                                 <a href = "trapburner7.php" class = "list-group-item text-center">
                                 <h4 class = "list-group-item-heading">Trapburner</h4>
                                 <p class = "list-group-item-text">
-                                    <img class = "featuredImg" src = "http://fsxinc.com/site1/images/Products/kilm.jpg" height = "200px"> 
+                                    <img class = "featuredImg" src = "img/kilm.jpg" height = "200px"> 
                                 </p>
             </a>
                         </div>

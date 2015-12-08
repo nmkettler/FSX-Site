@@ -1,21 +1,25 @@
 //Scroll Bar color adjust
 
-$(document).ready(function(){       
-   var scroll_start = 0;
-   var startchange = $('.container');
-   var offset = startchange.offset();
-    if (startchange.length){
-   $(document).scroll(function() {
-      scroll_start = $(this).scrollTop();
-      if(scroll_start > offset.top) {
+$(document).ready(function() {
+  var scroll_start = 0;
+  var startchange = $('.container');
+  var offset = startchange.offset();
+  if ($(window).width() > 768) {
+    if (startchange.length) {
+      $(document).scroll(function() {
+        scroll_start = $(this).scrollTop();
+        if (scroll_start > offset.top) {
           $(".navbar-default").css('background-color', 'gray');
-       } else {
+        } else {
           $('.navbar-default').css('background-color', 'transparent');
-       }
-   });
+        }
+      });
     }
-});
+  } else {
+    $('.navbar-default').css('background-color', 'gray');
+  }
 
+});
 
 /*
 $(document).scroll(function() {
@@ -58,6 +62,7 @@ $('.dropdown').on('hide.bs.dropdown', function(e){
 
 });
 
+//---------Carousel--------//
 
 $(document).ready(function(){
 
@@ -66,6 +71,7 @@ $('.carousel').carousel({
   })
 
 });
+
  //------data table for Baseline chart------ 
 
 $(document).ready(function() {
@@ -92,4 +98,7 @@ $(document).ready(function() {
         }
     } );
 } );
+
+
+
 

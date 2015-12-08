@@ -100,7 +100,7 @@
                         <source src="img/FSXDPFCleaningEquipment.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
                     </video>-->
 
-
+      </div>
       <div class="container">
         <div class="row">
 
@@ -148,7 +148,6 @@
 
         <hr>
         <div class="container">
-
           <div class="jumbotron">
             <!-- Full Page Image Background Carousel Header -->
             <header id="myCarousel" class="carousel slide">
@@ -238,4 +237,6 @@
           </div>
         </div>
       </div>
+
+
       <?php include "footer.php" ?>

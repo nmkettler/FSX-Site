@@ -7,6 +7,7 @@
 		    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0PVSz-F2x6A"></iframe>
 		</div>
 		
+		<a href = "videoindex.php">Index page with video</a>
 	</div>
-</div>
+
 <?php include "footer.php" ?>
