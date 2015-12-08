@@ -135,10 +135,10 @@
                                         <img class = "featuredImg" src = "img/trapblaster.jpg" height = "200px"> 
                                     </p>
                                 </a>
-                                <a href = "#" class = "list-group-item">
+                                <a href = "traptester.php" class = "list-group-item">
                                     <h4 class = "list-group-item-heading text-center">TrapTester</h4>
                                     <p class = "list-group-item-text">
-                                        <img class = "featuredImg" src = "http://fsxinc.com/site1/images/Products/TrapTester7.jpg" height = "200px"> 
+                                        <img class = "featuredImg" src = "http://fsxinc.com/site1/images/Products/TrapTester7.jpg" height = "200px">  
                                     </p>
                                 </a>
                                 <a href = "#" class = "list-group-item text-center">

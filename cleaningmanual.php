@@ -65,19 +65,19 @@
 
     <div class = "col-md-3">
     	<div class = "list-group">
-    		<a href = "trapblaster7.php" class = "list-group-item text-center">
+    		<a href = "basepkg.php" class = "list-group-item text-center">
     			<h4 class = "list-group-item-heading">Full System</h4>
     			<p class = "list-group-item-text">
     				<img class = "featuredImg" src = "img/FSX_dealer_package.jpg" height = "150px"> 
     			</p>
     		</a>
-    		<a href = "#" class = "list-group-item">
+    		<a href = "trapblaster7.php" class = "list-group-item">
     			<h4 class = "list-group-item-heading text-center">TrapBlaster</h4>
     			<p class = "list-group-item-text">
     				<img class = "featuredImg center-block" src = "img/trapblaster.jpg" height = "200px"> 
     			</p>
     		</a>
-    		<a href = "#" class = "list-group-item text-center">
+    		<a href = "sootsucker2.php" class = "list-group-item text-center">
     			<h4 class = "list-group-item-heading">SootSucker</h4>
     			<p class = "list-group-item-text">
     				<img class = "featuredImg" src = "img/sootsucker25.jpg" height = "200px"> 

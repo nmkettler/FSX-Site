@@ -75,13 +75,13 @@
     				<img class = "featuredImg" src = "img/trapblaster.jpg" height = "200px"> 
     			</p>
     		</a>
-    		<a href = "#" class = "list-group-item">
+    		<a href = "trapburner7.php" class = "list-group-item">
     			<h4 class = "list-group-item-heading text-center">TrapBurner</h4>
     			<p class = "list-group-item-text">
     				<img class = "featuredImg" src = "img/kilm.jpg" height = "200px"> 
     			</p>
     		</a>
-    		<a href = "#" class = "list-group-item text-center">
+    		<a href = "traptester.php" class = "list-group-item text-center">
     			<h4 class = "list-group-item-heading">TrapTester</h4>
     			<p class = "list-group-item-text">
     				<img class = "featuredImg" src = "http://fsxinc.com/site1/images/Products/TrapTester7.jpg" height = "200px"> 
