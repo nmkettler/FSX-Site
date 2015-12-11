@@ -1,10 +1,10 @@
 <?php include "header.php" ?>
 
-<!-- First Row -->
-<div class = "container">
-  <div class = "row" id = "inspecChart">
-    <div class = "col-md-6" id = "inspecChart1">            
-            <h3 class = "text-center"><strong>Trap Tester Flow Reduction Adapter</strong></h4>
+  <!-- First Row -->
+  <div class="container">
+    <div class="row" id="inspecChart">
+      <div class="col-md-6" id="inspecChart1">
+        <h3 class="text-center"><strong>Trap Tester Flow Reduction Adapter</strong></h4>
               <div class = "row" id = "internalChart">
                 <div class = "col-md-6">
                   <a href = "#firstModal" data-toggle = "modal" data-target = "#firstModal"><img class = "featuredImg center-block pull-left" src = "img/flow-adapter.jpg"> </a>                

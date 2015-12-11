@@ -41,7 +41,7 @@
                                                                 <li><a href = "bannersposters.php">FSX Banners & Posters</a></li>
                                                                 <li><a href = "accessories.php">Accessories</a></li>
                                                                 <li class="dropdown-submenu">
-                                                                <a tabindex="-1" href="basepkg.php">Extras</a>
+                                                                <a tabindex="-1" href="#">Extras</a>
                                                                 <ul class="dropdown-menu">
                                                                   <li><a href="bidSpecLang.php">Bid Specification</br> Language</a></li>
                                                                   <li><a href="baselineChart.php">Baseline Chart</a></li>

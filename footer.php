@@ -19,7 +19,13 @@
                 <script src = "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
                 <script src = "js/bootstrap.js"></script>
                
+
         </body>
+        <span id="top-link-block" class="hidden">
+                  <a href="#top" class="well well-sm"  onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
+                      <i class="glyphicon glyphicon-chevron-up"></i> Back to Top
+                  </a>
+              </span><!-- /top-link-block -->
 </html>
 
 

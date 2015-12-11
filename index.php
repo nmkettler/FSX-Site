@@ -8,6 +8,9 @@
     <meta name="author" content="">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/demo.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
     <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
     <script type="text/javascript" src="js/siteFunc.js"></script>
@@ -44,7 +47,7 @@
                 <li><a href="bannersposters.php">FSX Banners & Posters</a></li>
                 <li><a href="accessories.php">Accessories</a></li>
                 <li class="dropdown-submenu">
-                  <a tabindex="-1" href="basepkg.php">Extras</a>
+                  <a tabindex="-1" href="#">Extras</a>
                   <ul class="dropdown-menu">
                     <li><a href="bidSpecLang.php">Bid Specification</br> Language</a></li>
                     <li><a href="baselineChart.php">Baseline Chart</a></li>
@@ -71,7 +74,7 @@
                 <li><a href="reccSafteyEquip.php">Recommended Saftey Equipment</a></li>
                 <li><a href="sootashdisposal.php">Soot & Ash Disposal</a></li>
                 <li><a href="dpfashcompo.php">DPF Ash Composition</a></li>
-                <li><a href="sdsdiesalsoot">SDS of Diesel Soot & Ash</a></li>
+                <li><a href="sdsdiesalsoot.php">SDS of Diesel Soot & Ash</a></li>
               </ul>
 
             </li>
@@ -107,7 +110,7 @@
           <div class="col-md-4">
 
             <h2>FSX DPF CLEANING EQUIPMENT</h2>
-            <p class="">Our DPF cleaners and test bench were proven in our own cleaning operations long before they were released to market. We make sure that buyers of FSX DPF cleaning equipment have the same machines that are utilized in on our own shops. The FSX
+            <p>Our DPF cleaners and test bench were proven in our own cleaning operations long before they were released to market. We make sure that buyers of FSX DPF cleaning equipment have the same machines that are utilized in on our own shops. The FSX
               Diesel Particulate Filter cleaning equipment equates to quality.
             </p>
           </div>
@@ -139,66 +142,23 @@
             <a href="specials.php"><h3 class = "muted" id = "specialMute">Click to see our Current Specials</h3></a>
           </div>
           <div class="col-md-5 text-center">
-            <img src="http://www.excalibretech.com/Content/Images/uploaded/IMG_2833_FSX.jpg" alt="placeholder" class="featurette-image img-responsive">
+            <a class = "thumbnail" href = "basepkg.php"><img src="img/baspkgimg.png" class="featurette-image img-responsive" id = "baspkgimg" width="400"></a>
           </div>
-          <a class="btn btn-default">FSX Equipment</a>
-          <a class="btn btn-default">FSX DPF Cleaning</a>
-          <a class="btn btn-default">FSX DPF & DOC Recycling</a>
+          <a class="btn btn-warning" href = "index.php">
+            <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
+            FSX Equipment
+          </a>
+          <a class="btn btn-warning">
+            <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
+            FSX DPF Cleaning
+          </a>
+          <a class="btn btn-warning">
+            <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
+            FSX DPF & DOC Recycling
+          </a>
         </div>
 
         <hr>
-        <div class="container">
-          <div class="jumbotron">
-            <!-- Full Page Image Background Carousel Header -->
-            <header id="myCarousel" class="carousel slide">
-              <!-- Indicators -->
-              <ol class="carousel-indicators">
-                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                <li data-target="#myCarousel" data-slide-to="1"></li>
-                <li data-target="#myCarousel" data-slide-to="2"></li>
-                <li data-target="#myCarousel" data-slide-to="3"></li>
-              </ol>
-
-              <!-- Wrapper for Slides -->
-              <div class="carousel-inner">
-                <div class="item active">
-                  <!-- Set the first background image using inline CSS below. -->
-                  <div class="fill">
-                    <a href="specials.php"><img src="img/special_offer_fsx.png" class="img-responsive center-block" alt="Responsive image"></a>
-                  </div>
-                </div>
-                <div class="item">
-                  <!-- Set the second background image using inline CSS below. -->
-                  <div class="fill">
-                    <a href=""><img src="img/oem_tested_slide.png" class="img-responsive center-block" alt="Responsive image"></a>
-                  </div>
-                </div>
-                <div class="item">
-                  <!-- Set the third background image using inline CSS below. -->
-                  <div class="fill">
-                    <a href="products.php"><img src="img/dpf_cleaning_system.png" class="img-responsive center-block" alt="Responsive image"></a>
-                  </div>
-                </div>
-                <div class="item">
-                  <!-- Set the third background image using inline CSS below. -->
-                  <div class="fill">
-                    <a href=""><img src="img/find_fsx.png" class="img-responsive center-block" alt="Responsive image"></a>
-                  </div>
-                </div>
-              </div>
-              <!-- Controls -->
-              <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                <span class="icon-prev"></span>
-              </a>
-              <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                <span class="icon-next"></span>
-              </a>
-
-            </header>
-          </div>
-        </div>
-
-      </div>
 
       <div class="modal fade" id="contact" role="dialog">
         <div class="modal-dialog">
@@ -237,6 +197,91 @@
           </div>
         </div>
       </div>
+<div class="container main-container">
+  <div id="carousel-example-generic" class="carousel slide">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+      <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+      <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+      <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    </ol>
 
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+    
+      <!-- First slide -->
+      <div class="item active deepskyblue">
+        
+        <div class="carousel-caption">
+          <h1 data-animation="animated bounceInLeft" id = "midText">
+            Check out our Specials           
+          </h3>
+          <h3 data-animation="animated bounceInRight">
+            
+          </h3>
+          <a href = "specials.php"><button class="btn btn-primary btn-lg" data-animation="animated zoomInUp">View More</button></a>
+        </div>
+      </div> <!-- /.item -->
+      
+      <!-- Second slide -->
+      <div class="item skyblue">
+       <div class="carousel-caption">
+          <h1 data-animation="animated bounceInLeft" id = "midText">
+            OEM Tested and Approved           
+          </h3>
+          <h3 data-animation="animated bounceInRight">
+            
+          </h3>
+          <a href = "cleaningcomparison.php"><button class="btn btn-primary btn-lg" data-animation="animated zoomInUp">View More</button></a>
+        </div>
+      </div><!-- /.item -->
+      
+      <!-- Third slide -->
+      <div class="item darkerskyblue">
+        <div class="carousel-caption">
+          
+          <h3 data-animation="animated flipInX" >
+            <h2 class = "midtext">Complete DPF Cleaning System</h2> 
+          </h3>
+          <a href = "basepkg.php"><button class="btn btn-primary btn-lg" data-animation="animated lightSpeedIn">View More</button></a>
+        </div>
+      </div><!-- /.item -->
+
+      <!-- Fourth slide -->
+      <div class="item darkerskyblue">
+        <div class="carousel-caption">
+          <h3 data-animation="animated flipInX" id = "midText">
+            <h2 class = "midtext">Find Us</h2> 
+          </h3>
+          <a href = "contact.php"><button class="btn btn-primary btn-lg" data-animation="animated lightSpeedIn">View More</button></a>
+        </div>
+      </div><!-- /.item -->
+    
+    </div><!-- /.carousel-inner -->
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div><!-- /.carousel -->
+
+</div><!-- /.container -->
+</div>
+    
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script><!-- When not commented out menu stops working-->
+    <!-- Demo scripts -->
+    <script src="js/demo.js"></script>
 
       <?php include "footer.php" ?>
+

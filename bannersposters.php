@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 
 <div class = "container">
-	<h2>FSX BANNERS & POSTERS</h2>
+	<h2 class = "text-center">FSX BANNERS & POSTERS</h2>
 	<div class = "row" id = "inspecChart">
 	    
 	        <div class = "col-md-6" id = "inspecChart1">	

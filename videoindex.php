@@ -96,7 +96,7 @@
     <div class="widewrapper_main">
       <div class="video-container">
         <div class="title-container">
-          <div class="headline">
+          <div class="headline" >
             <h1>Welcome to FSX</h1>
           </div>
           <div class="description">
@@ -108,10 +108,8 @@
         <video loop muted autoplay class="fillWidth">
           <source src="img/FSXDPFCleaningEquipment.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
         </video>
-        <div class="poster hidden">
-          
+        <div class="poster hidden">        
             <img src="cleaning1.png" class="img-responsive" alt="Responsive image">
-
             </div>
              
       </div>

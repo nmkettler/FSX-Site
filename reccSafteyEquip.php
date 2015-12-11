@@ -51,24 +51,24 @@
 						 the cleaning of your DPFs a more effiicient process, improves worker safety, and
 						  allows you to process more DPFs in a given space while maintaining the highest 
 						  processing quality. Below are some of the items you may wish to consider to 
-						  make your shop as productive, safe, and efficien<a href="../Products/SootSucker2.html">
+						  make your shop as productive, safe, and efficien<a href="sootsucker2.php">
 						  <img src="img/SootSuckerS.jpg" alt="FSX SootSucker" width="108" height="170" align="right"></a>t as possible.
 						</p>
 						<ol>
 		                <li><strong>High quality dust collection system</strong> -The proper dust collection system will 
 		                	not only efficiently gather the cleaning byproducts, but will also prevent material from entering
 		                	 the dust collector exhaust stream and discharging it outside or back into the shop. FSX dust collectors,
-		                	  such as the <a href="../Products/SootSucker2.html">SootSucker 2</a>,    
+		                	  such as the <a href="sootsucker2.php">SootSucker 2</a>,    
 		                	  has been designed to handle the flow of  particulate coming out of the FSX TrapBlaster. 
 		                	  Special focus was concentrated on  maximizing the life of the internal paper filters, lowering 
 		                	  your consumables  cost and exposure to Particulate Matter (PM).<br>
 		                  <br>
 		                </li>
-		                <li><strong>Overhead cranes or jib booms with an electric hoist and <a href="../Products/tongs.html">FSX TrapTongs</a></strong> - <br>
+		                <li><strong>Overhead cranes or jib booms with an electric hoist and <a href = "#fifthModal" data-toggle = "modal" data-target = "#fifthModal"></strong> - <br>
 		                  <strong><a href = "#fifthModal" data-toggle = "modal" data-target = "#fifthModal"><img src="img/tongsM.jpg" alt="FSX TrapTongs" width="91" height="140" align="left"></a></strong>
 		                  This solution can behuge improvement to your operation in a number of ways. DPFs are heavy - some
 		                  <img src="img/tonguseS.jpg" alt="" width="90" height="98" align="right"> wieghing over 70 lbs. Using a crane
-		                   or jib boom with a winch and <a href="img/tongs.html">TrapTongs</a> prevents injuries, protects your TrapBurner kiln,
+		                   or jib boom with a winch and <a href = "#fifthModal" data-toggle = "modal" data-target = "#fifthModal">TrapTongs</a> prevents injuries, protects your TrapBurner kiln,
 		                    and protects your customer filters from inadvertent damage during handling.<br>
 		                  <br>
 		                  <img src="img/rollcart.jpg" alt="Roll cart" width="110" height="158" align="right"><br>

@@ -1,0 +1,66 @@
+
+
+.skyblue {
+	background-color: #ffff00;
+}
+.deepskyblue {
+	background-color: #ffff00;
+}
+.darkerskyblue {
+	background-color: #ffff00;
+}
+.carousel-indicators {
+	bottom: 0;
+}
+.carousel-control.right,
+.carousel-control.left {
+	background-image: none;
+}
+.carousel .item {
+	min-height: 350px; 
+	height: 100%;
+	width:100%; 
+}
+.carousel-caption h3,
+.carousel .icon-container,
+.carousel-caption button {
+	
+}
+.carousel-caption h3 {
+	
+}
+.carousel .icon-container {
+	display: inline-block;
+	font-size: 25px;
+	line-height: 25px;
+	padding: 1em;
+	text-align: center;
+	border-radius: 50%;
+
+}
+.carousel-caption button {
+	border-color: #00bfff;
+	margin-top: 1em; 
+}
+
+/* Animation delays */
+.carousel-caption h3:first-child {
+	-webkit-animation-delay: 3s;
+	animation-delay: 1s;
+}
+.carousel-caption h3:nth-child(2) {
+	-webkit-animation-delay: 3s;
+	animation-delay: 1s;
+}
+.carousel-caption button {
+	-webkit-animation-delay: 3s;
+	animation-delay: 1s;
+}
+#midText{
+	color: #990000;
+	font-size: 50px;
+}
+.midtext{
+	font-size: 50px;
+	color: #990000;
+}

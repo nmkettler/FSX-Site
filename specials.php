@@ -4,7 +4,7 @@
 	<div class = "row">
 		<div class = "col-md-12">
 			<div class = "jumbotron">
-				<img class = "featuredImg center-block" src = "img/offerbig.jpg"> 
+				<img class = "featuredImg img-responsive center-block" src = "img/offerbig.jpg"> 
 
 				<h3><strong>DISCOUNTED LIKE-NEW SYSTEMS INSTALLED IN SHIPPING CONTAINERS</strong></h3>
 
