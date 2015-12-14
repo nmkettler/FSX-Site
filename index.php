@@ -34,7 +34,7 @@
 
           <ul class="nav navbar-nav navbar-right">
 
-            <li class="active"><a href="index.php">Home</a></li>
+            <li class=""><a href="index.php">Home</a></li>
             <li class="dropdown">
 
               <a href="basepkg.php" class="dropdown-toggle" data-toggle="dropdown">Products <b class = "caret"></b></a>
