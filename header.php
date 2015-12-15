@@ -8,7 +8,6 @@
                 <link href = "css/bootstrap.min.css" rel = "stylesheet">
                 <link href = "css/style.css" rel = "stylesheet">
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-                <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
                 <script type="text/javascript" src="js/siteFunc.js"></script>
         </head>
         <body data-spy="scroll" data-target="#navbar-example">

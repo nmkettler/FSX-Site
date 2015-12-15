@@ -12,7 +12,7 @@
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="css/demo.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+    
     <script type="text/javascript" src="js/siteFunc.js"></script>
 
   </head>
@@ -96,8 +96,8 @@
 
       </div>
     </div>
-    <div class="widewrapper_main">
-      <img src="cleaning1.png" class="img-responsive" alt="Responsive image">
+      <div class="widewrapper_main">
+      <img src="cleaning1.png" class="img-responsive" id = "homeImg" alt="Responsive image">
       <!-- class = "img-responsive" alt = "Responsive image" to make image responsive-->
       <!--<video autoplay loop class="fillWidth">
                         <source src="img/FSXDPFCleaningEquipment.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
@@ -144,18 +144,27 @@
           <div class="col-md-5 text-center">
             <a class = "thumbnail" href = "basepkg.php"><img src="img/baspkgimg.png" class="featurette-image img-responsive" id = "baspkgimg" width="400"></a>
           </div>
-          <a class="btn btn-warning" href = "index.php">
-            <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
-            FSX Equipment
-          </a>
-          <a class="btn btn-warning">
-            <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
-            FSX DPF Cleaning
-          </a>
-          <a class="btn btn-warning">
-            <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
-            FSX DPF & DOC Recycling
-          </a>
+          <div class = "row">
+              <div class = "col-md-4">
+                <a class="btn btn-warning" href = "index.php">
+              <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
+              FSX Equipment
+            </a>
+              </div>
+              <div class = "col-md-4">
+                <a class="btn btn-warning">
+              <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
+              FSX DPF Cleaning
+            </a>
+              </div>
+              <div class = "col-md-4">
+                <a class="btn btn-warning">
+              <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
+              FSX DPF & DOC Recycling
+            </a>
+              </div>
+          </div>
+              
         </div>
 
         <hr>

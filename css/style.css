@@ -24,13 +24,20 @@ body {
   margin-top: 5%;
   width: 100%;
 } 
+#descText a{
+	color:white;
+}
 /*---------Nav Menu---------*/
 
-.navbar-default { background-color: rgba(96,96,96,96); } /*--change color of mobile menu while full screen is transparent*/
+.navbar-default { 
+	background-color: rgba(96,96,96,96); 
+
+	} /*--change color of mobile menu while full screen is transparent*/
      @media only screen and (min-width : 768px) {
         .navbar-default { 
             background-color: transparent; 
         }
+      
      }
 
 .dropdown-menu li{
@@ -48,8 +55,12 @@ body {
   top: 0;
 
  }
-
+ #homeImg{ 			/*Pushes Main picture down when screen is small*/
+ 	padding-top: 10%;
+ }
 }
+
+
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus { /*adjust color of nav items*/
     color: white;/*#939393*/
     font-family: "Avenir Next W01","Avenir Next",Arial,Helvetica,sans-serif;

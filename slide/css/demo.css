@@ -49,12 +49,12 @@ body {
 
 /* Animation delays */
 .carousel-caption h3:first-child {
-	-webkit-animation-delay: 1s;
-	animation-delay: 1s;
+	-webkit-animation-delay: 3s;
+	animation-delay: 3s;
 }
 .carousel-caption h3:nth-child(2) {
-	-webkit-animation-delay: 2s;
-	animation-delay: 2s;
+	-webkit-animation-delay: 3s;
+	animation-delay: 3s;
 }
 .carousel-caption button {
 	-webkit-animation-delay: 3s;
