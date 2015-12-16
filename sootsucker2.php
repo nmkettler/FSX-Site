@@ -9,14 +9,14 @@
     </div>
 
     <div class = "col-md-6">
-             <h2 class = "">FSX SootSucker™</br>
+             <h2 class = "">FSX SootSucker™<br>
 							Dust Collector</h2>
                     <li>Captures diesel particulate released from Diesel Particulate Filters (DPF) being cleaned using the FSX TrapBlaster™ Pneumatic Cleaner</li>
 					<li>Automatic online self-cleaning cycle pulses dust out of internal filters to drop into the bottom Quick-Release Bucket™ while operating.</li>
 					<li>Two stage filtration</li>
 					<li>Duct connection and air jumper hose included to connect to the TrapBlaster™ Pneumatic Cleaner.</li>
-					<li>Only for use with the <a href = "trapblaster7.php">FSX TrapBlaster™ Pneumatic Cleaner.</a></li></br>
-					      Contact <a href="mailto:sales@fsx.com" target="_top">Sales</a> to order your FSX TrapBurner™ today!</br></br>
+					<li>Only for use with the <a href = "trapblaster7.php">FSX TrapBlaster™ Pneumatic Cleaner.</a></li><br>
+					      Contact <a href="mailto:sales@fsx.com" target="_top">Sales</a> to order your FSX TrapBurner™ today!<br><br>
             </p>
 			    <ul class="nav nav-tabs">
 			    <li class="active"><a data-toggle="tab" href="#features">Features</a></li>
@@ -57,8 +57,8 @@
 			    <div id="menu2" class="tab-pane fade">
 			      <h3>Requirements</h3>
 			      <p>
-			      	<strong><a href = "trapblaster7.php">FSX TrapBlaster™ Pneumatic Cleaner.</a></strong></br></br>
-			      	<strong>Ancillary equipment needed or suggested: </br></strong>
+			      	<strong><a href = "trapblaster7.php">FSX TrapBlaster™ Pneumatic Cleaner.</a></strong><br><br>
+			      	<strong>Ancillary equipment needed or suggested: <br></strong>
 					<li>Duct for venting outdoors if needed to eliminate smells.</li>
 					<li>Electrical and air connections.</li>
 				</p>

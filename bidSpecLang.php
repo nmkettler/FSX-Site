@@ -6,9 +6,9 @@
                         <div class = "col-lg-9">
                        		<div class = "jumbotron">
                        			
-                       			<strong><h2>BID SPECIFICATION LANGUAGE</h2></strong></br>
+                       			<strong><h2>BID SPECIFICATION LANGUAGE</h2></strong><br>
 
-								<strong>A. Stage 1 Pneumatic Cleaning Machine (TrapBlaster) must have:</strong></br></br>
+								<strong>A. Stage 1 Pneumatic Cleaning Machine (TrapBlaster) must have:</strong><br><br>
 
 								<li>Bi-directional cleaning for DPFs and DOCs (catalyst)</li>
 								<li>Dual scanning air knives with a minimum of 120 CFM or 3400 liters per minute/ 100 PSI or 7 Bar dry air delivered to TrapBlaster addressing both ends of the DPF simultaneously</li> 
@@ -23,8 +23,8 @@
 								<li>The nozzle travel distance shall be 14" and can be used on either radius or diameter</li>
 								<li>An adjustable nozzle system that allows cleaning under filter flanges and into recessed cavities</li>
 								<li>Electronically controlled adjustment for DPF height</li>
-								<li>Variable speed rotation of the DPF during the cleaning cycle</li></br>
-								<strong>B. Stage 2 Thermal Regeneration (TrapBurner) must have:</strong></br></br>
+								<li>Variable speed rotation of the DPF during the cleaning cycle</li><br>
+								<strong>B. Stage 2 Thermal Regeneration (TrapBurner) must have:</strong><br><br>
 
 								<li>Pre-programmed and reprogrammable controller that can be adjusted by the contractor</li>
 								<li>Pre-programmed bake cycles that meet OEM specifications</li>
@@ -32,14 +32,14 @@
 								<li>Expandable to accommodate two or three DPF per bake cycle</li>
 								<li>Fume collection duct to remote dust collector</li>
 								<li>One-touch program selection</li>
-								<li>Top loading to allow for use of overhead jib boom or crane</li></br>
-								<strong>C. Testing and Certification Equipment (TrapTester) must have:</strong></br></br>
+								<li>Top loading to allow for use of overhead jib boom or crane</li><br>
+								<strong>C. Testing and Certification Equipment (TrapTester) must have:</strong><br><br>
 
 								<li>Test flow bench shall have a minimum airflow of 850 CFM</li>
 								<li>Measurement shall be in inches of water column (w.g.) of pressure across the DPF</li>
 								<li>Published baselines of most DPF's on the market for comparison during the testing</li>
-								<li>Established flow criteria to determine when a DPF is completed or if it needs Stage 2 cleaning</li></br>
-								<strong>D. Dust Collection System (SootSucker) must have:</strong></br></br>
+								<li>Established flow criteria to determine when a DPF is completed or if it needs Stage 2 cleaning</li><br>
+								<strong>D. Dust Collection System (SootSucker) must have:</strong><br><br>
 
 								<li>Two-stage filtration system that includes a primary and HEPA filter</li>
 								<li>Minimum of 1400 CFM with new filters</li>

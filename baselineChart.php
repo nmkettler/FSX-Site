@@ -46,7 +46,7 @@
                               <li class="dropdown-submenu">
                               <a tabindex="-1" href="#">Extras</a>
                               <ul class="dropdown-menu">
-                                <li><a href="bidSpecLang.php">Bid Specification</br> Language</a></li>
+                                <li><a href="bidSpecLang.php">Bid Specification<br> Language</a></li>
                                 <li><a href="baselineChart.php">Baseline Chart</a></li>
                                 <li><a href = "cleaningmanual.php">FSX Cleaning Manual</a></li>
                               </ul>
@@ -2366,8 +2366,8 @@
 
                 <div class = "container">
                     <p class = "navbar-text pull-left text-center" id = "descText" >FSX Equipment Inc. 
-                        || 10404 Mountain Loop Highway Granite Falls, WA 98252-1617 || 360-691-2999</br>
-                        © Copyright FSX Incorporated 2008-2015, All Rights Reserved</br>
+                        || 10404 Mountain Loop Highway Granite Falls, WA 98252-1617 || 360-691-2999<br>
+                        © Copyright FSX Incorporated 2008-2015, All Rights Reserved<br>
                         <a href="index.html">Home </a> |  <a href="site1/ContactUs.html">Contact</a> 
                         |  <a href="site1/pressArchives.html">News</a> | <a href="site1/Products/products.html">Products</a> |
                         <a href="site1/Competition/compare.html">Competitive Comparison </a>| <a href="site1/EnvNSafety/EnvHome.html">Enviromental &amp; Safety </a>|

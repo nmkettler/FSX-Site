@@ -8,13 +8,13 @@
     </div>
 
     <div class = "col-md-6">
-             <h2 class = "">FSX TrapBurner™ </br>
+             <h2 class = "">FSX TrapBurner™ <br>
 							Thermal DPF Cleaner</h2>
-            <p class = "">The TrapBurner™ Thermal Cleaner provides a programmed, regulated thermal regeneration of troublesome filters without cracking or damage.</br></br>
-						  Programmable Logic Controller allows for easy program adjustments, with pre-loaded programs matching manufacturer specifications for Cordierite, Silicon Carbide, and sintered metal filters.</br></br>
-					      Designed for medium volume users, the TrapBurner™ can process 1 DPF every 12 hours, up to 24" long and 18" in diameter.</br></br>
-					      Top loading for use with overhead crane.</br></br>
-					      Contact <a href="mailto:sales@fsx.com" target="_top">Sales</a> to order your FSX TrapBurner™ today!</br></br>
+            <p class = "">The TrapBurner™ Thermal Cleaner provides a programmed, regulated thermal regeneration of troublesome filters without cracking or damage.<br><br>
+						  Programmable Logic Controller allows for easy program adjustments, with pre-loaded programs matching manufacturer specifications for Cordierite, Silicon Carbide, and sintered metal filters.<br><br>
+					      Designed for medium volume users, the TrapBurner™ can process 1 DPF every 12 hours, up to 24" long and 18" in diameter.<br><br>
+					      Top loading for use with overhead crane.<br><br>
+					      Contact <a href="mailto:sales@fsx.com" target="_top">Sales</a> to order your FSX TrapBurner™ today!<br><br>
             </p>
 			    <ul class="nav nav-tabs">
 			    <li class="active"><a data-toggle="tab" href="#features">Features</a></li>
@@ -26,19 +26,19 @@
 			    <div id="features" class="tab-pane fade in active">
 			      <h3>Features</h3>
 			      <p>
-			      	<li>The TrapBurner™ Thermal Cleaner provides a programmed, regulated thermal regeneration of troublesome filters without cracking or damage.</li></br>
+			      	<li>The TrapBurner™ Thermal Cleaner provides a programmed, regulated thermal regeneration of troublesome filters without cracking or damage.</li><br>
 
-					<li>Programmable Logic Controller allows for easy program adjustments, with pre-loaded programs matching manufacturer specifications for Cordierite, Silicon Carbide, and sintered metal filters.</li></br>
+					<li>Programmable Logic Controller allows for easy program adjustments, with pre-loaded programs matching manufacturer specifications for Cordierite, Silicon Carbide, and sintered metal filters.</li><br>
 
 					<li>Designed for medium volume users, the TrapBurner™ can process 1 DPF every 12 hours, up to 24" long and 18" in diameter.
-					TrapBurner™ is easily expandable with our optional Extension Rings and Internal Filter Racks. Fully configured the TrapBurner™ can process up to 3 standard size class 8 filters every 24 hours, or a larger filter up to 39" long.</li></br>
+					TrapBurner™ is easily expandable with our optional Extension Rings and Internal Filter Racks. Fully configured the TrapBurner™ can process up to 3 standard size class 8 filters every 24 hours, or a larger filter up to 39" long.</li><br>
 
-					<li>Top loading for use with overhead crane.</li></br>
+					<li>Top loading for use with overhead crane.</li><br>
 
-					<li>Simple controls</li></br>
+					<li>Simple controls</li><br>
 
-					<li>Simple and reliable; uses only ambient air.</li></br>
-					<li>Cycle time typically 9 hours; allow 12 with cooling</li></br>
+					<li>Simple and reliable; uses only ambient air.</li><br>
+					<li>Cycle time typically 9 hours; allow 12 with cooling</li><br>
 			      </p>
 			    </div>
 			    <div id="menu1" class="tab-pane fade">
@@ -58,8 +58,8 @@
 					<li>Timer activates signal light. Cleaning time will vary from 15 minutes to 45 minutes depending on filter diameter, height and loading.</li>
 					<li>Emergency shutoff switch stops all functions.</li>
 					<li>Door switch stops all blowing for safety.</li>
-					<li>Quiet 84 dBA.</li></br>
-					<strong>TECHNICAL SPECIFICATION:</strong></br></br>
+					<li>Quiet 84 dBA.</li><br>
+					<strong>TECHNICAL SPECIFICATION:</strong><br><br>
 					<li>Exhaust: 8" QF duct connection on bottom left side or back left</li>
 					<li>Dimensions: 77"H x 48"W x 30"D</li>
 					<li>Weight: 850 lbs</li>
@@ -70,24 +70,24 @@
 			    <div id="menu2" class="tab-pane fade">
 			      <h3>Requirements</h3>
 			      <p>
-			      	<strong>Ancillary equipment required: </br>
-					Full Air Mode</strong></br>
+			      	<strong>Ancillary equipment required: <br>
+					Full Air Mode</strong><br>
 
 					<li>120 Cubic Feet per min (CFM)  or  3400 liters per minute (l/min) 
 					100 PSI  or  7 Bar dry air delivered to TrapBlaster</li>
 					<li>Minimum 125CFM/125PSI 30HP Air Compressor or 22.5 KW: larger air compressor may be required 
-						depending on compressor manufacturer, air dryer used, pipe configuration and altitude.</li> </br>
-					<strong>AirSaver Mode</strong></br>
+						depending on compressor manufacturer, air dryer used, pipe configuration and altitude.</li> <br>
+					<strong>AirSaver Mode</strong><br>
 
 					<li>60 Cubic Feet p/min (CFM)  or  1700 liters per minute (l/min) 
 					100 PSI  or  7 Bar dry air delivered to the TrapBlaster</li>
-					<li>Minimum 68CFM/100PSI 20HP Air Compressor  or  15 KW</li></br>
-					<strong>Air Dryer</strong></br>
-					High Efficiency (Required) – desiccant style or refrigeration style for 120 CFM/3400 l/min at outlet</br></br>
-					<strong>Pipe Diameter</strong></br>
-					1 ½” ID delivery line</br></br>
+					<li>Minimum 68CFM/100PSI 20HP Air Compressor  or  15 KW</li><br>
+					<strong>Air Dryer</strong><br>
+					High Efficiency (Required) – desiccant style or refrigeration style for 120 CFM/3400 l/min at outlet<br><br>
+					<strong>Pipe Diameter</strong><br>
+					1 ½” ID delivery line<br><br>
 
-					<strong>Dust Collector</strong></br>
+					<strong>Dust Collector</strong><br>
 					1400 CFM or greater (with clean filters)
 				</p>
 			    </div>			  

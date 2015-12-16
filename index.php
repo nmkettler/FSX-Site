@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     <title>FSX Inc.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,9 +15,12 @@
     <script type="text/javascript" src="js/siteFunc.js"></script>
 
   </head>
-
   <body>
-
+    <script type="text/javascript">
+    $(window).load(function(){
+        $('#myModal').modal('show');
+    });
+</script>
     <div class="navbar navbar-default navbar-fixed-top" id="mainNav">
       <div class="container">
 
@@ -35,6 +37,7 @@
           <ul class="nav navbar-nav navbar-right">
 
             <li class=""><a href="index.php">Home</a></li>
+
             <li class="dropdown">
 
               <a href="basepkg.php" class="dropdown-toggle" data-toggle="dropdown">Products <b class = "caret"></b></a>
@@ -49,9 +52,9 @@
                 <li class="dropdown-submenu">
                   <a tabindex="-1" href="#">Extras</a>
                   <ul class="dropdown-menu">
-                    <li><a href="bidSpecLang.php">Bid Specification</br> Language</a></li>
+                    <li><a href="bidSpecLang.php">Bid Specification<br> Language</a></li>
                     <li><a href="baselineChart.php">Baseline Chart</a></li>
-                    <li><a href="cleaningmanual.php">FSX Cleaning </br>Manual</a></li>
+                    <li><a href="cleaningmanual.php">FSX Cleaning <br>Manual</a></li>
                   </ul>
                 </li>
 
@@ -96,6 +99,7 @@
 
       </div>
     </div>
+
       <div class="widewrapper_main">
       <img src="cleaning1.png" class="img-responsive" id = "homeImg" alt="Responsive image">
       <!-- class = "img-responsive" alt = "Responsive image" to make image responsive-->
@@ -104,38 +108,39 @@
                     </video>-->
 
       </div>
-      <div class="container">
-        <div class="row">
 
-          <div class="col-md-4">
-
-            <h2>FSX DPF CLEANING EQUIPMENT</h2>
-            <p>Our DPF cleaners and test bench were proven in our own cleaning operations long before they were released to market. We make sure that buyers of FSX DPF cleaning equipment have the same machines that are utilized in on our own shops. The FSX
-              Diesel Particulate Filter cleaning equipment equates to quality.
-            </p>
-          </div>
-
-          <div class="col-md-4">
-            <h2 class="">PROVEN CLEANING METHOD</h2>
-            <p class="">The machines were designed to duplicate the exact cleaning method that we found worked the best and designed into a professional, compact package.
-            </p>
-
-          </div>
-
-          <div class="col-md-4">
-            <h2 class="">DURABLE MACHINES</h2>
-            <p class="">FSX proves DPF cleaning techniques and transforms the technique into durable machinery that makes cleaning filters easy and reliable for our customers at economical prices.
-            </p>
-          </div>
-
-        </div>
+<div class="container marketing">
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-square" src="img/TrapTester7.jpg" alt="Generic placeholder image" width="240" height="240">
+          <h2>FSX DPF Cleaning Equipment</h2>
+          <p>Our DPF cleaners and test bench were proven in our own cleaning operations long before they were released to market. We make sure that buyers of FSX DPF cleaning equipment 
+            have the same machines that are utilized in on our own shops. The FSX Diesel Particulate Filter cleaning equipment equates to quality.</p>
+          <p><a class="btn btn-default" href="traptester.php" role="button">View details &raquo;</a>
+          </p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-square" src="img/fsxLogo.png" alt="Generic placeholder image" width="240" height="240">
+          <h2>Proven Cleaning Method</h2>
+          <p>The machines were designed to duplicate the exact cleaning method that we found worked the best and designed into a professional, compact package.
+          </p>
+          <p><a class="btn btn-default" href="cleaningcomparison.php" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-square" src="img/baspkgimg.png" alt="Generic placeholder image" width="240" height="240">
+          <h2>Durable Machines</h2>
+          <p>FSX proves DPF cleaning techniques and transforms the technique into durable machinery that makes cleaning filters easy and reliable for our customers at economical prices.</p>
+          <p><a class="btn btn-default" href="basepkg.php" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
 
         <!--Featuretts Start-->
         <hr>
 
         <div class="row">
           <div class="col-md-7">
-            <h2 class="featurette-heading">CLEANER DPF = LONGER FILTER LIFE</h2>
+            <h2 class="featurette-heading">Cleaner DPF = Longer Filter Life</h2>
             <p class="homepageP">FSX manufactures and distributes diesel particulate filter cleaning equipment used in the trucking, transit, off-road, railroad and power generation. Utilizing FSX DPF cleaners assures that the user will get the maximum life possible between
               cleanings, plus maximize the overall life of the DPF or DOC.
             </p>
@@ -206,6 +211,7 @@
           </div>
         </div>
       </div>
+
 <div class="container main-container">
   <div id="carousel-example-generic" class="carousel slide">
     <!-- Indicators -->
@@ -279,18 +285,10 @@
       <span class="sr-only">Next</span>
     </a>
   </div><!-- /.carousel -->
-
 </div><!-- /.container -->
 </div>
     
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <!-- Latest compiled and minified JavaScript -->
-    <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script><!-- When not commented out menu stops working-->
-    <!-- Demo scripts -->
-    <script src="js/demo.js"></script>
+
 
       <?php include "footer.php" ?>
 

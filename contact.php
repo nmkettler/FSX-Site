@@ -65,8 +65,8 @@
         </td>
 	         <p>
 		            <form action="http://maps.google.com/maps" method="get" target="_blank">
-						   <label for="saddr">Enter your location</label></br>
-						   <input type="text" name="saddr" /></br></br>
+						   <label for="saddr">Enter your location</label><br>
+						   <input type="text" name="saddr" /><br><br>
 						   <input type="hidden" name="daddr" value="10404 Mountain Loop Highway Granite Falls, WA 98252-1617" />
 						   <input type="submit" value="Get directions" />
 					</form>

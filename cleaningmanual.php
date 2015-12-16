@@ -11,14 +11,14 @@
              <h2 class = "">FSX Cleaning Manual</h2>
 							
             <p class = "">The FSX Cleaning Manual is the master reference 
-							for your FSX DPF world.</br></br> 
+							for your FSX DPF world.<br><br> 
 
-							The FSX Cleaning Manual includes installation, operation, maintenance, and DPF cleaning procedures all in a 15 tab 3 ring binder. To fully understand your equipment and the cleaning process read this manual.</br></br>
+							The FSX Cleaning Manual includes installation, operation, maintenance, and DPF cleaning procedures all in a 15 tab 3 ring binder. To fully understand your equipment and the cleaning process read this manual.<br><br>
 
 							The included DVD will show you how to set up, 
-							test, and clean a DPF.</br></br>
+							test, and clean a DPF.<br><br>
 
-							<strong>Available ONLY with a <a href = "basepkg.php">full system</a> purchase.</br></br></strong>
+							<strong>Available ONLY with a <a href = "basepkg.php">full system</a> purchase.<br><br></strong>
             </p>
 			    <ul class="nav nav-tabs">
 			    <li class="active"><a data-toggle="tab" href="#features">Features</a></li>
@@ -45,7 +45,7 @@
 					<li>Section 12 - Repairing Filters</li>
 					<li>Section 13 - Handling and Packaging</li>
 					<li>Section 14 - Baseline Chart</li>
-					<li>Section 15 - Forms</li></br>
+					<li>Section 15 - Forms</li><br>
 					* - IOM - Installation / Operations / Maintenance
 			      </p>
 			    </div>

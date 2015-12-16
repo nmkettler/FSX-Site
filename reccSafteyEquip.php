@@ -106,15 +106,15 @@
 	                        <img class = "featuredImg center-block" src = "img/tongs.jpg" width = "200px">                     
 	                        <p>
 	                          The FSX TrapTong™ is probably one of most labor-saving devices ever created
-	                           to assist in Thermal Cleaning Diesel Particulate Filters.</br></br>
+	                           to assist in Thermal Cleaning Diesel Particulate Filters.<br><br>
 
 	                          Many DPF filters can weigh up to 70lb, and the TrapTong™ provides a reliable
-	                           grip for moving filter media while minimizing the risk of costly personnel injury.</br></br>
+	                           grip for moving filter media while minimizing the risk of costly personnel injury.<br><br>
 
-	                          FSX TrapTongs™ have a lift limit of 350 lbs with a 2:1 safety margin.</br></br>
+	                          FSX TrapTongs™ have a lift limit of 350 lbs with a 2:1 safety margin.<br><br>
 
 	                          Custom-made of hardened steel, the TrapTong™ is capable of lifting DPF filters 
-	                          from any angle, and at any temperature!</br></br>
+	                          from any angle, and at any temperature!<br><br>
 
 	                          Part #79-10B118 - FSX TrapTongs
 	                        </p> 

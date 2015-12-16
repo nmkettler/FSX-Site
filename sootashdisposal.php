@@ -80,7 +80,7 @@
                           The SootSucker 2 Paper Filters were designed for long life. 
                           One of the many advantages, both from an operation and an 
                           environmental standpoint is that over 300 DPFs can be cleaned 
-                          before they need to be replaced.</br></br>
+                          before they need to be replaced.<br><br>
 
                           Part #10-284542 - SootSucker 2 Primary Paper Filter
                         </p> 

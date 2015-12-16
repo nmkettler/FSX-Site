@@ -9,21 +9,21 @@
     </div>
 
     <div class = "col-md-6">
-             <h2 class = "">FSX TrapBlaster™</br>
+             <h2 class = "">FSX TrapBlaster™<br>
 							Pneumatic DPF Cleaner</h2>
-            <p class = "">The TrapBlaster™ supports two modes of operation:</br> 
+            <p class = "">The TrapBlaster™ supports two modes of operation:<br> 
 							<strong>FullAir mode</strong> - 120 CFM/100 PSI of dry air delivered 
 							to the TrapBlaster running Full Air Mode. Usually this 
 							can be accomplished using a 30 to 40 HP air compressor
 							depending on air compressor manufacturer, air dryer used, 
-							pipe configuration and altitude.</br></br>
+							pipe configuration and altitude.<br><br>
 							<strong>AirSaver mode</strong> - For lower volume shops get your filters 
 							"FSX Clean" with a minimum of 60 CFM/ 100 PSI of dry air delivered to the 
 							TrapBlaster, typically with a 20hp or greater compressor. AirSaver mode has 
 							been certified to clean filters just as well as FullAir mode. With a smaller 
 							air supply and alternating upper and lower air blast nozzles, the same level 
-							of cleaning is performed by extending the process time.</br></br>
-							Contact <a href="mailto:sales@fsx.com" target="_top">Sales</a> to order your FSX TrapBurner™ today!</br></br>
+							of cleaning is performed by extending the process time.<br><br>
+							Contact <a href="mailto:sales@fsx.com" target="_top">Sales</a> to order your FSX TrapBurner™ today!<br><br>
             </p>
 			    <ul class="nav nav-tabs">
 			    <li class="active"><a data-toggle="tab" href="#features">Features</a></li>
@@ -84,8 +84,8 @@
 					<li>Timer activates signal light. Cleaning time will vary from 15 minutes to 45 minutes depending on filter diameter, height and loading.</li>
 					<li>Emergency shutoff switch stops all functions.</li>
 					<li>Door switch stops all blowing for safety.</li>
-					<li>Quiet 84 dBA.</li></br>
-					<strong>TECHNICAL SPECIFICATION:</strong></br></br>
+					<li>Quiet 84 dBA.</li><br>
+					<strong>TECHNICAL SPECIFICATION:</strong><br><br>
 					<li>Exhaust: 8" QF duct connection on bottom left side or back left</li>
 					<li>Dimensions: 77"H x 48"W x 30"D</li>
 					<li>Weight: 850 lbs</li>
@@ -96,24 +96,24 @@
 			    <div id="menu3" class="tab-pane fade">
 			      <h3>Requirements</h3>
 			      <p>
-			      	<strong>Ancillary equipment required: </br>
-					Full Air Mode</strong></br>
+			      	<strong>Ancillary equipment required: <br>
+					Full Air Mode</strong><br>
 
 					<li>120 Cubic Feet per min (CFM)  or  3400 liters per minute (l/min) 
 					100 PSI  or  7 Bar dry air delivered to TrapBlaster</li>
 					<li>Minimum 125CFM/125PSI 30HP Air Compressor or 22.5 KW: larger air compressor may be required 
-						depending on compressor manufacturer, air dryer used, pipe configuration and altitude.</li> </br>
-					<strong>AirSaver Mode</strong></br>
+						depending on compressor manufacturer, air dryer used, pipe configuration and altitude.</li> <br>
+					<strong>AirSaver Mode</strong><br>
 
 					<li>60 Cubic Feet p/min (CFM)  or  1700 liters per minute (l/min) 
 					100 PSI  or  7 Bar dry air delivered to the TrapBlaster</li>
-					<li>Minimum 68CFM/100PSI 20HP Air Compressor  or  15 KW</li></br>
-					<strong>Air Dryer</strong></br>
-					High Efficiency (Required) – desiccant style or refrigeration style for 120 CFM/3400 l/min at outlet</br></br>
-					<strong>Pipe Diameter</strong></br>
-					1 ½” ID delivery line</br></br>
+					<li>Minimum 68CFM/100PSI 20HP Air Compressor  or  15 KW</li><br>
+					<strong>Air Dryer</strong><br>
+					High Efficiency (Required) – desiccant style or refrigeration style for 120 CFM/3400 l/min at outlet<br><br>
+					<strong>Pipe Diameter</strong><br>
+					1 ½” ID delivery line<br><br>
 
-					<strong>Dust Collector</strong></br>
+					<strong>Dust Collector</strong><br>
 					1400 CFM or greater (with clean filters)
 				</p>
 			    </div>			  

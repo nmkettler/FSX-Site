@@ -9,15 +9,15 @@
     </div>
 
     <div class = "col-md-6">
-             <h2 class = "">FSX TrapTester™</br>
+             <h2 class = "">FSX TrapTester™<br>
 							Air Flow Test Bench</h2>
                     <li>Calibrated specifically for precision measuring of air flows on DPF</li>
 					<li>Before and after measurements ensure warranty compliance.</li>
 					<li>Used by engine and truck OEMs as the standardized test bench.</li>
 					<li>Identify defective filters.</li>
 					<li>Monitor filter performance and improvement at every stage of the cleaning process.</li>
-					<li>Handles almost any filter.</li></br>
-					      Contact <a href="mailto:sales@fsx.com" target="_top">Sales</a> to order your FSX TrapBurner™ today!</br></br>
+					<li>Handles almost any filter.</li><br>
+					      Contact <a href="mailto:sales@fsx.com" target="_top">Sales</a> to order your FSX TrapBurner™ today!<br><br>
             </p>
 			    <ul class="nav nav-tabs">
 			    <li class="active"><a data-toggle="tab" href="#features">Specifications</a></li>
@@ -58,7 +58,7 @@
 			    <div id="menu2" class="tab-pane fade">
 			      <h3>Requirements</h3>
 			      <p>
-			      	<strong>Ancillary equipment required: </br></strong>
+			      	<strong>Ancillary equipment required: <br></strong>
 					<li>Dimensions:  30”/72”H x 24”W x 44”D (approx.)</li>
 					<li>Weight:  240 lbs</li>
 					<li>Decibels:  74 dB without filter over inlet; quieter with filter over inlet</li>
