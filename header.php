@@ -7,6 +7,7 @@
                 <meta name="author" content="">
                 <link href = "css/bootstrap.min.css" rel = "stylesheet">
                 <link href = "css/style.css" rel = "stylesheet">
+                <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>                
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
                 <script type="text/javascript" src="js/siteFunc.js"></script>
         </head>

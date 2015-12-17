@@ -8,10 +8,10 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>   
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="css/demo.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-    
     <script type="text/javascript" src="js/siteFunc.js"></script>
 
   </head>
@@ -21,7 +21,7 @@
         $('#myModal').modal('show');
     });
 </script>
-    <div class="navbar navbar-default navbar-fixed-top" id="mainNav">
+    <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
 
         <a href="index.php" class="pull-left"><img src="css/fsxLogo.png" id="logo" height="60" width="80"></a>
@@ -115,26 +115,44 @@
         <div class="col-lg-4">
           <img class="img-square" src="img/TrapTester7.jpg" alt="Generic placeholder image" width="240" height="240">
           <h2>FSX DPF Cleaning Equipment</h2>
-          <p>Our DPF cleaners and test bench were proven in our own cleaning operations long before they were released to market. We make sure that buyers of FSX DPF cleaning equipment 
-            have the same machines that are utilized in on our own shops. The FSX Diesel Particulate Filter cleaning equipment equates to quality.</p>
-          <p><a class="btn btn-default" href="traptester.php" role="button">View details &raquo;</a>
-          </p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-square" src="img/fsxLogo.png" alt="Generic placeholder image" width="240" height="240">
           <h2>Proven Cleaning Method</h2>
-          <p>The machines were designed to duplicate the exact cleaning method that we found worked the best and designed into a professional, compact package.
-          </p>
-          <p><a class="btn btn-default" href="cleaningcomparison.php" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-square" src="img/baspkgimg.png" alt="Generic placeholder image" width="240" height="240">
           <h2>Durable Machines</h2>
-          <p>FSX proves DPF cleaning techniques and transforms the technique into durable machinery that makes cleaning filters easy and reliable for our customers at economical prices.</p>
-          <p><a class="btn btn-default" href="basepkg.php" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
-
+      </div>
+      <!-- /.row -->
+       <div class="row">
+        <div class="col-lg-4">
+          <p>Our DPF cleaners and test bench were proven in our own cleaning operations long before they were released to market. We make sure that buyers of FSX DPF cleaning equipment 
+            have the same machines that are utilized in on our own shops. The FSX Diesel Particulate Filter cleaning equipment equates to quality.
+          </p>
+        </div>
+        <div class="col-lg-4">
+          <p>The machines were designed to duplicate the exact cleaning method that we found worked the best and designed into a professional, compact package.
+          </p>
+        </div>
+        <div class="col-lg-4">
+          <p>FSX proves DPF cleaning techniques and transforms the technique into durable machinery that makes cleaning filters easy and reliable for our customers at economical prices.</p>
+        </div>
+      </div>
+      <!-- /.row -->
+      <div class="row">
+        <div class="col-lg-4">
+          <p><a class="btn btn-default" href="traptester.php" role="button">View details &raquo;</a>
+        </div>
+        <div class="col-lg-4">
+          <p><a class="btn btn-default" href="cleaningcomparison.php" role="button">View details &raquo;</a>
+        </div>
+        <div class="col-lg-4">
+          <a class="btn btn-default" href="basepkg.php" role="button">View details &raquo;</a>
+        </div>
+      </div>
+      <!-- /.row -->
         <!--Featuretts Start-->
         <hr>
 
