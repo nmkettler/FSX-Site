@@ -57,9 +57,10 @@
 .navbar-inverse {
 	background-color: rgba(96,96,96,96);
 }
-.navbar-inverse{
-
+.navbar-inverse .navbar-nav>li>a:hover{
+	color: rgba(0,0,0,0.8);
 }
+
 /*--change color of mobile menu while full screen is transparent*/
      @media only screen and (min-width : 768px) {
         .navbar-default { 
@@ -73,8 +74,17 @@
 
 }
 
+.dropdown-menu li a{
+	color: black;
+
+}
+
 .dropdown-submenu {
 	background-color: #fff;
+}
+
+.dropdown-submenu a{
+	color: black;
 }
 
 @media all and (max-width: 38em) {

@@ -17,7 +17,7 @@
             <tbody>
               <tr>
                 <td align="left">
-                  <h4>PHONE</h4></td>
+                  <h4><i class="fa fa-phone"></i>  PHONE</h4></td>
               </tr>
               <tr>
                 <td width="77%" align="left">360.691.5991
@@ -27,7 +27,7 @@
               </tr>
             </tbody>
           </table>
-          <h4>E-MAIL</h4>
+          <h4><span class="fa fa-envelope"></span>  E-MAIL</h4>
           <table>
             <tbody>
               <tr align="right">
@@ -78,7 +78,7 @@
              <hr>
              <table width="100%">
                <tbody><tr>
-                 <td align="left"><h4>PHONE</h4></td>
+                 <td align="left"><h4><i class="fa fa-phone"></i>  PHONE</h4></td>
                </tr>
                <tr>
                  <td width="77%" align="left">+48.609.00.1418
@@ -93,7 +93,7 @@
                    <hr></td>
                </tr>
              </tbody></table>
-             <h4>E-MAIL</h4>
+             <h4><span class="fa fa-envelope"></span>  E-MAIL</h4>
        <a href="mailto:sales-europe@fsxinc.com">sales-europe@fsxinc.com</a>
 </td>
       </div>

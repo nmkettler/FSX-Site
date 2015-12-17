@@ -11,7 +11,7 @@
         <div class="row">
           <div class="footer-col col-md-12" id="footSocMedia">
             <ul class="list-inline">
-              <a class="btn btn-social-icon btn-facebook">
+              <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/pages/FSX-Inc-FSX-Equipment-Inc/146834845525900?rf=432189793569062">
                 <span class="fa fa-facebook-square fa-2x"></span>
               </a>
             </ul>

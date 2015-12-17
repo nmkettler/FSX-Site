@@ -7,7 +7,8 @@
                 <meta name="author" content="">
                 <link href = "css/bootstrap.min.css" rel = "stylesheet">
                 <link href = "css/style.css" rel = "stylesheet">
-                <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>                
+                <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+                <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">                
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
                 <script type="text/javascript" src="js/siteFunc.js"></script>
         </head>
@@ -28,10 +29,10 @@
                                
                                         <ul class = "nav navbar-nav navbar-right">
                                        
-                                                <li class = "active"><a href = "index.php">Home</a></li>
+                                                <li><a href = "index.php">Home</a></li>
                                                  <li class = "dropdown">
                                                        
-                                                        <a href = "basepkg.php" class = "dropdown-toggle" data-toggle = "dropdown">Products <b class = "caret"></b></a>
+                                                        <a href = "basepkg.php" class = "dropdown-toggle" data-toggle = "dropdown">Products <i class="fa fa-angle-down"></i></a>
                                                         <ul class = "dropdown-menu">
                                                                 <li><a href = "basepkg.php">Complete Cleaning Package</a></li>
                                                                 <li><a href = "trapblaster7.php">Trapblaster Pneumatic Cleaners</a></li>
@@ -54,7 +55,7 @@
                                                 </li>
                                                <li class = "dropdown">
                                                        
-                                                        <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Competitive Comparison <b class = "caret"></b></a>
+                                                        <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Competitive Comparison <i class="fa fa-angle-down"></i></a>
                                                         <ul class = "dropdown-menu">
                                                                 <li><a href = "cleaningcomparison.php">Cleaning Technology Comparison</a></li>
                                                                 <li><a href = "featureschecklist.php">Features Checklist</a></li>
@@ -63,7 +64,7 @@
                                                 </li>
                                                 <li class = "dropdown">
                                                        
-                                                        <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Enviromental & Saftey <b class = "caret"></b></a>
+                                                        <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Enviromental & Saftey <i class="fa fa-angle-down"></i></a>
                                                         <ul class = "dropdown-menu">
                                                                 <li><a href = "reccSafteyEquip.php">Recommended Saftey Equipment</a></li>
                                                                 <li><a href = "sootashdisposal.php">Soot & Ash Disposal</a></li>
@@ -74,7 +75,7 @@
                                                 </li>
                                                 <li class = "dropdown">
                                                        
-                                                        <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">About Us <b class = "caret"></b></a>
+                                                        <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">About Us <i class="fa fa-angle-down"></i></a>
                                                         <ul class = "dropdown-menu">
                                                                 <li><a href = "servicelocator.php">Service Locator Map</a></li>
                                                                 <li><a href = "news.php">News</a></li>

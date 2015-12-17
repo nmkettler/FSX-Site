@@ -40,7 +40,7 @@
 
             <li class="dropdown">
 
-              <a href="basepkg.php" class="dropdown-toggle" data-toggle="dropdown">Products <b class = "caret"></b></a>
+              <a href="basepkg.php" class="dropdown-toggle" data-toggle="dropdown">Products <i class="fa fa-angle-down"></i></a>
               <ul class="dropdown-menu">
                 <li><a href="basepkg.php">Complete Cleaning Package</a></li>
                 <li><a href="trapblaster7.php">Trapblaster Pneumatic Cleaners</a></li>
@@ -63,7 +63,7 @@
             </li>
             <li class="dropdown">
 
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Competitive Comparison <b class = "caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Competitive Comparison <i class="fa fa-angle-down"></i></a>
               <ul class="dropdown-menu">
                 <li><a href="cleaningcomparison.php">Cleaning Technology Comparison</a></li>
                 <li><a href="featureschecklist.php">Features Checklist</a></li>
@@ -72,7 +72,7 @@
             </li>
             <li class="dropdown">
 
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Enviromental & Saftey <b class = "caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Enviromental & Saftey <i class="fa fa-angle-down"></i></a>
               <ul class="dropdown-menu">
                 <li><a href="reccSafteyEquip.php">Recommended Saftey Equipment</a></li>
                 <li><a href="sootashdisposal.php">Soot & Ash Disposal</a></li>
@@ -83,7 +83,7 @@
             </li>
             <li class="dropdown">
 
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <b class = "caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <i class="fa fa-angle-down"></i></a>
               <ul class="dropdown-menu">
                 <li><a href="servicelocator.php">Service Locator Map</a></li>
                 <li><a href="news.php">News</a></li>
@@ -117,7 +117,7 @@
           <h2>FSX DPF Cleaning Equipment</h2>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-square" src="img/fsxLogo.png" alt="Generic placeholder image" width="240" height="240">
+          <img class="img-square" src="img/fsxLogo1.png" alt="Generic placeholder image" width="240" height="240">
           <h2>Proven Cleaning Method</h2>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
