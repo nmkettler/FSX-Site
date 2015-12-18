@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        <table width="830" align="left" cellpadding="0" cellspacing="0">
+        <table width="" align="left" cellpadding="0" cellspacing="0">
           <tbody>
             <tr>
               <td>

@@ -1,13 +1,13 @@
 
 
 .skyblue {
-	background-color: #ffff00;
+	background-color: #BCBCBC;
 }
 .deepskyblue {
-	background-color: #ffff00;
+	background-color: #BCBCBC;
 }
 .darkerskyblue {
-	background-color: #ffff00;
+	background-color: #BCBCBC;
 }
 .carousel-indicators {
 	bottom: 0;
@@ -57,10 +57,12 @@
 	animation-delay: 1s;
 }
 #midText{
-	color: #990000;
+	color: #FF2F2F;
 	font-size: 50px;
+	font-weight: bold;
 }
 .midtext{
 	font-size: 50px;
-	color: #990000;
+	color: #FF2F2F;
+	font-weight: bold;
 }

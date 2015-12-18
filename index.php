@@ -8,7 +8,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>   
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>   
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="css/demo.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
@@ -249,7 +249,7 @@
         <div class="carousel-caption">
           <h1 data-animation="animated bounceInLeft" id = "midText">
             Check out our Specials           
-          </h3>
+          </h1>
           <h3 data-animation="animated bounceInRight">
             
           </h3>
@@ -262,7 +262,7 @@
        <div class="carousel-caption">
           <h1 data-animation="animated bounceInLeft" id = "midText">
             OEM Tested and Approved           
-          </h3>
+          </h1>
           <h3 data-animation="animated bounceInRight">
             
           </h3>
@@ -273,9 +273,11 @@
       <!-- Third slide -->
       <div class="item darkerskyblue">
         <div class="carousel-caption">
-          
-          <h3 data-animation="animated flipInX" >
-            <h2 class = "midtext">Complete DPF Cleaning System</h2> 
+          <h1 data-animation="animated bounceInLeft" id = "midText">
+            Complete DPF Cleaning Package           
+          </h1>
+          <h3 data-animation="animated bounceInRight">
+            
           </h3>
           <a href = "basepkg.php"><button class="btn btn-primary btn-lg" data-animation="animated lightSpeedIn">View More</button></a>
         </div>
@@ -284,8 +286,11 @@
       <!-- Fourth slide -->
       <div class="item darkerskyblue">
         <div class="carousel-caption">
-          <h3 data-animation="animated flipInX" id = "midText">
-            <h2 class = "midtext">Find Us</h2> 
+          <h1 data-animation="animated bounceInLeft" id = "midText">
+            Find Us           
+          </h1>
+          <h3 data-animation="animated bounceInRight">
+            
           </h3>
           <a href = "contact.php"><button class="btn btn-primary btn-lg" data-animation="animated lightSpeedIn">View More</button></a>
         </div>

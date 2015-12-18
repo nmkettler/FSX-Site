@@ -9,5 +9,17 @@
 		
 		<a href = "videoindex.php">Index page with video</a>
 	</div>
+	<input type="text" id="input1"/>
+		<button onclick="searchFunction()">Search</button>
+		<script>
+		function searchFunction()
+		{
+		  var text=document.getElementById('input1').value;
+		  if(text=='filter'){
+		  	window.location = "specials.php";
+		  }
+		}
+		</script>
+</div>	
 
 <?php include "footer.php" ?>

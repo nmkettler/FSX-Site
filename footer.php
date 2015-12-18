@@ -12,8 +12,14 @@
           <div class="footer-col col-md-12" id="footSocMedia">
             <ul class="list-inline">
               <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/pages/FSX-Inc-FSX-Equipment-Inc/146834845525900?rf=432189793569062">
-                <span class="fa fa-facebook-square fa-2x"></span>
+                <i class="fa fa-facebook-square fa-2x"></i>               
               </a>
+               <a class="btn btn-social-icon btn-facebook" href="mailto:%73%61%6c%65%73%40%66%73%78%69%6e%63%2e%63%6f%6d">
+                <i class="fa fa-envelope fa-2x"></i>
+               </a>
+                <a class="btn btn-social-icon btn-facebook" href="tel:360-691-5991">
+                 <i class="fa fa-phone fa-2x"></i>
+                </a>
             </ul>
           </div>
         </div>

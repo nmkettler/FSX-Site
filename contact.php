@@ -20,7 +20,7 @@
                   <h4><i class="fa fa-phone"></i>  PHONE</h4></td>
               </tr>
               <tr>
-                <td width="77%" align="left">360.691.5991
+                <td width="77%" align="left"><a href="tel:360.691.5991">360.691.5991</a>
                   <br>
                   <hr>
                 </td>
@@ -45,9 +45,11 @@
             </tbody>
           </table>
           <hr>
-          <h4>HOURS</h4> 8:00am - 5:00pm (PST)
-          <br>
-          <strong>SHIPPING HOURS</strong>
+          <h4>HOURS</h4>
+          <strong>Business Hours</strong><br>
+           8:00am - 5:00pm (PST)
+          <br><br>
+          <strong>Shipping Hours</strong>
           <br> 8:00am - 4:00pm (PST)
           <br>
           <table>
@@ -68,7 +70,7 @@
 						   <label for="saddr">Enter your location</label><br>
 						   <input type="text" name="saddr" /><br><br>
 						   <input type="hidden" name="daddr" value="10404 Mountain Loop Highway Granite Falls, WA 98252-1617" />
-						   <input type="submit" value="Get directions" />
+               <input class="btn btn-primary" type="submit" value="Get Directions">
 					</form>
 			</p>
       </div>
@@ -81,14 +83,14 @@
                  <td align="left"><h4><i class="fa fa-phone"></i>  PHONE</h4></td>
                </tr>
                <tr>
-                 <td width="77%" align="left">+48.609.00.1418
+                 <td width="77%" align="left"><a href="tel:+48.609.00.1418">+48.609.00.1418</a>
                    <br></td>
                </tr>
                <tr>
                  <td align="left"><h4>FAX</h4></td>
                </tr>
                <tr>
-                 <td align="left">+48.22.408.2788
+                 <td align="left"><a href="tel:+48.22.408.2788">+48.22.408.2788</a>
                    <br>
                    <hr></td>
                </tr>

@@ -2,17 +2,18 @@
 <html>
 <head>
     <title>FSX Inc.</title>
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href = "css/bootstrap.min.css" rel = "stylesheet">
+    <link href = "css/style.css" rel = "stylesheet">
+    <link rel="stylesheet" type="text/css" href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>   
-    <link href="css/animate.min.css" rel="stylesheet">
-    <link href="css/demo.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>  
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
     <script type="text/javascript" src="js/siteFunc.js"></script>
+    <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.10/js/jquery.dataTables.js"></script>
 
 
 </head>
@@ -33,7 +34,7 @@
 
                 <ul class = "nav navbar-nav navbar-right">
 
-                    <li class = "active"><a href = "index.php">Home</a></li>
+                    <li><a href = "index.php">Home</a></li>
                     <li class = "dropdown">                                                       
                       <a href = "basepkg.php" class = "dropdown-toggle" data-toggle = "dropdown">Products <b class = "caret"></b></a>
                       <ul class = "dropdown-menu">
@@ -84,7 +85,7 @@
                     </ul>
 
                 </li>
-                <li><a href = "#contact" data-toggle="modal">Contact</a></li>
+                <li><a href = "contact.php">Contact</a></li>
 
             </ul>
 
@@ -2363,7 +2364,7 @@
               })
             </script>
 
-            <footer class="text-center" id="foot">
+           <footer class="text-center" id="foot">
   <div class="footer-above">
     <div class="container">
       <div class="row" id="descText">
@@ -2376,9 +2377,15 @@
         <div class="row">
           <div class="footer-col col-md-12" id="footSocMedia">
             <ul class="list-inline">
-              <a class="btn btn-social-icon btn-facebook">
-                <span class="fa fa-facebook-square fa-2x" href="https://www.facebook.com/pages/FSX-Inc-FSX-Equipment-Inc/146834845525900?rf=432189793569062"></span>
+              <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/pages/FSX-Inc-FSX-Equipment-Inc/146834845525900?rf=432189793569062">
+                <i class="fa fa-facebook-square fa-2x"></i>               
               </a>
+               <a class="btn btn-social-icon btn-facebook" href="mailto:%73%61%6c%65%73%40%66%73%78%69%6e%63%2e%63%6f%6d">
+                <i class="fa fa-envelope fa-2x"></i>
+               </a>
+                <a class="btn btn-social-icon btn-facebook" href="tel:360-691-5991">
+                 <i class="fa fa-phone fa-2x"></i>
+                </a>
             </ul>
           </div>
         </div>
@@ -2400,16 +2407,14 @@
 </footer>
 
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="js/bootstrap.js"></script>
+            <script src = "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+            <script src = "js/bootstrap.js"></script>          
+            <script type="text/javascript" charset="utf8" src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js"></script>
+            <script>
+                $(function(){
+                    $("#example").dataTable();
+                })
+            </script>
 
-
-</body>
-<span id="top-link-block" class="hidden">
-                  <a href="#top" class="well well-sm"  onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
-                      <i class="glyphicon glyphicon-chevron-up"></i> Back to Top
-                  </a>
-              </span>
-<!-- /top-link-block -->
-
-</html>
+        </body>
+        </html>

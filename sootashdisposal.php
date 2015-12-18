@@ -1,7 +1,7 @@
 <?php include 'header.php' ?>
 	<div class = "container">
 		<div class = "row">
-			<div class = "col-md-12">
+			<div class = "col-lg-12">
 				<h2>ASH &amp; SOOT DISPOSAL</h2>
 				<h3>
         			Ash Disposal 
@@ -19,7 +19,7 @@
       			</p>
       			<h3>Paper Filter Disposal </h3>
       			<p>
-      				<a href = "#seventhModal" data-toggle = "modal" data-target = "#seventhModal"><img src="img/refliteroutM.jpg" alt="Replacement Filter" width="216" height="281" align="left"></a>
+      				<a href = "#seventhModal" data-toggle = "modal" data-target = "#seventhModal"><img src="img/refliteroutM.jpg" alt="Replacement Filter" width="216" height="281" align="left" id="sootandashpic"></a>
       				The  paper filters used in the <a href="sootsucker2.php">FSX SootSucker™</a> were designed for long life.
       				 One of the many advantages, both from an operation and an environmental standpoint is that over 250 DPFs can be cleaned using 
       				 the SootSucker 2 before  the paper filter needs to be replaced. Competing dust collector designs require you to change the filters

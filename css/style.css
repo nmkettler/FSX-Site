@@ -38,7 +38,9 @@
 	padding-top: 1%;
 }
 #footSocMedia{
-	padding-bottom:1%;
+	padding-bottom:.05%;
+	padding-top: .05%;
+	color:white;
 }
 #descText a{
 	color:white;
@@ -414,5 +416,8 @@ table.sortable tr.sortbottom td {
 	font-weight: bold;
 }
 
-/*-------------Index Video Page----------*/
+/*-------------Soot and Ash Disposal----------*/
 
+#sootandashpic{
+	margin-bottom: 10%;
+}

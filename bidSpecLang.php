@@ -52,7 +52,7 @@
                          <div class = "col-lg-3">
                          	<div class = "jumbotron">
                        			<a href="img/Bid Specs 5.18.12.doc" target="_blank">
-                       				<img src="img/icon_word_small.png" alt="Download Microsoft word Bid Specs">
+                       				<i class="fa fa-file-word-o fa-2x"></i>
                        			</a>
                        			<a href="img/Bid Specs 5.18.12.doc" target="_blank">Download </a>
                        		 </div>
