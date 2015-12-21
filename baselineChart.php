@@ -2397,7 +2397,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>© Copyright FSX Incorporated 2008-2015, All Rights Reserved
+          <p>© Copyright FSX Incorporated 2008-<?php echo date("Y"); ?>, All Rights Reserved
             <?php echo date("Y"); ?>
           </p>
         </div>
@@ -2405,7 +2405,26 @@
     </div>
   </div>
 </footer>
+<a href="#" class="back-to-top"><i class="fa fa-arrow-up fa-1x"></i> Back to Top</a>
 
+            <script>
+            var offset = 220;
+              var duration = 500;
+              jQuery(window).scroll(function() {
+                  if (jQuery(this).scrollTop() > offset) {
+                      jQuery('.back-to-top').fadeIn(duration);
+                  } else {
+                      jQuery('.back-to-top').fadeOut(duration);
+                  }
+              });
+              
+              jQuery('.back-to-top').click(function(event) {
+                  event.preventDefault();
+                  jQuery('html, body').animate({scrollTop: 0}, duration);
+                  return false;
+              })
+
+            </script>
 
             <script src = "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
             <script src = "js/bootstrap.js"></script>          

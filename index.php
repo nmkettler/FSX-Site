@@ -101,7 +101,7 @@
     </div>
 
       <div class="widewrapper_main">
-      <img src="cleaning1.png" class="img-responsive" id = "homeImg" alt="Responsive image">
+      <img src="cleaning2.png" class="img-responsive" id = "homeImg" alt="Responsive image">
       <!-- class = "img-responsive" alt = "Responsive image" to make image responsive-->
       <!--<video autoplay loop class="fillWidth">
                         <source src="img/FSXDPFCleaningEquipment.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
@@ -166,30 +166,24 @@
           </div>
           <div class="col-md-5 text-center">
             <a class = "thumbnail" href = "basepkg.php"><img src="img/baspkgimg.png" class="featurette-image img-responsive" id = "baspkgimg" width="400"></a>
-          </div>
-          <div class = "row">
-              <div class = "col-md-4">
-                <a class="btn btn-warning" href = "index.php">
-              <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
-              FSX Equipment
-            </a>
-              </div>
-              <div class = "col-md-4">
-                <a class="btn btn-warning">
-              <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
-              FSX DPF Cleaning
-            </a>
-              </div>
-              <div class = "col-md-4">
-                <a class="btn btn-warning">
-              <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
-              FSX DPF & DOC Recycling
-            </a>
-              </div>
-          </div>
-              
+          </div>              
         </div>
-
+        </hr>
+        <hr>
+        <div class="row">
+          <div class="col-md-5 text-center">
+            <a href="index.php"class="btn btn-warning btn-lg btn-block" id="homebtn1"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> DPF Cleaning Equipment</a>
+            <a href="index.php"class="btn btn-warning btn-lg btn-block" id="homebtn"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Filter Cleaning Services</a>
+            <a href="index.php"class="btn btn-warning btn-lg btn-block" id="homebtn"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> DPF/DOC Recycling</a>
+          </div>
+                    <div class="col-md-7">
+            <h2 class="featurette-heading">Check Out Our Other Services</h2>
+            <p class="homepageP">FSX doesn’t just manufacture and distribute diesel particulate cleaning equipment,
+              we clean diesel particulate filters for customers on either an as-needed basis or under contract. 
+              We also recondition thousands of DPF annually for some of the largest engine manufacturers in the world.
+            </p>
+          </div>              
+        </div>
         <hr>
 
       <div class="modal fade" id="contact" role="dialog">
@@ -230,7 +224,7 @@
         </div>
       </div>
 
-<div class="container main-container">
+<div class="container main-container" id="caro">
   <div id="carousel-example-generic" class="carousel slide">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -314,4 +308,3 @@
 
 
       <?php include "footer.php" ?>
-
