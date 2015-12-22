@@ -228,6 +228,20 @@
 	background-color: rgba(96,96,96,96);
 	
 }
+
+#homebtn2{
+	margin-top: 20%;
+	background-color: #006699;
+}
+
+#homebtn2:hover{
+	transition: background-color 0.5s ease;
+	transition: color 0.5s ease;
+	color: #990000;
+	background-color: rgba(96,96,96,96);
+	
+}
+
 /*-------------Carousel-----------*/
 
 /*!

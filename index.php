@@ -162,7 +162,13 @@
             <p class="homepageP">FSX manufactures and distributes diesel particulate filter cleaning equipment used in the trucking, transit, off-road, railroad and power generation. Utilizing FSX DPF cleaners assures that the user will get the maximum life possible between
               cleanings, plus maximize the overall life of the DPF or DOC.
             </p>
-            <a href="specials.php"><h3 class = "muted" id = "specialMute">Click to see our Current Specials</h3></a>
+            <div class="row">
+              <div class = "col-md-8">
+                <a href="specials.php"class="btn btn-primary btn-lg btn-block text-left" id="homebtn2"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> See Our Current Specials</a>
+               </div>
+              <div class = "col-md-4">
+               </div> 
+             </div> 
           </div>
           <div class="col-md-5 text-center">
             <a class = "thumbnail" href = "basepkg.php"><img src="img/baspkgimg.png" class="featurette-image img-responsive" id = "baspkgimg" width="400"></a>
@@ -223,7 +229,7 @@
           </div>
         </div>
       </div>
-
+<!--
 <div class="container main-container" id="caro">
   <div id="carousel-example-generic" class="carousel slide">
     <!-- Indicators -->
@@ -235,10 +241,10 @@
     </ol>
 
     <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
+    <!--<div class="carousel-inner" role="listbox">
     
       <!-- First slide -->
-      <div class="item active deepskyblue">
+      <!--<div class="item active deepskyblue">
         
         <div class="carousel-caption">
           <h1 data-animation="animated bounceInLeft" id = "midText">
@@ -252,7 +258,7 @@
       </div> <!-- /.item -->
       
       <!-- Second slide -->
-      <div class="item skyblue">
+     <!-- <div class="item skyblue">
        <div class="carousel-caption">
           <h1 data-animation="animated bounceInLeft" id = "midText">
             OEM Tested and Approved           
@@ -265,7 +271,7 @@
       </div><!-- /.item -->
       
       <!-- Third slide -->
-      <div class="item darkerskyblue">
+      <!--<div class="item darkerskyblue">
         <div class="carousel-caption">
           <h1 data-animation="animated bounceInLeft" id = "midText">
             Complete DPF Cleaning Package           
@@ -278,7 +284,7 @@
       </div><!-- /.item -->
 
       <!-- Fourth slide -->
-      <div class="item darkerskyblue">
+     <!-- <div class="item darkerskyblue">
         <div class="carousel-caption">
           <h1 data-animation="animated bounceInLeft" id = "midText">
             Find Us           
@@ -290,10 +296,10 @@
         </div>
       </div><!-- /.item -->
     
-    </div><!-- /.carousel-inner -->
+    <!--</div><!-- /.carousel-inner -->
 
     <!-- Controls -->
-    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <!--<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
     </a>
