@@ -108,7 +108,36 @@
                     </video>-->
 
       </div>
+     <!--Mobile Call Menu--> 
+<div class="container marketing">
+  <div class="row">
+    <div class="col-lg-4">
+    </div>
+    <div class="col-lg-4">
+      <div class="visible-xs">
+                <div class="row">
+          <div class="footer-col col-md-12" id="footSocMedia">
+            <ul class="list-inline">
+              <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/pages/FSX-Inc-FSX-Equipment-Inc/146834845525900?rf=432189793569062">
+                <i class="fa fa-phone fa-3x"></i>               
+              </a>
+               <a class="btn btn-social-icon btn-facebook" href="mailto:%73%61%6c%65%73%40%66%73%78%69%6e%63%2e%63%6f%6d">
+                <i class="fa fa-envelope fa-3x"></i>
+               </a>
+                <a class="btn btn-social-icon btn-facebook" href="tel:360-691-5991">
+                 <i class="fa fa-facebook-square fa-3x"></i>
+                </a>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4">
+    </div>
+  </div>
+</div>
 
+<!--/Mobile Call Menu--> 
 <div class="container marketing">
       <!-- Three columns of text below the carousel -->
       <div class="row">
