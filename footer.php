@@ -4,7 +4,7 @@
       <div class="row" id="descText">
         <div class="footer-col col-md-12" id="footNavText">
           <p><a href="index.php">Home </a> | <a href="contact.php">Contact</a> | <a href="news.php">News</a> | <a href="products.php">Products</a> |
-            <a href="site1/Competition/compare.html">Competitive Comparison </a>| <a href="site1/EnvNSafety/EnvHome.html">Enviromental &amp; Safety </a>|
+            <a href="cleaningcomparison.php">Competitive Comparison </a>| <a href="reccSafteyEquip.php">Enviromental &amp; Safety </a>|
             <a href="bidSpecLang.php">Bid Spec. Language</a> | <a href="servicelocator.php">Service Locator Map</a> |
             <a href="baselineChart.php"> Baseline Chart</a> | <a href="videos.php"> Video</a></p>
         </div>
