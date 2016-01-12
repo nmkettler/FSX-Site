@@ -10,6 +10,7 @@
                 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
                 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">                
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+                <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
                 <script type="text/javascript" src="js/siteFunc.js"></script>
         </head>
         <body data-spy="scroll" data-target="#navbar-example">
