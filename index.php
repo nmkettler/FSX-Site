@@ -196,6 +196,7 @@
             <div class="row">
               <div class = "col-md-8">
                 <a href="specials.php"class="btn btn-primary btn-lg btn-block text-left" id="homebtn2"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> See Our Current Specials</a>
+                <a href="DPF_Cleaning_WorkSheet.pdf"class="btn btn-primary btn-lg btn-block text-left" id="homebtn3"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Download Our DPF Cleaning Chart</a>
                </div>
               <div class = "col-md-4">
                </div> 
