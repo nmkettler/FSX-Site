@@ -45,7 +45,7 @@
 <a href="#" class="back-to-top"><i class="fa fa-arrow-up fa-1x"></i> Back to Top</a>
 
 <script>
-var offset = 220;
+var offset = 100;
     var duration = 500;
     jQuery(window).scroll(function() {
         if (jQuery(this).scrollTop() > offset) {

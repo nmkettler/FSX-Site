@@ -1,1168 +1,1094 @@
-<!DOCTYPE html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="dpf cleaning equipment, FSX Equipment, cleaning diesel particulate filters, dpf cleaning systems, dpf maintenance,  dpf recovery, dpf cleaning machines, state of the art cleaning equipment, best dpf cleaning equipment,dpd, dpd cleaning, oem &quot; 
-" />
-<title>Service Locator Map - DPF Cleaner - FSX Equipment Inc.</title>
-<link rel="shortcut icon" href="../favicon.ico"  />
-<link rel="icon" href="../favicon.ico" type="image/ico" />
-<link rel="stylesheet" type="text/css" href="../css/fsx-typography2.css" />
-<link href="../SpryAssets/SpryMenuBarHorizontal3.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript">
-<!--
-if (screen.width <= 699) {
-document.location = "http://www.fsxinc.com/site1/Services/LocMapm.html";
-}
-window.mobilecheck = function() {
-var check = document.location = "http://www.fsxinc.com/site1/Services/LocMapm.html";
-(function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))check = true})(navigator.userAgent||navigator.vendor||window.opera);
-return check; }
-function relocate(){
-if (screen.width <= 699) {
-document.location = "http://www.fsxinc.com/site1/Services/LocMapm.html";
-}
-
-}
-//-->
-</script>
-<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
-<script src="../SpryAssets/xpath.js" type="text/javascript"></script>
-<script src="../SpryAssets/SpryData.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--
-        image1=new Image
-        image1.src="../images/videoleft.png"
-        image2=new Image
-        image2.src="../images/videolefth.png"
-//-->
-    </script>
-        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-    <script type="text/javascript" src="../data3/unobfuscated/map.php"></script>
-  <!--<script type="text/javascript" src="gdropdownc.js"></script>-->
-<style type="text/css">
-    #map {
-        margin: 0;
-        padding: 0;
-      }
-  .ddcontainer{
-    width: 150px; 
-    z-index: 1; 
-    cursor: pointer;
-    text-align: left;
-    z-index: 0;
-    padding: 5px;
-  }
-      .dropDownControl{
-    direction: ltr; 
-    overflow-x: hidden; 
-    overflow-y: hidden; 
-    text-align: left; 
-    position: relative; 
-    font-family: Arial, sans-serif; 
-    -webkit-user-select: none; 
-    font-size: 13px; 
-    padding-top: 2px; 
-    padding-right: 6px; 
-    padding-bottom: 1px; 
-    border-top-width: 1px; 
-    border-right-width: 1px; 
-    border-bottom-width: 1px; 
-    border-left-width: 1px; 
-    border-top-style: solid; 
-    border-right-style: solid; 
-    border-bottom-style: solid; 
-    border-left-style: solid; 
-    border-top-color: rgb(113, 123, 135); 
-    border-right-color: rgb(113, 123, 135); 
-    border-bottom-color: rgb(113, 123, 135); 
-    border-left-color: rgb(113, 123, 135); 
-    border-image: initial; 
-    -webkit-box-shadow: rgba(0, 0, 0, 0.398438) 0px 2px 4px; 
-    box-shadow: rgba(0, 0, 0, 0.398438) 0px 2px 4px; 
-    color: rgb(0, 0, 0); 
-    padding-left: 6px; 
-    font-weight: bold; 
-    background-image: initial; 
-    background-attachment: initial; 
-    background-origin: initial; 
-    background-clip: initial; 
-    background-color: rgb(255, 255, 255); 
-    background-position: initial initial; 
-    background-repeat: initial initial;   
-    z-index: 2;
-  } 
-  
-  .dropDownArrow{
-    -webkit-user-select: none; 
-    border-width: 0px; 
-    border-style: initial; 
-    border-color: initial; 
-    border-image: initial; 
-    padding: 0px; 
-    margin-right: 0px; 
-    margin-bottom: 0px; 
-    margin-left: 0px; 
-    position: absolute; 
-    right: 6px; 
-    top: 50%;
-    margin-top: -2px; 
-    width: 7px; 
-    height: 4px; 
-  }
-  
-  .dropDownOptionsDiv{
-    background-color: white; 
-    z-index: 0; /*need this to make the box look cool, but this stops the hover and title from working on items in the box! */ 
-    padding-top: 5px; 
-    border-right-width: 1px; 
-    border-bottom-width: 1px; 
-    border-left-width: 1px; 
-    border-right-style: solid; 
-    border-bottom-style: solid; 
-    border-left-style: solid; 
-    border-right-color: rgb(113, 123, 135); 
-    border-bottom-color: rgb(113, 123, 135); 
-    border-left-color: rgb(113, 123, 135); 
-    border-image: initial; 
-    border-top-width: 0px; 
-    border-top-style: initial; 
-    border-top-color: initial; 
-    -webkit-box-shadow: rgba(0, 0, 0, 0.398438) 0px 2px 4px; 
-    box-shadow: rgba(0, 0, 0, 0.398438) 0px 2px 4px; 
-    position: relative; 
-    text-align: left; 
-    display: none;
-  
-  }
-  
-  .dropDownItemDiv{
-    font-family: Arial, sans-serif; 
-    -webkit-user-select: none; 
-    font-size: 13px; 
-    padding-top: 2px; 
-    padding-right: 5px; 
-    padding-bottom: 3px; 
-    padding-left: 5px; 
-    background-color: rgb(255, 255, 255); 
-    color: black; 
-    /*font-weight: bold;*/    
-  }
-  .dropDownItemDiv:hover, .checkboxContainer:hover{
-    background-color: rgb(235, 235, 235);       
-  }
-  .dropDownControl:hover, .button:hover{
-    background: -webkit-linear-gradient(top,rgb(255,255,255),rgb(230,230,230));
-  }
-  .separatorDiv{
-    margin-top: 1px; 
-    margin-right: 0px; 
-    margin-bottom: 1px; 
-    margin-left: 0px; 
-    border-top-width: 1px; 
-    border-top-style: solid; 
-    border-top-color: rgb(235, 235, 235); 
-  }
-  .checkboxContainer{
-    font-family: Arial, sans-serif; 
-    -webkit-user-select: none; 
-    font-size: 11px; 
-    padding-top: 1px; 
-    padding-bottom: 3px; 
-    padding-left: 5px; 
-    direction: ltr; 
-    text-align: left; 
-    background-color: rgb(255, 255, 255); 
-    white-space: nowrap; 
-    padding-right: 8px; 
-    color: rgb(0, 0, 0); 
-  }   
-  .checkboxSpan{
-    box-sizing: border-box; 
-    position: relative; 
-    line-height: 0; 
-    font-size: 0px; 
-    margin-top: 0px; 
-    margin-right: 5px; 
-    margin-bottom: 0px; 
-    margin-left: 0px; 
-    display: inline-block; 
-    background-color: rgb(255, 255, 255); 
-    border-width: 1px; 
-    border-style: solid; 
-    border-color: initial; 
-    border-image: initial; 
-    border-top-left-radius: 1px; 
-    border-top-right-radius: 1px; 
-    border-bottom-right-radius: 1px; 
-    border-bottom-left-radius: 1px; 
-    width: 13px; 
-    height: 13px; 
-    vertical-align: middle; 
-    -webkit-box-shadow: none; 
-    box-shadow: none; 
-    border-color: rgb(198, 198, 198);     
-  }
-
-  
-  .blankDiv{
-    position: absolute; 
-    left: 1px; 
-    top: -2px; 
-    width: 13px; 
-    height: 11px; 
-    overflow-x: hidden; 
-    overflow-y: hidden; 
-    display: none; /*when = block -> this is the "check" symbol*/ 
-  }
-    
-  .blankImg{
-    position: absolute; 
-    left: -52px; 
-    top: -44px; 
-    -webkit-user-select: none; 
-    border-width: 0px; 
-    border-style: initial; 
-    border-color: initial; 
-    border-image: initial; 
-    padding: 0px; 
-    margin: 0px; 
-    -webkit-user-drag: none; 
-    width: 68px; 
-    height: 67px; 
-  }
-  
-  .checkboxLabel{
-    vertical-align: middle; 
-    cursor: pointer;
-  }
-      .button{
-        cursor: pointer;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        text-align: center;
-        position: relative;
-        font-family: Arial, sans-serif;
-        font-size: 13px;
-    font-weight:bold;
-        box-shadow: rgba(0, 0, 0, 0.4) 0 2px 4px;
-        -moz-box-shadow: rgba(0, 0, 0, 0.4) 0 2px 4px;
-        -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0 2px 4px;
-        color: #000;
-        border: 1px solid #717B87;
-        background-color: #fff; 
-        margin: 5px;
-        padding: 1px 6px;
-        overflow: hidden;
-      }    
-
-      .button-selected {
-        font-weight: bold;
-      }
-
-#panel {
-  background-color: #FC0;
-  border: thin solid #EB0708;
-  width: 500px;
-  font-size: 10px;
-  margin-top: 10px;
-}
-.key {
-  width: 200px;
-  float: left;
-  margin-right: 25px;
-}
-.info {
-  /* [disabled]float: right; */
-  /* [disabled]width: 500px; */
-  margin-left: 20px;
-}
-button {
-  /* [disabled]padding: 5px; */
-  margin: 2px;
-  /* [disabled]background: #FC0; */
-  font-size: 10px;
-}
-#Maptips {
-  font-size: 10px;
-  margin-left: 15px;
-}
-#Maptips ul {
-  padding: 5px;
-  margin-top: -1px;
-}
-</style>
-</head>
-
-<body onLoad="initialize(0);relocate()">
-
+<?php include ('header.php') ?>
 
 <div class="container">
-  <div class="content">
-<div class="header2"><!-- #BeginLibraryItem "../Library/headdernnav.lbi"-->
-<span style="/* [disabled]float:left; */ padding-right:10px; padding-top: 10px; padding-left:20px;"><a href="../../index.html"><img src="../images/fsx.png" alt="FSX- DPF Cleaning Experts" /></a></span>
-<img src="../images/H12_3.png" alt="DPF Cleaing Equipment Machines" width="429" class="headerimg" />
-<div id="nav">
-  <!--Top Menu-->
-<ul id="MenuBar2" class="MenuBarHorizontal">
-      <li class="first"><a href="../../index.html">HOME</a></li>
-      <li><a href="../ContactUs.html">CONTACT</a></li>
-      <li><a href="../pressArchives.html">NEWS</a></li>
-      <li><a class="MenuBarItemSubmenu" href="../Products/products.html">PRODUCTS <img src="../SpryAssets/SpryMenuBarDownHoverh.gif" alt="more"/></a>
-        <ul>
-          <li class="first"><a href="../Products/BasePkg.html">Complete Cleaning Package</a></li>
-          <li><a href="../Products/TrapBlaster7.html">TrapBlaster Pneumatic Cleaners</a></li>
-          <li><a href="../Products/TBurner7.html">TrapBurner Thermal Cleaners</a></li>
-          <li><a href="../Products/TrapTester7.html">TrapTester Air Flow Tester</a></li>
-          <li><a href="../Products/SootSucker2.html">SootSucker 2 Dust Collector</a></li>
-          <li><a href="../Products/pbsall.html">FSX Banners & Posters</a></li>
-          <li><a href="../Products/Accessories.html">Accessories</a></li>
-          <li><a href="../Products/FSXCleanManual.html">FSX Cleaning Manual</a></li>
-          <li><a href="../Products/products.html">All Products</a></li>
-        </ul>
-  </li>
-       <li class="twolines"><a href="../Competition/compare.html" class="MenuBarItemSubmenu">COMPETITIVE <br />
-       COMPARISON <img src="../SpryAssets/SpryMenuBarDownHoverh.gif" alt="more"/></a>
-<ul>
-  <li><a href="../Competition/Scan-Pulse.html">Cleaning Technology Comparison</a></li>
-       <li><a href="../Competition/FeatureComparison.html">Features Checklist </a></li>
-       </ul>
-       </li>
-       <li class="twolines"><a class="MenuBarItemSubmenu" href="../EnvNSafety/EnvHome.html">ENVIRONMENTAL <br />
-       &amp; SAFETY <img src="../SpryAssets/SpryMenuBarDownHoverh.gif" alt="more"/></a>
-         <ul>
-           <li><a href="../EnvNSafety/RecommendedSafetyEquip.html">Recommended Safety Equipment</a></li>
-           <li><a href="../EnvNSafety/AshDisposal.html">Soot &amp; Ash Disposal</a></li>
-           <li><a href="../BaseLinesNScience/DPFAsh.html">DPF Ash Composition</a>  </li>
-               <li><a href="../EnvNSafety/msds.html">MSDS of Diesel Soot &amp; Ash </a>  </li>
-         </ul>
-       </li>
-       <li class="twolines"><a href="ForBid.html">BID SPECIFICATION<br />
-         LANGUAGE</a></li>
-        <li class="twolines"><a href="LocMap.html">SERVICE <br /> 
-        LOCATOR MAP
-</a></li>
-         <li class="twolines"><a href="../BaseLinesNScience/CurrentBL.html">BASELINE<br />
-           CHART</a></li>
-               <li class="last"><a onmouseover="document.picture.src=image2.src" onmouseout="document.picture.src=image1.src" href="../video/video.html">VIDEO <img src="../images/videoleft.png" alt="View Video" name="picture"/></a></li>
-    </ul>
-</div><!-- #EndLibraryItem --></div>
-    <div class="clear"></div>
-    <div  class="clear"></div>
-   <div class="style1" > 
-      <div id="breadcrumbs">
-   <ul>
-   <li>You are here: 
-   </li>
-   <li><a href="../../index.html">HOME</a> &gt; </li>
-   <li><a href="LocMap.html"> SERVICE LOCATOR MAP</a></li>
-   </ul><br />
-
-   </div> 
-      <span style="text-align:center; margin-top:10px">
-      <h1><img src="../images/FSXcontent-logo.jpg" alt="FSX DPF Cleaner Map" width="86" height="47" align="top"/> SERVICE LOCATOR MAP</h1>
-      </span>
-  
-<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
-<tr>
-    <td valign="top" colspan="2"><div class="key"><img src="../data3/unobfuscated/images/blue_1.png" alt="Pending" width="12" height="21" /> = Installation Pending <br />
-      <img src="../data3/unobfuscated/images/icon_1.png" alt="Available" width="12" height="21" /> = Service Available<br>
-<img src="/site1/data3/unobfuscated/images/yellow_2.png" width="12" height="21" /> = FSX Headquarters</div>
-<div class="info"><ul style="padding:0px; margin:0px;">
-  <li> Municipal Customers and Private Fleets are listed for information only.<br>
-Do not contact for DPF Cleaning Services.</li>
-  <li>Europe and Canada maps show all installed locations, regardless of dealer affiliation or FSX customer type.</li>
-</ul></div></td>
-  </tr>
-  <tr>
-  <td align="center" valign="bottom"> <div id="panel">
-<strong><span style="font-size:18px"> NEAREST LOCATION FINDER</span></strong><br>
-<input id="address" width="250px" type="textbox" placeholder="City, State OR zipcode" onKeydown="Javascript: if (event.keyCode==13) codeAddress();">
-      <input type="button" value="Search" onclick="codeAddress()">
-      <br>
-      Search  City, State, or Zipcode for nearest service loctation<br>
-
-  
-</div> </td><td rowspan="2"><div id="Maptips">Map Tips:<ul>
-  <li>Use the "Nearest Location Finder" to search the map for the closest location to you. (Zoom-in to see all locations as pins can overlap)</li>
-<li>Use your mouse wheel for smoother zooming</li>
-<li>Use "Select Dealer" to see only dealer specific service locations</li></ul></div>
-</td>
-  </tr>
-   <tr>
-   <td align="center">
-<button type="button" onClick="initialize(6)">World</button> 
-<button type="button" onClick="initialize(1)">Asia</button> 
-<button type="button" onClick="initialize(2)">Australia</button>
-<button type="button" onClick="initialize(3)">Europe</button>
-<button type="button" onClick="initialize(4)">North America</button>
-<button type="button" onClick="initialize(5)">South America</button>
-</td><td></td>
-</tr>
-</table>
-
+  <h2 class= "text-center"><img src="img/fsxLogo.png" alt="FSX DPF Cleaner Map" width="73" height="39" align="top"> Service Locator Map</h2><br>
+  </h4>Municipal Customers and Private Fleets are listed for information only.<br>
+       Do not contact for DPF Cleaning Services.<br>
+       Europe and Canada maps show all installed locations, regardless of dealer affiliation or FSX customer type.</h4><br><br>
+  <div class="row">
+    <div class="col-md-12">
+      <select id="type" class="center-block chooseCat" onchange="filterMarkers(this.value);">
+        <option value="">Please select category</option>
+        <option value="first">First</option>
+        <option value="second">Second</option>
+        <option value="third">third</option>
+    </select>
+      <div id="map-canvas" class="center-block"></div>      
+    </div>
+  </div><br><br>
 </div>
-<!--mapcodehere--> 
-<script type="text/javascript">
-             var markersArray = [];
-       var LatLngList = [];
-          var headder =[];
-      var value= [];
-      headder[0]="- Select Dealer -";
-      value[0]="- Select Dealer -";
-      var k=1;
-      var geocoder;
-            var counter=0;
 
-var map;
-    function optionDiv(options){
-      var control = document.createElement('DIV');
-      control.className = "dropDownItemDiv";
-      control.title = options.title;
-      control.id = options.id;
-      control.innerHTML = options.name;
-    headder.push(options.name);
-   
-    google.maps.event.addDomListener(control,'click', function(){
-    //  value.pop();
-      value.push(options.name);
-      //alert(value);
-      //headder.push(options.name);
-      options.action();
-      })
+<script>
 
-      return control;
-     }
-     
-     function checkBox(options){
-      //first make the outer container
-      var container = document.createElement('DIV');
-        container.className = "checkboxContainer";
-        container.title = options.title;
-        
-      var span = document.createElement('SPAN');
-      span.role = "checkbox";
-      span.className = "checkboxSpan";
-                          
-      var bDiv = document.createElement('DIV');
-        bDiv.className = "blankDiv";            
-        bDiv.id = options.id;
-        
-        var image = document.createElement('IMG');
-        image.className = "blankImg";
-        image.src = "http://maps.gstatic.com/mapfiles/mv/imgs8.png";
-        
-        var label = document.createElement('LABEL');
-        label.className = "checkboxLabel";
-        label.innerHTML = options.label;
-        
-        bDiv.appendChild(image);
-        span.appendChild(bDiv);
-        container.appendChild(span);
-        container.appendChild(label);
-        
-        google.maps.event.addDomListener(container,'click',function(){
-          (document.getElementById(bDiv.id).style.display == 'block') ? document.getElementById(bDiv.id).style.display = 'none' : document.getElementById(bDiv.id).style.display = 'block';
-          options.action(); 
-        })
-        return container;
-     }
-     function separator(){
-        var sep = document.createElement('DIV');
-        sep.className = "separatorDiv";
-        return sep;         
-     }
-     
-     function dropDownOptionsDiv(options){
-      //alert(options.items[1]);
-        var container = document.createElement('DIV');
-        container.className = "dropDownOptionsDiv";
-        container.id = options.id;
-        
-        
-        for(var i=0; i<options.items.length; i++){
-          //alert(options.items[i]);
-          container.appendChild(options.items[i]);
-        }
-        
-        //for(item in options.items){
-          //container.appendChild(item);
-          //alert(item);
-        //}        
-    return container;         
-      }
-     
-     function dropDownControl(options){
-        var container = document.createElement('DIV');
-        container.className = 'ddcontainer';
-      var v=1;
-      var j=1;
-      function sethead(k,j,val){  
-      control.innerHTML = null;   
-for (var o=0;o<headder.length;o++) {
-   // for (var l= 1; l < value.length; l++) {
-//alert('single if loop');
-//alert(headder[o]+'  '+value[1]);
+var gmarkers1 = [];
+var markers1 = [];
+var infowindow = new google.maps.InfoWindow({
+    content: ''
+});
 
-        if (headder[o] == value[1]) {
-        
-      
-          control.innerHTML = headder[o];
-           value.pop();
-          //value.pop();
-          //alert('hiya' + value+k);
-      //alert('double if loop');
-      val=1;
-       return control.innerHTML 
-      //  }
-        
-       // j++;
-}
-        }
-      
-       //alert('out for loop');
-        control.innerHTML = headder[0];
-       return control.innerHTML
-        }
-        var control = document.createElement('DIV');
-        control.className = 'dropDownControl';
-      sethead(k,j,v);
-       // control.innerHTML;
-      //options.name;
-        control.id = options.name;
-        var arrow = document.createElement('IMG');
-        arrow.src = "http://maps.gstatic.com/mapfiles/arrow-down.png";
-        arrow.className = 'dropDownArrow';
-        control.appendChild(arrow);           
-        container.appendChild(control);    
-        container.appendChild(options.dropDown);  
-        options.gmap.controls[options.position].push(container);
-        google.maps.event.addDomListener(container,'click',function(){
-        //alert(headder[1]);
-        v++;
-        sethead(k,j,v);k++;
-        control.id = options.name;
-        var arrow = document.createElement('IMG');
-        arrow.src = "http://maps.gstatic.com/mapfiles/arrow-down.png";
-        arrow.className = 'dropDownArrow';
-        control.appendChild(arrow);           
-        container.appendChild(control);    
-        container.appendChild(options.dropDown);
-      
-        (document.getElementById('myddOptsDiv').style.display == 'block') ? document.getElementById('myddOptsDiv').style.display = 'none' : document.getElementById('myddOptsDiv').style.display = 'block';
-      
-         })        
-      
-      }
-     
-     function buttonControl(options) {
-         var control = document.createElement('DIV');
-         control.innerHTML = options.name;
-         control.className = 'button';
-         control.index = 1;
+markers1 = [
+['0', 'Peterbilt of Fort Smith, 6915 Alma Hwy.,Van Buren, AR 72956 ',    35.470509, -94.257696, 'third'],
+['1', 'HO Penn - Holtsville, NY, 660 Union Ave.,Holtsville, NY 11742 Cc',    40.814389, -73.0564079, 'third'],
+['2', 'Cap Rents, 18-25 43rd St,Astoria, NY 11105 N, Ccummins',    40.7780746, -73.8956423, 'third'],
+['3', 'Metaf - Italy, Via Brigate Spartaco Lavagnini, 41,Poggibonsi, SI I-53036,CA',   43.4710205, 11.1386628, 'third'],
+['4', 'Cummins West - Fresno, 5333 North Cornelia Ave.,Fresno, CA 93722 ',   36.814614, -119.881741, 'third'],
+['5', 'Houston Metropolitan Transit Authority, 5700 Eastex Freeway,Houston, TX 77026',   29.809876, -95.33166, 'third'],
+['6', 'Complete Coach Works, 2301 Monarch St.,Alameda, CA 94501 ',   37.784424, -122.308669, 'third'],
+['7', 'Valley Peterbilt, 5100 Taylor Court,Turlock, CA 95382 N,',    37.540927, -120.897727, 'third'],
+['8', 'MHC Kenworth - Olathe KS, 1301 S. Hamilton Circle,Olathe, KS 66061,',   38.863591, -94.812266, 'third'],
+['9', 'Giles & Ransome Inc.  CAT, 2975 Galloway Rd.,Bensalem, PA 19020 ',    40.127457, -74.942095, 'third'],
+['10', 'City of Los Angeles, 2222 East 7th St. Bldg D,Los Angeles, CA 90023,CADN',   34.0345376, -118.224923, 'third'],
+['11', 'Peterbilt of Louisiana, 16310 Commercial Ave.,Baton Rouge, LA 70816,',   30.4453141, -91.0079596, 'third'],
+['12', 'Western Peterbilt, 825 Stillwater Road,West Sacramento, CA 95605 ',    38.589047, -121.55598, 'third'],
+['13', 'Silver State International, 2255 Larkin Circle,Sparks, NV 89431 ',   39.5218291, -119.6990593, 'third'],
+['14', 'Wallwork Truck Center, 900 35th St. Northwest,Fargo, ND 58102 Cc',   46.885915, -96.836963, 'third'],
+['15', 'MHC Kenworth - Atlanta, 5860 Riverview Rd,Atlanta, GA 30126 ',   33.809674, -84.498019, 'third'],
+['16', 'MHC Kenworth - Memphis, 3068 Millbranch Rd,Memphis, TN 38116 Cca',   35.063396, -90.005821, 'third'],
+['17', 'MHC Kenworth - Joplin, 6602 E 32nd St.,Joplin, MO 64804 N',    37.0542904, -94.4090331, 'third'],
+['18', 'DD Williams Equipment Co., 487 El Camino Real South,Salinas, CA 93908,CAD',    36.6140361, -121.5685724, 'third'],
+['19', 'MHC Kenworth - South Dallas, 34661 LBJ Fwy,Dallas, TX 75241 ',   32.6497655, -96.7742918, 'third'],
+['20', 'Rush Truck Center - Amarillo, 8000 I-40 East, Exit #74,Amarillo, TX 79105,C',    35.2042166, -101.831978, 'third'],
+['21', 'Interstate Truck Center, 825 Navy Drive,Stockton, CA 95206 ',    37.938261, -121.301346, 'third'],
+['22', 'Peterbilt Pacific - Kamloops BC, 1955 W. Trans Canada Hwy,Kamloops, BC V1S 1J',    50.661362, -120.401704, 'third'],
+['23', 'Peterbilt Pacific-Prince George,BC22220, 6333 Pacific St.,Prince George, BC V',    53.8625097, -122.7308506, 'third'],
+['24', 'Peterbilt of Wyoming -Cheyenne, 4221 S. Industrial Service Rd.,Cheyenne, WY 8',    41.120627, -104.744035, 'third'],
+['25', 'Beaverton School District, TSC 1270 NW 167th PL,Beaverton, OR 97006,CADN',   45.528459, -122.848221, 'third'],
+['26', 'Allstate Sales & Leasing - St Paul, 558 E Villaume Ave,St Paul, MN 55075,CA',    44.88169, -93.026339, 'third'],
+['27', 'Tri-State Diesel Kenworth, 1 Depot Hill Road,Enfield, CT 06082 C',   41.942952, -72.60454, 'third'],
+['28', 'Halvor Lines Inc, 217 Grand Ave.,Superior, WI 54880,CADN, N, ',    46.735712, -92.0933217, 'third'],
+['29', 'Cummins Rocky Mountain - Denver, 8211 E. 96th Ave.,Henderson, CO 80640,CAD',   39.872094, -104.894723, 'third'],
+['30', 'Cummins Rocky Mountain - SLC, 2168 SO. 5370 W.,West Valley City, UT 84120,C',    40.7227057, -112.0194812, 'third'],
+['31', 'Cummins Rocky Mountain - El Paso, 14333 Gateway West,El Paso, TX 79928,CAD',   31.6969279, -106.2786516, 'third'],
+['32', 'Cummins Rocky Mountain - Albuquerque, 1921 Broadway NE,Albuquerque, NM 87102',   35.10418, -106.6416969, 'third'],
+['33', 'Cummins Hawaii, 91-230 Kalaeloa Blvd,Kapolei, HI 96707 N',   21.30932, -158.099511, 'third'],
+['34', 'Cummins Northwest - Portland, 4711 N. Basin Avenue,Portland, OR 97208,CAD',    45.556787, -122.698911, 'third'],
+['35', 'DPF Cleaning Specialist Limited, 5325 Outer Drive,Windsor, ON N9A6J3,CAD',   42.2290612, -82.9902495, 'third'],
+['36', 'Western Peterbilt - Alaska, 2756 Commercial Drive,Anchorage, AK 99501,CAD',    61.222222, -149.828706, 'third'],
+['37', 'Peterbilt of Fargo, 3611 38th St. Sw,Fargo, ND 58104 N, ',   46.823917, -96.842849, 'third'],
+['38', 'Cleveland Peterbilt LLC,  8650 Brookpark Rd,Cleveland, OH 44129 ',   41.41869, -81.745204, 'third'],
+['39', 'Peterbilt of Cincinnati, 2550 Annuity Dr.,Cincinnati, OH 45241 C',   39.28652, -84.422659, 'third'],
+['40', 'Peterbilt of Eau Claire, 6500 Texaco Drive,Eau Claire, WI 54703 ',   44.8439516, -91.5985778, 'third'],
+['41', 'Peterbilt of Winona, 27053 Country Rd. 12,Winona, MN 55987 ',    44.0227009, -91.7631725, 'third'],
+['42', 'MHC Kenworth - Oklahoma City, 7200 W I 40 Service Rd,Oklahoma City, OK 73128',   35.45936792580415, -97.63905421218112, 'third'],
+['43', 'MHC Kenworth - Chattanooga, 2000 E. 29th St.,Chattanooga, TN 37407,',    35.010407, -85.287333, 'third'],
+['44', 'MHC Kenworth - Nashville, 550 Spence Lane,Nashville, TN 37210 Cc',   36.142185, -86.72012, 'third'],
+['45', 'MHC Kenworth - Fort Worth, 2520 Berner St.,Fort Worth, TX 76111 ',   32.8018209, -97.31741, 'third'],
+['46', 'MHC Kenworth - Texarkana, 912 E. Loop Drive,Texarkana, TX 75501 ',   33.4253336, -94.0952646, 'third'],
+['47', 'MHC Kenworth - Springfield, 3301 E. Kearney,Springfield, MO 65803',    37.240093, -93.226163, 'third'],
+['48', 'MHC Kenworth - Little Rock, 8001 East Port Dr.,Little Rock, AR 72206,CAD',   34.717729, -92.18591, 'third'],
+['49', 'MHC Kenworth - Denver, 7007 Sandown Rd,Denver, CO 80216 N',    39.7732583, -104.907075, 'third'],
+['50', 'MHC Kenworth - Springdale, 4720 W. Sunset,Springdale, AR 72762 C',   36.176131, -94.182618, 'third'],
+['51', 'MHC Kenworth - El Paso, 10901 Gateway Boulevard West,El Paso, TX 79935,CAD',   31.748001, -106.336965, 'third'],
+['52', 'Inland Kenworth - Langley, 26770 Gloucester Way,Langley, BC V4W3V6,',    49.10064, -122.4833431, 'third'],
+['53', 'Wisconsin Kenworth - Windsor, 6395 Lake Road,Windsor, WI 53598 C',   43.197822, -89.346109, 'third'],
+['54', 'R & S Unlimited, 12220 N. 153rd Circle,Bennington, NE 68007 ',   41.3702035, -96.1536567, 'third'],
+['55', 'Kenworth Lloydminster, 6101 63rd Ave.,Lloydminister, AB T9V 3C1 ',   53.2984264, -110.036688, 'third'],
+['56', 'Western Peterbilt - Fife, 3443 - 20th St. E.,Fife, WA 98424 ',   47.239434, -122.383538, 'third'],
+['57', 'Edmonton Kenworth, 17335 118th Ave.,Edmonton, AB T5S 2P5 ',    53.5702904, -113.6224446, 'third'],
+['58', 'Diesel Exhaust & Emissions, 11043 Shoemaker Ave.,Santa Fe Springs, CA 90670,',   33.9315353, -118.0552366, 'third'],
+['59', 'Cummins NPower - St Paul, 1600 Buerkle,White Bear Lake, MN 55110 ',    45.039986, -93.034327, 'third'],
+['60', 'Cummins Rocky Mountain - Phoenix, 651 N. 101st Ave,Avondale, AZ 85323,CAD',    33.452761, -112.275405, 'third'],
+['61', 'Marborg Industries, 136 N. Quarantina St.,Santa Barbara, CA 93103',    34.4210511, -119.6831664, 'third'],
+['62', 'Cummins Npower - Chicago, 7145 Santa Fe Drive,Hodgkins, IL 60525 ',    41.759067, -87.861484, 'third'],
+['63', 'Stevens Transport, 9757 Military Parkway,Dallas, TX 75227,CADN, ',   32.771308, -96.653681, 'third'],
+['64', 'Thunder Bay Truck Centre, 1145 Commerce Street,Thunder Bay, ON P7E 6E8,CAD',   48.3725129, -89.2992667, 'third'],
+['65', 'Cummins Rocky Mountain - Grand Junction, 731 Scarlet Drive,Grand Junction, CO ',   39.110673, -108.638875, 'third'],
+['66', 'Cummins Rocky Mountain - Billings, 5151 Midland Road,Billings, MT 59101,CAD',    45.750972, -108.545431, 'third'],
+['67', 'Cummins Rocky Mountain - Gillette, 2600 East 2nd St.,Gillete, WY 82718,CAD',   44.2923837, -105.4632886, 'third'],
+['68', 'Cummins Rocky Mountain-Boise, 8949 South Federal Way,Boise, ID 83716,CAD',   43.520804, -116.147754, 'third'],
+['69', 'Cummins Rocky Mountain - Las Vegas, 2750 Losee Road,North Las Vegas, NV 89030',    36.209892, -115.131814, 'third'],
+['70', 'Custom Truck Sales Kenworth - Winnipeg, 357 Oak Point Hwy,Winnipeg, MB R2R1T9',    49.9370299, -97.2231808, 'third'],
+['71', 'Crown Disposal, 9189 De Garmo Ave,Sun Valley, CA 91352 N',   34.2359129, -118.376079, 'third'],
+['72', 'Arpielle Equipment Co. Inc., 5-02 54th Avenue,Long Island City, NY 11101,CA',    40.739931, -73.957221, 'third'],
+['73', 'Kenworth of St Louis, 185 Soccer Park Rd,Fenton, MO 63026 ',   38.544828, -90.440426, 'third'],
+['74', 'Bison Transport - Calgary, 234070 Wrangler Road SE,Rockyview, AB T1X 0K2,CA',    50.9855205, -113.902668, 'third'],
+['75', 'Bison Transport - Winnipeg Shop, 1001 Sherwin Rd,Winnipeg, MB R3H 0T8,CAD',    49.9083073, -97.2116784, 'third'],
+['76', 'Bison Transport - Mississauga Shop, 5850 Shawson Dr.,Mississaugua, ON L4W 3W5',    43.6482161, -79.6549839, 'third'],
+['77', 'City of Portland, 721 W. 9th Ave. Suite #350,Portland, OR 97209,CADN, ',   45.528402, -122.680598, 'third'],
+['78', 'Cummins Rocky Mountain - Farmington, 1101 Troy King Rd,Farmington, NM 87401,',   36.740979, -108.266935, 'third'],
+['79', 'Cummins Rocky Mountain - Rock Springs, 2000 Foothill Blvd.,Rock Springs, WY 8',    41.5769, -109.2680214, 'third'],
+['80', 'Cummins Rocky Mountain - Elko, 2735 Ruby Vista Dr.,Elko, NV 89801',    40.8505475, -115.7520978, 'third'],
+['81', 'Cummins Rocky Mountain - Reno, 150 Glendale Avenue,Sparks, NV 89431,',   39.5274487, -119.7456518, 'third'],
+['82', 'Cherokee Freight Lines, 5463 Cherokee Rd.,Stockton, CA 95215,CADN, Cca',   38.005097, -121.238739, 'third'],
+['83', 'Kenworth Montreal, 7500 Route Transcanadienne,St Laurent, QC H4T 1A5,CAD',   45.4885574, -73.7111431, 'third'],
+['84', 'Kenworth of Alabama, 2220 Finley Blvd.,Birmingham, AL 35234 ',   33.5444514, -86.8210489, 'third'],
+['85', 'DPF Services, LLC, 12605 Mill Road,Fredricksburg, VA 22407 ',    38.2995289, -77.5778376, 'third'],
+['86', 'Maryland Transit Authority, 1515 Washington Blvd.,Baltimore, MD 21230,CAD',    39.2783321, -76.6383346, 'third'],
+['87', 'A&A Exhaust, 480 Grays Rd, Unit 4,Hamilton, ON L8E2Z4 N,',   43.2388929, -79.737448, 'third'],
+['88', 'Kern High School District, 5801 Sundale Ave.,Bakersfield, CA 93309,CADN',    35.342523, -119.065304, 'third'],
+['89', 'DSU Peterbilt - Portland, OR, 5555 N. Lagoon Ave.,Portland, OR 97217,CAD',   45.562954, -122.713879, 'third'],
+['90', 'Mid-America Peterbilt, #1 North Central Drive,OFallon, MO 63366 ',   38.804729, -90.727617, 'third'],
+['91', 'Peterbilt of Springfield, 3026 North Mulroy Road,Strafford, MO 65757,CAD',   37.248983, -93.183331, 'third'],
+['92', 'Metropolitan Water District of S. Calif, 700 Moreno Ave.,La Verne, CA 91750,',   34.1124968, -117.7828569, 'third'],
+['93', 'Peterbilt Pacific - Abbotsford, 1001 Coutts Way,Abbotsford, BC V2S7M2,CAD',    49.0200085, -122.2661363, 'third'],
+['94', 'Greatwest Kenworth, 7202 98 Street,Clairmont, AB T0H 0W0 ',    55.14897, -119.142019, 'third'],
+['95', 'Utah Transit Authority, 3600 South 700 West,Salt Lake City, UT 84119,CAD',   40.691659, -111.914249, 'third'],
+['96', 'Uhl International, 4300 POPLAR LEVEL RD,Louisville, KY 40213 Cca',   38.196519, -85.7079659, 'third'],
+['97', 'Alban Engine Power Systems, 6387 Old Washington Rd.,Elkridge, MD 21075,CAD',   39.203144, -76.731214, 'third'],
+['98', 'Diamond International Trucks - Lowell, 807 S. Bloomington,Lowell,, AR 72745,',   36.2416, -94.1358, 'third'],
+['99', 'Covenant Transport, 400 Birmingham Highway,Chattanooga, TN 37419,CADN, ',    35.007582, -85.389925, 'third'],
+['100', 'City of San Jose, 1661 Senter Road Bldg F,San Jose, CA 95112,CADN, Cca',    37.319064, -121.8594785, 'third'],
+['101', 'TopCats - Netherlands, Nikkelstraat 19b,AJ Lelystad,  8211 ',   52.545701, 5.52613, 'third'],
+['102', 'Western States Caterpillar - Spokane, 520 N Dyer Rd,Spokane, WA 99212,CAD',   47.661752, -117.318132, 'third'],
+['103', 'Western States Caterpillar - Boise, 400 E. Overland Rd.,Boise, ID 83642,CAD',   43.590184, -116.389297, 'third'],
+['104', 'Cummins Northeast - Buffalo, 700 Aero Drive,Buffalo, NY 14225 Cc',    42.941349, -78.71622, 'third'],
+['105', 'Volvo/Renault Truck, 59, Rue Amedee Gordini,Limoges,  87950 ',    45.892555, 1.280161, 'third'],
+['106', 'International Trucks of Hawaii, 91-230 Kalaeloa Blvd.,Kapolei, HI 96707,CAD',   21.309463, -158.09892, 'third'],
+['107', 'City of Edmonton, 1 Sir Winston Churchill Square,Edmonton, AB T5J2R7,CAD',    53.544607, -113.490515, 'third'],
+['108', 'DPF Cleaning Services, Inc., 909 South Greenwood Ave Suite H,Montebello, CA 9',   33.997003, -118.118393, 'third'],
+['109', 'Wallwork Kenworth - Bismarck, 4020 Divide Ave,Bismarck, ND 58502 ',   46.829077, -100.726277, 'third'],
+['110', 'Cummins Western Canada - Surrey, 18452 96th Ave,Surrey, BC V4N 3P8,',   49.176917, -122.710775, 'third'],
+['111', 'Kenworth of Indianapolis, 2929 S. Holt Rd.,Indianapolis, IN 46241',   39.721826, -86.224971, 'third'],
+['112', 'OHalloran International, 3311 Adventureland Drive,Altoona, IA 50009,CAD',   41.6587, -93.501015, 'third'],
+['113', 'Greatwest Kenworth, 5909 6 Street Southeast,Calgary, AB T2H 1L8 ',    50.998825, -114.050347, 'third'],
+['114', 'Dallas Area Rapid Transit, 1401 Pacific Avenue,Dallas, TX 75202,CADN, ',    32.782082, -96.80077, 'third'],
+['115', 'Palm Peterbilt, 5313 Dr Martin Luther King Blvd.,Fort Myers, FL 33905,CAD',   26.636282, -81.804363, 'third'],
+['116', 'FSX Equipment, Inc., WWW.FSXINC.COM10404 Mountain Loop Hwy,Granite Falls, WA ',   48.090885, -121.96346199999999, 'third'],
+['117', 'City of Phoenix, 405 N. 79th Avenue,Phoenix, AZ 85043,CADN, N,',    33.45901, -112.229439, 'third'],
+['118', 'Ohio Caterpillar, www.ohiocat.com900 Ken-Mar Industrial Pkwy.,Broadview Heights, OH, ',   41.317019, -81.656784, 'third'],
+['119', 'Volvo NAP - Sweden, Dept 91650, Geo. loc. L3,Goteborg,  SE-405 08',   57.701389, 11.97631, 'third'],
+['120', 'Nelson International, 4235 W. Main Ave.,Fargo, ND 58103 N',   46.876446, -96.852158, 'third'],
+['121', 'Marthas Vineyard Regional Transit Authority, 11 A Street,Edgartown, MA 02539',    41.391582, -70.603321, 'third'],
+['122', 'Olson & Johnson International, North Highway 59,Marshall, MN 56258,',   44.462225, -95.796679, 'third'],
+['123', 'Stahl Peterbilt, 18020 118th Avenue,Edmonton, AB T5S2G2 N',   53.5699948, -113.6321337, 'third'],
+['124', 'Ziegler Caterpillar, 2225 255th St,Saint Cloud, MN 56301 ',   45.492715, -94.157332, 'third'],
+['125', 'Santex International, 1380 Ackerman Rd,San Antonio, TX 78219 Cca',    29.440971, -98.38101, 'third'],
+['126', 'Cummins Power South - Orlando, 4820 N. Orange Blossom Trail,Orlando, FL 32810',   28.601019, -81.418755, 'third'],
+['127', 'Greater Dayton Regional Transit Authority, 4 South Main Street,Dayton, OH 454',   39.759397, -84.191609, 'third'],
+['128', 'Cummins Power South - Chattanooga, 1509 E. 26th Street,Chattanooga, TN 37407',    35.017507, -85.291443, 'third'],
+['129', 'Cummins Power South - Atlanta, 100 University Ave, SW,Atlanta, GA 30315,CAD',   33.7209, -84.3909, 'third'],
+['130', 'Glover International - Red Deer, 6444 67th Street,Red Deer, AB T4P1A1,CAD',   52.288856, -113.840278, 'third'],
+['131', 'VINCENTS GENERAL SERVICES, 1037 S. Hatcher Ave,City of Industry, CA 91748,',    34.002838, -117.923401, 'third'],
+['132', 'Gunnison Valley Regional Transit Authority, 803 Butte Avenue,Crested Butte, CO ',   38.87337, -106.977659, 'third'],
+['133', 'Cummins Northwest - Spokane, 11134 W. Westbow Blvd,Spokane, WA 99224,CAD',    47.585837, -117.5687, 'third'],
+['134', 'Challenger Motor Freight, 300 Maple Grove Road,Cambridge, ON N3E1BT,',    43.419092, -80.385811, 'third'],
+['135', 'Rush Truck Center - Atlanta, www.rushenterprises.com2500 Button Gwinnett Drive,Atlanta, ',    33.919723, -84.241561, 'third'],
+['136', 'Carolina International Trucks - Greer, 2520 Hwy 14 South,Greer, SC 29650,CA',   34.870553, -82.223677, 'third'],
+['137', 'Cornhusker International Trucks - Omaha, www.cornhuskerintl.com4502 S. 110th St.,Omaha, ',    41.215504, -96.084465, 'third'],
+['138', 'Capital City International, 1700 N. Grand River,Lansing, MI 48906',   42.753774, -84.556061, 'third'],
+['139', 'Motor Trucks, http//www.motortrucksinc.com/315 Riverside Road,Everett, WA 98',    47.987788, -122.201173, 'third'],
+['140', 'DSU Peterbilt & GMC Truck, 3727 N Phoenix Rd,Phoenix, OR 97535 C',    42.281656, -122.808986, 'third'],
+['141', 'Mid-State Truck Service, 2100 E. 29th St.,Marshfield, WI 54449 C',    44.64091, -90.141517, 'third'],
+['142', 'Maudlin International, 739 Fentress Blvd,Daytona, FL 32114 ',   29.206759, -81.084533, 'third'],
+['143', 'Rush Truck Center - Odessa, 1230 S. Grandview,Odessa, TX 79761 C',    31.839252, -102.339339, 'third'],
+['144', 'Diesel Engine Specialist, 6843 E Slauson Ave,Commerce, CA 90040 ',    33.982042, -118.14005600000002, 'third'],
+['145', 'Piedmont Peterbilt, 7061 Albert Pick Rd,Greensboro, NC 27409 Cca',    36.07600, -79.955100, 'third'],
+['146', 'Ward International Trucks - Mobile, 2101 Perimeter Road,Mobile, AL 36615,CA',   30.642604, -88.082829, 'third'],
+['147', 'Winslow-Gerolamy International, 1018 Lansdowne St W,Peterborough, ON K9J6Y5,',    44.282123, -78.345015, 'third'],
+['148', 'Tallman Truck Centre International, 2716 Sheffield Road,Ottawa, ON K1B3V9,C',   45.401323, -75.604662, 'third'],
+['149', 'Cumberland International Trucks, www.cumberlandtrucks.com1901 Lebanon Pike,Nashville, T',   36.157001, -86.708592, 'third'],
+['150', 'Goodman Truck & Tractor, 17020 PATRICK HENRY HWY,Amelia, VA 23002',   37.34044, -77.993107, 'third'],
+['151', 'Kern County Superintendent of Schools, 705 South Union Ave,Bakersfield, CA 93',   35.34891, -119.003234, 'third'],
+['152', 'Cookson Motors International, 1150 Gordon Drive,Kelowna, BC V1Y3E4,',   49.894725, -119.477094, 'third'],
+['153', 'Valley Freightliner, 277 Stewart Rd SW,Pacific, WA 98047 ',   47.250287, -122.249668, 'third'],
+['154', 'Liberty International of New Hampshire, 1400 S. Willow St.,Manchester, NH 031',   42.957795, -71.435976, 'third'],
+['155', 'Bettendorf Trucking & Bettendorf Emissions Solutions, 4545 W End Rd,Arcata, CA ',   40.897924, -124.076131, 'third'],
+['156', 'Southland International Trucks, 4310 - 9 Avenue North,Lethbridge, AB T1H6N1,',    49.71262, -112.778959, 'third'],
+['157', 'Diamond International Trucks - Edmonton, 17020 - 118th Ave,Edmonton, AB T5S1S',   53.5704986, -113.6176776, 'third'],
+['158', 'Cerni Motor Sales, 5751 Cerni Pl RT46&8,Youngstown, OH 44515 Cca',    41.094831, -80.748859, 'third'],
+['159', 'Cervus Equipment Peterbilt - Mississauga, 1257 Eglinton Ave E,Mississauga, ON ',    43.633585, -79.623297, 'third'],
+['160', 'Riverview International Trucks, 2445 Evergreen Ave,West Sacramento, CA 95691',    38.576919, -121.54384, 'third'],
+['161', 'Lowe & Moyer Garage, 731 Church St,Folgelsville, PA 18051 ',    40.582051, -75.629929, 'third'],
+['162', 'Selking International - Ft. Wayne, www.selkinginternational.com2807 Goshen Road,Ft Wayne, ',    41.115455, -85.178995, 'third'],
+['163', 'Five Star International - Harrisburg, 1810 South 19th St,Harrisburg, PA 17104',   40.242699, -76.847636, 'third'],
+['164', 'Five Star International - Erie, 6100 Wattsburg Road,Erie, PA 16509,',   42.091803, -80.003954, 'third'],
+['165', 'Northern Ontario Milk Transportation, 437100 Hawn Drive,New Liskearn, ON P0J1',   47.504884, -79.699453, 'third'],
+['166', 'Marten Transport - Indianapolis, 4825 W. 84th Street,Indianapolis, IN 46268,',    39.906872, -86.241656, 'third'],
+['167', 'Marten Transport - Forest Park, 317 Cash Memorial Blvd,Forest Park, GA 30297',    33.608397, -84.379077, 'third'],
+['168', 'Marten Transport - Ontario, 2300 E. Francis St.,Ontario, CA 91761,CADN,',   34.041013, -117.601905, 'third'],
+['169', 'Marten Transport - Mondovi, 251 Commercial St.,Mondovi, WI 54755,CADN, ',   44.579695, -91.659064, 'third'],
+['170', 'Pardos Truck Service Parts, www.pardos.net2020 Delsea Drive,Sewel, NJ 08080',   39.763123, -75.109334, 'third'],
+['171', 'Blanchard Machinery Co. - Greenville, www.blanchardmachinery.com/home/6755 Frontage Road,Greenvil',   34.792595, -82.407193, 'third'],
+['172', 'Blanchard Machinery Co. - Columbia, www.blanchardmachinery.com/home/3151 Charleston Highway,Colum',   33.925586, -81.076142, 'third'],
+['173', 'NATIONAL GEAR & PISTON,INC., 225 4th ave,MT VERNON, NY 10550 Cca',    40.9059178, -73.83479419999998, 'third'],
+['174', 'Pinnacle International, 2050 S.HIGHWAY DRIVE SE,Redcliff, AB T0J2P0,',    50.06999, -110.755359, 'third'],
+['175', 'Hunter Peterbilt - Butler, PA, 174 Onieda Valley Rd,Butler, PA 16002,CAD',    40.858485, -79.841549, 'third'],
+['176', 'Hunter Keystone Peterbilt - Lancaster, 1463 Manheim Pike,Lancaster, PA 17601',    40.072416, -76.334318, 'third'],
+['177', 'Southland International - Alabama, 200 Oxmoor Blvd,Homewood, AL 35209,CAD',   33.463097, -86.829917, 'third'],
+['178', 'MHC Kenworth - Dallas, 4040 Irving Blvd,Dallas, TX 75247 ',   32.807921, -96.886476, 'third'],
+['179', 'RWC International Trucks, Inc. - Seattle, 13123 48TH AVE S,Seattle, WA 98168',    47.485503, -122.270545, 'third'],
+['180', 'Hillsborough Area Transit Authority, 4305 East 21st Avenue,Tampa, FL 33605,',   27.970352, -82.409836, 'third'],
+['181', 'MHC Kenworth - Tulsa, 6141 S. 49th W. Ave,Tulsa, OK 74131 ',    36.071000, -96.047374, 'third'],
+['182', 'MHC Kenworth - Kansas City, MO, 1524 N. Corrington,Kansas City, MO 64120,CA',   39.132627, -94.496393, 'third'],
+['183', 'Rush Truck Center - SLC, 964 S. 3800 West,Salt Lake City, UT 84104,',   40.747393, -111.982387, 'third'],
+['184', 'Regional International - Henrietta, 1007 Lehigh Station Rd,Henrietta, NY 1446',   43.058665, -77.644006, 'third'],
+['185', 'Rush Truck Center - Houston, 10200 North Loop East,Houston, TX 77029,CAD',    29.778581, -95.264368, 'third'],
+['186', 'NorCal Kenworth - Sacramento, 707 Display Way,Sacramento, CA 95838,',   38.639663, -121.450448, 'third'],
+['187', 'Lakeside International, LLC, 11000 W. Silver Spring Rd,Milwaukee, WI 53225,',   43.119418, -88.051196, 'third'],
+['188', 'C-B Kenworth, 42 Wallace Ave,South Portland, ME 04106 N,',    43.613846, -70.305613, 'third'],
+['189', 'Tallman Truck Center, 7450 Torbram Road,Mississauga, ON L4T1G9 C',    43.703194, -79.665162, 'third'],
+['190', 'MHC Kenworth - Columbia, 8660 I-70 Dr SE,Columbia, MO 65201 ',    38.958204, -92.207006, 'third'],
+['191', 'Cummins Western Canada - Calgary, 4887 35th St SE,Calgary, AB T2B3H6,CAD',    51.011222, -113.981851, 'third'],
+['192', 'Cummins Western Canada - Edmonton, 11751 181st St,Edmonton, AB T5S2K5,CAD',   53.568268, -113.633725, 'third'],
+['193', 'Southwestern Ohio Regional Transit Authority, 1401 Bank Street,Cincinnati, OH ',    39.119896, -84.537, 'third'],
+['194', 'Madison Metro Transit, 1101 E. Washington Ave.,Madison, WI 53703,CADN, ',   43.084813, -89.369422, 'third'],
+['195', 'Central Ohio Transit Authority, 1333 Fields Ave,Columbus, OH 43201,CADN',   39.991201, -82.991812, 'third'],
+['196', 'Whites Tractor & Truck - Greensboro, 7045 Albert Pick Road,Greensboro, NC 27',    36.07762, -79.951843, 'third'],
+['197', 'Diesel Machine Works, 4260 E. Washington Blvd,Los Angeles, CA 90023,',    34.00838, -118.184029, 'third'],
+['198', 'Waters International, 65 Hwy 19 North,Meridian, MS 39304 ',   32.353481, -88.73288, 'third'],
+['199', 'Rush Truck Center - Twin Falls, 259 4th Ave West,Twin Falls, ID 83301,CAD',   42.55513, -114.474896, 'third'],
+['200', 'Packer City International Trucks, 611 Hansen Road,Green Bay, WI 54304,CAD',   44.471639, -88.062464, 'third'],
+['201', 'K. Neal International Trucks, 5000 Tuxedo Road,Hyattsville, MD 20781,CAD',    38.919056, -76.929959, 'third'],
+['202', 'Komatsu, LTD, 8-4, 2-Chome,Tokyo, JP 103-0012 N, Ccummi',   35.688141, 139.780106, 'third'],
+['203', 'East Coast International Trucks - Moncton, 100 Urquhart Ave,Moncton, NB E1H2R',   46.128762, -64.755097, 'third'],
+['204', 'Sun State International Trucks, 7105 East 6th Avenue,Tampa, FL 33619,CAD',    27.959393, -82.376982, 'third'],
+['205', 'Stadium International Trucks, 105 7th North St,Liverpool, NY 13088,',   43.087299, -76.164294, 'third'],
+['206', 'McCandless International Trucks, 3780 Losee Road,North Las Vegas, NV 89030,',   36.228741, -115.118869, 'third'],
+['207', 'Cummins Atlantic, 11101 Nations Ford Road,Charlotte, NC 28273 Cc',    35.11547, -80.910249, 'third'],
+['208', 'Cummins Mid-South, 317 N Old Missouri Rd,Springdale, AR 72764 Cc',    36.186537, -94.116092, 'third'],
+['209', 'Taavura Holdings LTD ? Tashtit Division, HaHazon 2,Ramla,  72102',    31.923309, 34.8647, 'third'],
+['210', 'Camions International Elite, 265 Rue Etienne-Dubreuil,Quebec, PQ G1M4A6,CAD',   46.828426, -71.274411, 'third'],
+['211', 'Difitech (Diesel Filter Technology), Hekkestraat 47A,Hofstade-Aalst,  9308,',   50.984515, 4.052705, 'third'],
+['212', 'Cummins Eastern Canada - Dartmouth, 50 Simmonds Drive,Dartmouth, NS B3B1R3,',   44.716632, -63.595206, 'third'],
+['213', 'Coast Counties Peterbilt - San Jose, 1740 N 4th St,San Jose, CA 95112,CAD',   37.368228, -121.909957, 'third'],
+['214', 'CC Poulin Equipment International, 125 Conservation Rd,Thunder Bay, ON P7B6T8',   48.42164, -89.277089, 'third'],
+['215', 'Western Peterbilt - Spokane, 23501 E. Knox Avenue,Liberty Lake, WA 99019,CA',   47.679208, -117.089957, 'third'],
+['216', 'Rush Truck Center - Charlotte, 3510 Jeff Adams Drive,Charlotte, NC 28206,CA',   35.274397, -80.824038, 'third'],
+['217', 'Chicago Transit Authority, 7801 S. Vincennes,Chicago, IL 60620,CADN, C',    41.752559, -87.633588, 'third'],
+['218', 'Rush Truck Center - Richmond, 11525 N Lake Ridge Parkway,Ashland, VA 23005,',   37.726672, -77.458015, 'third'],
+['219', 'Roberts Truck Center - OKC, 1735 West Reno Ave,Oklahoma City, OK 73106,CAD',    35.464371, -97.544213, 'third'],
+['220', 'Fyda Freightliner - Canonsburg, 20 Fyda Drive,Canonsburg, PA 15317,',   40.246861, -80.203559, 'third'],
+['221', 'Kenworth of Buffalo, 100 Commerce Drive,Buffalo, NY 14218 ',    42.831138, -78.849121, 'third'],
+['222', 'Altruck International Truck - Kitchener, 48 Ardelt Ave,Kitchener, ON N2C2C9,',    43.427488, -80.477956, 'third'],
+['223', 'Harbour International Trucks, 19880 96th Ave,Langley, BC V1M0B8 ',    49.176858, -122.671502, 'third'],
+['224', 'Rush Truck Center - Indianapolis, 1325 W. Thompson Road,Indianapolis, IN 4621',   39.692379, -86.183579, 'third'],
+['225', 'Carrier Truck Center, 90 Enterprise Drive,London, ON N6N1A8 ',    42.933955, -81.18209, 'third'],
+['226', 'Rush Truck Center - Chicago, 4655 S Central Ave,Chicago, IL 60638',   41.808422, -87.762535, 'third'],
+['227', 'Rush Truck Center - Decatur, 1605 E Pershing Rd,Decatur, IL 62526',   39.877154, -88.935651, 'third'],
+['228', 'Rush Truck Center - St Peters, 3101 Industrial Park Place W,St Peters, MO 633',   38.800697, -90.669238, 'third'],
+['229', 'Zacherl Motor Truck Sales, 795 Greenville Pike,Clarion, PA 16214 ',   41.195648, -79.373243, 'third'],
+['230', 'Smith International Truck Center, 918 Cedar Creek Road,Fayetteville, NC 28301',   35.029997, -78.84427, 'third'],
+['231', 'Hill International Trucks, 300 Alton Hill Drive,Eighty Four, PA 15330,CAD',   40.184488, -80.094302, 'third'],
+['232', 'Lewis Motor Sales, Inc, 76 Mapleview Drive West,Barrie, ON L4N9H6',   44.333572, -79.693447, 'third'],
+['233', 'Rush Truck Center - Phoenix, 2600 W. McDowell,Phoenix, AZ 85009 ',    33.4659523, -112.1150089, 'third'],
+['234', 'Community Transit, 7100 Hardeson Road,Everett, WA 98203,CADN, N',   47.934934, -122.251349, 'third'],
+['235', 'East Tennessee Zinc, 1977 W Highway 11e,New Market, TN 37820,CADN, Cca',    36.079384, -83.619455, 'third'],
+['236', 'Rush Truck Leasing - Pico Rivera, 7837 E. Telegraph Road,Pico Rivera, CA 9066',   33.972583, -118.120031, 'third'],
+['237', 'Volvo/Renault Trucks, Gare 56 - 1 Avenue Henri Germain,Saint Priest, FR 69802',   45.70919, 4.909705, 'third'],
+['238', 'Peterbilt of Norfolk, http//www.pbtruck.com/2001 S. 13th St,Norfolk, NE 6870',    42.008003, -97.426847, 'third'],
+['239', 'Jackson Group Peterbilt - Grand Junction, 309 Raptor Road,Fruita, CO 81521,',   39.154495, -108.740795, 'third'],
+['240', 'Jackson Group Peterbilt - Idaho Falls, 4460 W. Andco Dr.,Idaho Falls, ID 8340',   43.439735, -112.117166, 'third'],
+['241', 'VIA Metropolitan Transit, 1720 N. Flores St,San Antonio, TX 78212,CADN,',   29.443217, -98.503718, 'third'],
+['242', 'Rush Truck Center - Tulsa, 6015 S. 49th W. Ave,Tulsa, OK 74107 C',    36.076861, -96.047367, 'third'],
+['243', 'Truck King International, 58-80 Borden Ave,Maspeth, NY 11378 Cca',    40.728332, -73.909498, 'third'],
+['244', 'Nickel City International Truck, 1035 Falconbridge Road,Sudbury, ON P3A4M9,',   46.520127, -80.920653, 'third'],
+['245', 'G J Bell International Truck, 2030 1st Avenue N,Saskatoon, SK S7K2A1,CAD',    52.156781, -106.660403, 'third'],
+['246', 'Peterbilt of Wyoming - Casper, 4113 W Yellowstone Hwy,Casper, WY 82604,CAD',    42.848755, -106.377267, 'third'],
+['247', 'KJM Alignment Services Inc, 1060 Trillium Dr,Kitchener, ON N2R1R5',   43.40428, -80.485529, 'third'],
+['248', 'Kenworth of Mississippi, 421 Hwy 49 S.,Richland, MS 39218 ',    32.257132, -90.161543, 'third'],
+['249', 'Five Star International - Allentown, 2131 Hanover Avenue,Allentown, PA 18109',    40.622625, -75.423635, 'third'],
+['250', 'Sternberg International, 8950 N Kentucky Ave,Evansville, IN 47725',   38.059162, -87.54553, 'third'],
+['251', 'City of Modesto, 1609 8th St,Modesto, CA 95352,CADN, N, Ccumm',   37.6448829, -121.0090636, 'third'],
+['252', 'Marten Transport - Desoto, TX, 727 East Wintergreen,Desoto, TX 75115,CAD',    32.618902, -96.844769, 'third'],
+['253', 'NYC Dept of Sanitation - Cioffe, 10601 Avenue D,Brooklyn, NY 11236,CADN',   40.6545, -73.90078, 'third'],
+['254', 'NYC Dept of Sanitation - QBS, 52-07 58th Street,Woodside, NY 11377,CADN',   40.735431, -73.909504, 'third'],
+['255', 'Gabrielli Kenworth, 153-20 S. Conduit Ave,Jamaica, NY 11434 ',    40.666174, -73.786065, 'third'],
+['256', 'Con-way Freight - Columbus, 2625 Westbelt Drive,Columbus, OH 43228,CADN',   40.005812, -83.123074, 'third'],
+['257', 'Con-way Freight - Dallas, 5020 Calvert Street,Dallas, TX 75247,CADN, C',    32.808886, -96.868958, 'third'],
+['258', 'Doonan Peterbilt of Great Bend, KS, 36 NE Hwy 156,Great Bend, KS 67530,CAD',    38.369883, -98.691965, 'third'],
+['259', 'TOMS TRUCK CENTER, 936 E. 3RD ST.,SANTA ANA, CA 92701 N',   33.746968, -117.858205, 'third'],
+['260', 'NYC Dept of Sanitation - Manhattan, 640 West 26th St,New York, NY 10001,CAD',   40.751066, -74.00666, 'third'],
+['261', 'Green Mountain Kenworth, 3640 Shelburne Rd,Shelburne, VT 05482 C',    44.40271, -73.218059, 'third'],
+['262', 'Rush Truck Leasing - Houston, 6300 N. Loop East,Houston, TX 77026',   29.810653, -95.308022, 'third'],
+['263', 'Western Michigan International Trucks, 5316 Wynn Road,Kalamazoo, MI 49048,C',   42.270492, -85.523963, 'third'],
+['264', 'Midwest Transit Equipment, 16725 Van Dam Rd,South Holland, IL 60473,',    41.591803, -87.583044, 'third'],
+['265', 'Whatcom Transportation Authority, 4111 Bakerview Spur,Bellingham, WA 98226,',   48.787932, -122.448156, 'third'],
+['266', 'Longhorn International, 6043 N General Bruce Dr,Temple, TX 76501 ',   31.153296, -97.323808, 'third'],
+['267', 'Peterbilt of Council Bluffs, 2546 Mid America Drive,Council Bluffs, IA 51501',    41.233346, -95.883835, 'third'],
+['268', 'Longview Truck Center, 3132 Highway 31 North,Longview, TX 75603 ',    32.45897, -94.796068, 'third'],
+['269', 'Truck Centers of Arkansas, 11700 Valentine Road,North Little Rock, AR 72117,',    34.783291, -92.112774, 'third'],
+['270', 'Truck Center, Inc, 1007 International Drive,Tupelo, MS 38801 Cca',    34.234731, -88.69863, 'third'],
+['271', 'South Texas International - Pharr, 711 N Cage Blvd,Pharr, TX 78577,',   26.201657, -98.182995, 'third'],
+['272', 'Cummins Eastern Canada - Point-Claire, 7200 Trans Canada Hwy,Pointe-Claire, QC ',   45.456269, -73.843875, 'third'],
+['273', 'Kenworth of Pennsylvania - Carlisle, 198 Kost Road,Carlisle, PA 17013-0922,',   40.226404, -77.094638, 'third'],
+['274', 'McCandless Truck Center - Aurora, 16704 East 32nd Ave,Aurora, CO 80011,CAD',    39.761768, -104.794015, 'third'],
+['275', 'Brattain International Trucks, 61 NE Columbia Blvd,Portland, OR 97211,CAD',   45.582352, -122.66515, 'third'],
+['276', 'Tri-State International - Murray, KY, 100 Max Hurt Drive,Murray, KY 42071,C',   36.658846, -88.30541, 'third'],
+['277', 'Peterbilt of Joplin, 4044 Coyote Drive,Joplin, MO 64804 N',   37.012295, -94.545989, 'third'],
+['278', 'Valley Power Systems - City of Industry, 425 S. Hacienda Blvd,City of Industry, CA, C',   34.018379, -117.959491, 'third'],
+['279', 'Valley Power Systems - Sacramento, 855 W. Stillwater Rd,West Sacramento, CA 9',   38.587959, -121.557954, 'third'],
+['280', 'Truck Service Point, Inc., 2230 East 172nd St,Lansing, IL 60438 ',    41.582996, -87.561557, 'third'],
+['281', 'Barr International, 2407 N Salisbury Blvd,Salisbury, MD 21801 Cc',    38.402619, -75.569063, 'third'],
+['282', 'IRL International Truck Centres, 1495 Iron Mask Road,Kamloops, BC V1S1C8,CA',   50.658749, -120.40188, 'third'],
+['283', 'Kleen Exhaust, www.kleen-exhaust.com3321 S. Andrews Ave #30,Fort Lauderdale, FL ',    26.083196, -80.138629, 'third'],
+['284', 'MHC Kenworth - Greeley, 6602 E. 32nd St,Greeley, CO 80631 ',    40.38468, -104.715779, 'third'],
+['285', 'County of Los Angeles, 11012 Garfield Ave,Downey, CA 90280,CADN, ',   33.927699, -118.168991, 'third'],
+['286', 'Camions International West Island, 6100 Chemin St Franc,Saint-Laurent, PQ H4S',   45.485184, -73.741357, 'third'],
+['287', 'Big Ts Freightliner, 2501 Camino Del Sol,Oxnard, CA 93030 ',    34.206796, -119.141042, 'third'],
+['288', 'Normandin Transit, 151 Boul. Industriel,Napierville, QC J0J1L0,CADN, C',    45.1911242, -73.4164993, 'third'],
+['289', 'Advanced Particulate Technologies, 66 Donation Road,Greenville, PA 16125,CA',   41.4045601, -80.3634931, 'third'],
+['290', 'Werner Enterprises - Lithia Springs, 1444 Blair Bridge Road,Lithia Springs, GA ',   33.772731, -84.623176, 'third'],
+['291', 'Rush Truck Center - Lima, 2655 St John Road,Lima, OH 45804 ',   40.702968, -84.08872, 'third'],
+['292', 'Werner Enterprises - Dallas, 8701 Peterbilt Drive,Dallas, TX 75241,CADN',   32.642098, -96.7821229, 'third'],
+['293', 'Werner Enterprises - Springfield, 4395 Laybourne Road,Springfield, OH 45505,',    39.895331, -83.727274, 'third'],
+['294', 'Werner Enterprises - Omaha, 10490 Conestoga Road,Omaha, NE 68138,CADN, ',   41.1562608, -96.1436018, 'third'],
+['295', 'Del-Val International Truck, 1034 Bethlehem Pike,Montgomeryville, PA 18936,',   40.218838, -75.231689, 'third'],
+['296', 'Kenworth of Mobile, 86201-10 Service Road,Irvington, AL 36544 Cc',    30.528517, -88.258164, 'third'],
+['297', 'Cummins Northeast - Maine, 10 Gibson Road,Scarborough, ME 04074 ',    43.6064021, -70.3050942, 'third'],
+['298', 'Roberts Truck Center - Amarillo, 4378 Canyon Drive,Amarillo, TX 79109,CAD',   35.167691, -101.87022089999999, 'third'],
+['299', 'Arkel Motors, Inc - New Windsor, 70 Windsor Hwy,New Windsor, NY 12553,CAD',   41.48743, -74.0376239, 'third'],
+['300', 'Truck Enterprises Inc. - Harrisonburg, 3440 S. Main St,Harrisonburg, VA 22801',   38.402507, -78.911154, 'second'],
+['301', 'NYC Dept of Sanitation - Staten Island, 1 Muldoon Ave,Staten Island, NY 10314',   40.5709676, -74.1952796, 'second'],
+['302', 'Kubota Corporation-Sakai Rinkai Plant, 3-8, Chikko-Shinmachi, Nishi-Ku, Sakai-City,Osaka, ',    34.5815324, 135.4317547, 'second'],
+['303', 'Cummins Caribbean - PR, Calle 1 G1,Catano, PR 00962 N, ',   18.4370085, -66.1474752, 'second'],
+['304', 'Mid Atlantic Truck Center, 525 W Linden Ave,Linden, NJ 07036 Cca',    40.6238, -74.2537, 'second'],
+['305', 'Minuteman Trucks, Inc., www.minutemantrucks.com2181 Providence High,Walpole, MA ',    42.107902, -71.250251, 'second'],
+['306', 'Timmons Truck Center, 7605 Coliseum Blvd,Alexandria, LA 71303 Cc',    31.295137, -92.5306109, 'second'],
+['307', 'Lakeway Truck Centre, 1230 Great Northern Rd,Sault Ste Marie, ON P6A5K7,CAD',   46.565029, -84.3205729, 'second'],
+['308', 'Western Michigan International - Grand Rapids, 215 Hall Street SW,Grand Rapids, MI, C',   42.9416334, -85.6727374, 'second'],
+['309', 'Cummins South Pacific, 4 Dalmore Drive,Scoresby,  3179 N',    -37.9024248, 145.2210057, 'second'],
+['310', 'Landmark International - Knoxville, 4550 Rutledge Pike,Knoxville, TN 37914,',   36.01009, -83.8698, 'second'],
+['311', 'Five Star International - Williamsport, 2751 McCoy,Williamsport, PA 17701,C',   41.2769823, -77.0531726, 'second'],
+['312', 'Albany Mack Sales, 90 Harts Lane,Albany, NY 12204 N, Cc',   42.7007461, -73.7226135, 'second'],
+['313', 'Rotto Diesel, 1327 Ave. F.D. Roosevelt,San Juan, PR 00920 ',    18.4139528, -66.0852161, 'second'],
+['314', 'Winnipeg Transit, 421 Osborne Street,Winnipeg, MB R3L2A2,CADN, ',   49.8692117, -97.1378156, 'second'],
+['315', 'Rush Truck Center - Forth Worth, 2900 Deen Road,Fort Worth, TX 76106,CAD',    32.796731, -97.325399, 'second'],
+['316', 'Lake Truck Sales, 431 Richmond Street,Painesville, OH 44077 ',    41.7277535, -81.2560752, 'second'],
+['317', 'Rush Truck Center - St George, 1406 East 3950 South,St George, UT 84790,CAD',   37.0402, -113.554116, 'second'],
+['318', 'Lee Smith International, 2600 8th Ave,Chattanooga, TN 37403 ',    35.0118101, -85.278091, 'second'],
+['319', 'McDevitt Trucks, Inc, 939A East Street,Tewksbury, MA 01876 ',   42.6194274, -71.1917386, 'second'],
+['320', 'Beltway International, 1800 Sulphur Spring Road,Baltimore, MD 21227,',    39.245512, -76.678439, 'second'],
+['321', 'Carrier Truck Center - Brantford, 6 Edmondson St,Brantford, ON N3R7J3,CAD',   43.1683884, -80.2448093, 'second'],
+['322', 'Effingham Truck Sales Inc. - Effingham, 1701 West Fayette Road,Effingham, IL ',   39.118924, -88.566383, 'second'],
+['323', 'Peterbilt Truck Center of Birmingham, 2592 Commerce Circle,Birmingham, AL 352',   33.5850579, -86.774035, 'second'],
+['324', 'Peterbilt Truck Centers of Florence, 302 E. Blanchard Rd,Florence, SC 29506,',    34.2670804, -79.7264094, 'second'],
+['325', 'Peterbilt Truck Centers of Jackson, 330 Gilchrist Drive,Pearl, MS 39208,CAD',   32.2752531, -90.0716624, 'second'],
+['326', 'Peterbilt Truck Centers of Shreveport, 5520 Industrial Drive Extension,Bossier City, LA',   32.4511482, -93.6319131, 'second'],
+['327', 'Peterbilt Truck Centers of Little Rock, #1 Peterbilt Drive,North Little Rock, AR, Czi',   34.777697, -92.1253854, 'second'],
+['328', 'Brown Truck Group, 963 Route 173,Bloomsbury, NJ 08804 N,',    40.659768, -75.077733, 'second'],
+['329', 'Peterbilt of Atlanta, 172 Van Mar Blvd,Jackson, GA 30233 ',   33.2945651, -83.9660209, 'second'],
+['330', 'Border International, 12283 ROJAS DRIVE,El Paso, TX 79936 ',    31.7074102, -106.2843173, 'second'],
+['331', 'Bluegrass International Truck, 101 Triport Circle,Georgetown, KY 40324,CAD',    38.2753185, -84.5530938, 'second'],
+['332', 'Heritage International  Trucks, 408 Goff Mt. Road,Charleston, WV 25313,CAD',    38.4099289, -81.7944365, 'second'],
+['333', 'East Texas Mack, 2934 Hwy 31 North,Longview, TX 75603 N,',    32.4693823, -94.7791492, 'second'],
+['334', 'Highway Motors, Inc. - Roanoke, 5307 Peter Creek Rd,Roanoke, VA 24019,CAD',   37.3331615, -79.9769357, 'second'],
+['335', 'Vision Truck Group - Cambridge, 1220 Franklin Blvd,Cambridge, ON N1R8B7,CAD',   43.4038939, -80.3061971, 'second'],
+['336', 'Skagit Transit, 600 County Shop Lane,Burlington, WA 98233,CADN, ',    48.484917, -122.3324944, 'second'],
+['337', 'Diamond International Trucks - Kansas City, 7700 N E 38th St,Kansas City, MO ',   39.164482, -94.491213, 'second'],
+['338', 'Volunteer International, 626 Airways,Jackson, TN 38301 N',    35.6171239, -88.846157, 'second'],
+['339', 'Triple T International, 104 Daisy Scott Road,Rocky Point, NC 28457,',   34.4418041, -77.8716944, 'second'],
+['340', 'Prime, Inc, 2740 N Mayfair Ave,Springfield, MO 65803,CADN, N, ',    37.24182, -93.227054, 'second'],
+['341', 'Cummins Northeast - Albany, 101 Railroad Ave,Albany, NY 12205 Cc',    42.700901, -73.828762, 'second'],
+['342', 'Cummins Northeast - Syracuse, 6193 Eastern Ave,Syracuse, NY 13212',   43.095384, -76.091143, 'second'],
+['343', 'Cheltenham Trans, 50 Oreland Mill Rd,Oreland, PA 19075 N',    40.121673, -75.1911594, 'second'],
+['344', 'Palm Peterbilt - Ft Lauderdale, 2441 S. State Rd #7 C,Ft Lauderdale, FL 33317',   26.089922, -80.2026549, 'second'],
+['345', 'Coast Counties Truck and Equipment, 920 Elvee Dr A,Salinas, CA 93901,CAD',    36.6668342, -121.6297038, 'second'],
+['346', 'Selland Auto Transport, 615 South 96th St,Seattle, WA 98108,CADN, ',    47.516394, -122.325918, 'second'],
+['347', 'Lilley International, 1800 South Wesleyan Blvd,Rocky Mount, NC 27803,CAD',    35.902812, -77.82704, 'second'],
+['348', 'Cummins Eastern Canada - Mississauga, 7175 Pacific Circle,Mississauga, ON L5T',   43.6583301, -79.6817989, 'second'],
+['349', 'Maxim Truck and Trailer - Winnipeg, 1860 Brookside Blvd,Winnipeg, MB R3C2E6,',    49.9507305, -97.229728, 'second'],
+['350', 'Maxim Truck & Trailer - Regina, 475 Henderson Drive,Regina, SK S4N5W8,CAD',   50.4679342, -104.5664478, 'second'],
+['351', 'Roberts Truck Center - Midland, 10101 W. I-20,Midland, TX 79706 ',    31.9137233, -102.2103405, 'second'],
+['352', 'Hawkeye Cedar River International, 3665 W 83rd St,Davenport, IA 52806,CAD',   41.60147, -90.628114, 'second'],
+['353', 'Stadium International - Olyphant, 1006 Underwood Road,Olyphant, PA 18447,CA',   41.453748, -75.590278, 'second'],
+['354', 'Frontier International, 1023 N. Garnett Road,Tulsa, OK 74116 Cca',    36.168087, -95.849755, 'second'],
+['355', 'Harvey & Co. International, 88 Kenmount Road,St Johns, NL A1B3R1 ',   47.5564085, -52.7627482, 'second'],
+['356', 'Astleford International, 3000 Broadway NE,Minneapolis, MN 55413 ',    44.997707, -93.219387, 'second'],
+['357', 'Allstate Peterbilt North, 21701 John Deere Lane,Rogers, MN 55374 ',   45.1911536, -93.5544508, 'second'],
+['358', 'Vanguard Truck Center of Houston, 5216 North McCarty Drive,Houston, TX 77013',    29.808214, -95.260601, 'second'],
+['359', 'GNC Energy Co. LTD, 16 Yangpyungdong-3GA,Seoul, KO  N, ',   37.566535, 126.9779692, 'second'],
+['360', 'Vanguard Truck Center of Atlanta, 700 Ruskin Drive,Forest Park, GA 30297,CA',   33.646408, -84.369597, 'second'],
+['361', 'H.L. Gage International, 121 Washington Ave. E.,Albany, NY 12205 ',   42.7000768, -73.8190583, 'second'],
+['362', 'Pliler International, 3016 Eastman Road,Longview, TX 75607 ',   32.534721, -94.7231147, 'second'],
+['363', 'PACCAR Used Truck Center - SLC, 2020 South 5200 West,Salt Lake City, UT 84104',   40.7272308, -112.0155912, 'second'],
+['364', 'Purexhaust, La Rinconada Del Principal,Santiago, CH  N, ',    -33.7624278, -70.4788937, 'second'],
+['365', 'Gabrielli Truck Sales - Milford, 401 Old Gate Lane,Milford, CT 06460,CAD',    41.234805, -73.022615, 'second'],
+['366', 'Gabrielli Kenworth - Dayton, 2300 Route 130 North,Dayton, NJ 08810,',   40.3731197, -74.5004537, 'second'],
+['367', 'Gabrielli Kenworth - Medford, 3200 Horseback Road,Medford, NY 11763,',    40.8377219, -73.0525603, 'second'],
+['368', 'Cummins Eastern Canada - Quebec City, 2400 Avenue Watt,Quebec, QC G1P3T3,CA',   46.7907512, -71.2956671, 'second'],
+['369', 'Peterson Trucks - Santa Rosa, 3710 Regional Pkwy.,Santa Rosa, CA 95403,CAD',    38.5085832, -122.7862101, 'second'],
+['370', 'Stoops Freightliner, 1851 West Thompson Road,Indianapolis, IN 46217,',    39.68999, -86.192804, 'second'],
+['371', 'Cummins Crosspoint, 25 Gateway Drive,White Hall, WV 26554 ',    39.4289276, -80.1922088, 'second'],
+['372', 'Kenworth Quebec, 800 Chemin Olivier,St-Nicholas, QC G7A2N1 ',   46.6885199, -71.32066, 'second'],
+['373', 'Edmonton Kenworth - Fort McMurray, Bay No. 25 380 McKenzie Blvd,Fort McMurray, AB, Cz',   56.6740144, -111.3331908, 'second'],
+['374', 'Wallace International - Ft Myers, 2761 East Edison Ave,Fort Myers, FL 33916,',    26.634509, -81.856557, 'second'],
+['375', 'Dothan DPF, 1011 Cloverdale Drive,Dothan, AL 36301 N, C',   31.1926252, -85.3854731, 'second'],
+['376', 'Cornhusker International Trucks - Sioux City, 2601 Bridgeport,Sioux City, IA ',   42.4310263, -96.3756499, 'second'],
+['377', 'Coffman International, 4185 Ross Clark Circle,Dothan, AL 36303 C',    31.2535015, -85.3937483, 'second'],
+['378', 'MHC Kenworth - Odessa, 5251 W. Interstate 20,Odessa, TX 79763 Cc',    31.77265, -102.508304, 'second'],
+['379', 'Longhorn School Bus Sales, 6921 Homestead Road,Houston, TX 77028 ',   29.822331, -95.302893, 'second'],
+['380', 'Rush Truck Center - Texarkana, 1931 North Kings Hwy A,Nash, TX 75569,CAD',    33.4572506, -94.1310433, 'second'],
+['381', 'Cummins Western Canada - Fort McMurray, 300 Taiganova Crescent,Fort McMurray, AB, Czi',   56.7226151, -111.3615229, 'second'],
+['382', 'TAG Truck Center, 1653 E. Brooks Road,Memphis, TN 38116 N',   35.060375, -90.008808, 'second'],
+['383', 'TransX, 2595 Inkster Blvd,Winnipeg, MB R3C2E6,CADN, N, Ccummi',   49.945973, -97.236686, 'second'],
+['384', 'Sabem S.E.C., 1500 rue Raymond-Gaudreault,Repentigny, QC J5Y 4E3,CADN, ',   45.7903648, -73.413868, 'second'],
+['385', 'Komatsu Hanomag - Germany, Hanomagstrabe 9,Hannover,  30449 ',    52.35816, 9.71241, 'second'],
+['386', 'Port of Tacoma, One Sitcum Plaza,Tacoma, WA 98421,CADN, N, Cc',   47.2652103, -122.4126943, 'second'],
+['387', 'Allstate Peterbilt of Mankato, 2265 Howard Drive W.,North Mankato, MN 56003,',    44.1842859, -94.058794, 'second'],
+['388', 'Golden State Peterbilt, 15243 Road 192,Porterville, CA 93257 Cca',    36.0672118, -119.1433125, 'second'],
+['389', 'Rush Truck Center - Fontana, 14490 Slover Ave,Fontana, CA 92337 ',    34.0640069, -117.489257, 'second'],
+['390', 'Rush Truck Center - Denver, 5165 Vasquez Blvd,Denver, CO 80216 C',    39.790233, -104.9433449, 'second'],
+['391', 'Rush Truck Center - Atlanta, 2560 Moreland Ave,Atlanta, GA 30315 ',   33.684833, -84.346759, 'second'],
+['392', 'Commonwealth of Pennsylvania - DOT, 17th & Arsenal Blvd,Harrisburg, PA 17120',    40.2784868, -76.8693707, 'second'],
+['393', 'Hirschbach Motor Lines - East Dubuque, 18355 US Hwy 20 W,East Dubuque, IL 610',   42.4694172, -90.5992401, 'second'],
+['394', 'Virginia Truck Center of Richmond, 901 West Hundred Road,Chester, VA 23836,',   37.347685, -77.376803, 'second'],
+['395', 'Wyoming Machinery Co. - Rock Springs, 1940 Elk Street,Rock Springs, WY 82901',    41.6220564, -109.2330923, 'second'],
+['396', 'Rush Truck Center - San Antonio, 8810 1H-10 East Exit 5B5,San Antonio, TX 781',   29.4659415, -98.3033694, 'second'],
+['397', 'Maudlin International Trucks, 1881 Pickettville Road,Jacksonville, FL 32220,',    30.3459824, -81.7645748, 'second'],
+['398', 'Kenworth Haut-Richelieu, 61 Rue Victor,St-Jean Surrichelie, QC J2X5T3,CAD',   45.3134819, -73.2252929, 'second'],
+['399', 'Peterbilt of Louisville, 4415 Hamburg Pike,Jeffersonville, IN 47130,',    38.331861, -85.742476, 'second'],
+['400', 'Westchester County - Liberty Lines, 475 Saw Mill River Road,Yonkers, NY 10703',   40.9528528, -73.8747095, 'second'],
+['401', 'Allegheny Trucks, Inc., 49 A Greenwood Rd,Altoona, PA 16602 ',    40.5325069, -78.3715632, 'second'],
+['402', 'RWC International Ltd., 600 N 75th Ave,Phoenix, AZ 85043 ',   33.4547949, -112.22106500000001, 'second'],
+['403', 'Western States Caterpillar - Pocatello, 2405 Garrett Way,Pocatello, ID 83201',    42.8830738, -112.4668561, 'second'],
+['404', 'Kenworth Northwest - Fairbanks, 2262 Van Horn Road,Fairbanks, AK 99701,CAD',    64.813684, -147.773728, 'second'],
+['405', 'Whites Herring Truck & Trailer, Hwy 301 & 264 Bypass B3817,Wilson, NC 27893',   35.6810492, -77.9568382, 'second'],
+['406', 'Carolina International Trucks - Columbia, 1619 Bluff Road,Columbia, SC 29201',    33.964659, -81.006033, 'second'],
+['407', 'Hoglund Bus & Truck,  www.hoglundbusandtruck.com116 E. Oakwood Drive,Monticello, MN, ',   45.2965637, -93.8001326, 'second'],
+['408', 'Rush Truck Center - Pico Rivera, 8830 E Slauson Ave,Pico Rivera, CA 90660,C',   33.9690384, -118.0988738, 'second'],
+['409', 'Grocery Supply Company, 3131 East Holcombe Blvd,Houston, TX 77221,CADN,',   29.7054949, -95.3786052, 'second'],
+['410', 'Performance Truck - Baytown, 17011 - 10 E,Baytown, TX 77521 ',    29.7773448, -94.9805235, 'second'],
+['411', 'Kenworth of Dayton, 7740 Center Point 70 Blvd.,Dayton, OH 45424 ',    39.866764, -84.069765, 'second'],
+['412', 'Hertz Equipment Rental Corp. - Queens, 45-1 20th Avenue,Queens, NY 11105,CA',   40.7744038, -73.8987575, 'second'],
+['413', 'Allstate Peterbilt of Tomah, 1620 Winnebago Ave,Tomah, WI 54660 ',    43.971527, -90.481506, 'second'],
+['414', 'Scott Truck Company Inc. - Monroe, www.scotttruck.com1000 Martin Luther King Jr Drive,Monroe,Cs',   32.5045269, -92.0820018, 'second'],
+['415', 'Fyda Freightliner Columbus, Inc., 1250 Walcutt Road,Columbus, OH 43228,CAD',    39.978135, -83.138942, 'second'],
+['416', 'Roberts Truck Center - WCF, 2401 Central Freeway East,Wichita Falls, TX 76306',   33.9478978, -98.518447, 'second'],
+['417', 'Calgary Peterbilt Ltd., 11550 44th St SE,Calgary, AB T2Z 4A2 Cca',    50.9501288, -113.9718525, 'second'],
+['418', 'Peterbilt Lethbridge, 4110 18th Ave N,Lethrbridge, AB T1H 6N7 Cc',    49.7222577, -112.7809384, 'second'],
+['419', 'Peterbilt Red Deer, #27-38403 Burnt Lake Trail,Red Deer, AB T4S 2L4,',    52.2965672, -113.862798, 'second'],
+['420', 'Peterbilt Truck Center of Memphis, LLC, 1761 E Brooks Rd,Memphis, TN 38116,',   35.058983, -90.005131, 'second'],
+['421', 'Diesel Service Center, 1100 Hosler Drive,Bolingbrook, IL 60490 C',    41.66323, -88.1064619, 'second'],
+['422', 'Caltrans - Susanville, 471-800 Diane Drive,Susanville, CA 96130,CADN, ',    40.3673512, -120.588996, 'second'],
+['423', 'Caltrans - Redding, 1430 George Drive,Redding, CA 96003,CADN, N',   40.6267258, -122.3737143, 'second'],
+['424', 'Cummins Recon, 10 Napier Place,Glasgow, SC 680FE N, Ccu',   55.9761879, -3.9609243, 'second'],
+['425', 'Caltrans - San Francisco, 120 Rickard Street,San Francisco, CA 94134,CAD',    37.7340112, -122.408084, 'second'],
+['426', 'Caltrans - San Jose, 6010 Monterey Road, Bldg B,San Jose, CA 95138,CADN',   37.2524201, -121.7968046, 'second'],
+['427', 'Caltrans - San Leandro, 1993 Marina Blvd.,San Leandro, CA 94577,CADN, ',    37.7067602, -122.1755649, 'second'],
+['428', 'Caltrans - Fairfield, 2019 West Texas Street,Fairfield, CA 94533,CADN, ',   38.2491427, -122.0634644, 'second'],
+['429', 'Caltrans - Sylmar, 13200 Golden State Rd.,Sylmar, CA 91342,CADN, ',   34.3111145, -118.4832809, 'second'],
+['430', 'Rochester Genesee Regional Transit Authority, 1372 East Main Street,Rochester, NY, Cz',   43.1610484, -77.5755852, 'second'],
+['431', 'Tri-County International Trucks Inc., 23508 Groesbeck Hwy,Warren, MI 48089,',   42.467014, -82.988269, 'second'],
+['432', 'Cervus Equipment Peterbilt - Ayr, 7 Cochran Dr,Ayr, ON N0B 1E0 C',    43.3350407, -80.4312588, 'second'],
+['433', 'Al Scheppers Motor Co., 1722 Southridge Dr,Jefferson City, MO 65109,',    38.558162, -92.196513, 'second'],
+['434', 'NYC Dept of Sanitation - QBS 2, 52-35 58th St,Woodside, NY 11377,CADN, ',   40.73395, -73.906317, 'second'],
+['435', 'Kenworth Maska, 690 Montee Monette,Mathieu-De-LaPrairie, QC J0L2H0,',   45.3339013, -73.5114572, 'second'],
+['436', 'Bucks County International, 134 Old Oxford Valle,Langhorne, PA 19047,CAD',    40.1950363, -74.8680067, 'second'],
+['437', 'Custom Truck Sales Kenworth - Regina, 520 Park Street,Regina, SK S4N0T6,CAD',   50.4712716, -104.5755813, 'second'],
+['438', 'Rush Truck Center - Oklahoma City, 5200 W 40 Service Road,Oklahoma City, OK 7',   35.45834137699854, -97.66659862053223, 'second'],
+['439', 'Hertz Equipment Rental - Astoria, 5-02 54th Ave,Long Island City, NY 11101,',   40.7402976, -73.9572077, 'second'],
+['440', 'Regional International - Cheektowaga, 2425 Walden Ave,Cheektowaga, NY 14225,',    42.906523, -78.746629, 'second'],
+['441', 'Inland Kenworth - Fort St. John, Mile 49 Alaska Highway,Fort St. John, BC V1J',   56.2298041, -120.8240774, 'second'],
+['442', 'Caltrans - Fresno, 1385 North West Avenue,Fresno, CA 93728,CADN, ',   36.7608382, -119.8266937, 'second'],
+['443', 'Caltrans - Bishop, 181 Jay Street,Bishop, CA 93514,CADN, N, C',   37.3554956, -118.3915874, 'second'],
+['444', 'Caltrans - Eureka Shop, 1650 Albee St,Eureka, CA 95501,CADN, N',    40.7925211, -124.1760259, 'second'],
+['445', 'Caltrans - Ukiah Shop, 90 W Lake Mendocino Dr,Ukiah, CA 95482,CADN, Cc',    39.1928027, -123.2068622, 'second'],
+['446', 'Los Angeles Freightliner - Ontario, 1031 E Holt Blvd,Ontario, CA 91761,CAD',    34.0635372, -117.6338264, 'second'],
+['447', 'Caltrans - Marysville, 981 North Beale Road,Marysville, CA 95901,CADN, ',   39.1270875, -121.5800171, 'second'],
+['448', 'Caltrans - Truckee, 10152 E Kieser Ave,Truckee, CA 96161,CADN, ',   39.327962, -120.1832533, 'second'],
+['449', 'Brown and Hurley - Darra, 2632 Ipswich Rd,Darra QLD, Aus 4076A C',    -27.572900, 152.9577541, 'second'],
+['450', 'Caltrans - Stockton, 1603 South B Street,Stockton, CA 95206,CADN, ',    37.9404872, -121.2580826, 'second'],
+['451', 'Central Florida Regional Transportation Authority LYNX, 2500 Lynx Lane,Orlanda, FL, C',   28.571758, -81.414287, 'second'],
+['452', 'Truck Centers of Arkansas-Springdale, 2675 West Sunset Blvd,Springdale, AR 72',   36.173159, -94.159798, 'second'],
+['453', 'Port Authority of Allegheny County, Preble & Island Avenues,Pittsburgh, PA 15',   40.4615883, -80.0346168, 'second'],
+['454', 'R&R, Inc, 44 Victoria Road,Youngstown, OH 44515 N, Ccum',   41.101885, -80.78581, 'second'],
+['455', 'MHC Kenworth - Waco, 3331 Greig Drive,Robinson, TX 76706 ',   31.458225, -97.17013, 'second'],
+['456', 'Southern Refrigerated Transport, 8055 Hwy 67 North,Texarkana, AR 71854,CAD',    33.5252297, -93.9197892, 'second'],
+['457', 'Massachusetts Bay Transportation Authority, 80 Broadway,Everett, MA 02149,C',   42.3984785, -71.0638942, 'second'],
+['458', 'Werner Enterprises - Henderson, 9239 Hwy 85,Henderson, CO 80640,CADN, ',    39.8961612, -104.8711881, 'second'],
+['459', 'Werner Enterprises - Laredo, 1201 Carrier Drive,Laredo, TX 78045,CADN, ',   27.679754, -99.453433, 'second'],
+['460', 'Rotex Truck Center, 11802 Sara Road,Laredo, TX 78045 N, ',    27.6093112, -99.5062496, 'second'],
+['461', 'General Truck Supplies, 1515 East Anaheim Street,Wilmington, CA 90744,CAD',   33.781323, -118.243244, 'second'],
+['462', 'Volvo Group Korea, LTD, 33, Sangse-Dong, Daeduk-Gu,Daejeon City,  306-120,C',   36.4195213, 127.4262593, 'second'],
+['463', 'Capital Metropolitan Transportation Authority, 2910 E 5th St,Austin, TX 78702',   30.2564744, -97.7098689, 'second'],
+['464', 'Prime Inc. - Pittston, 130 Armstrong Rd,Pittston, PA 18640,CADN, ',   41.3037183, -75.7598801, 'second'],
+['465', 'Rush Truck Center - Cincinnati, 11775 Highway Drive,Cincinnati, OH 45241,CA',   39.288011, -84.405545, 'second'],
+['466', 'Tri-State Truck Center - Richland, 412 Hwy 49 South,Richland, MS 39218,CAD',    32.256583, -90.159815, 'second'],
+['467', 'Kenworth Truck Centres - Ontario, 500 Creditstone Rd,Concord, ON L4K 3Z3,CA',   43.8037995, -79.5196837, 'second'],
+['468', 'Norris Ford- Dundalk, 901 Merritt Blvd,Dundalk, MD 21222 ',   39.285215, -76.505652, 'second'],
+['469', 'Decker Truck Lines Inc. - Fort Dodge, 3628 5th Ave S,Fort Dodge, IA 50501,C',   42.5016553, -94.1352153, 'second'],
+['470', 'Bruckner Truck Sales Inc., 35680 LBJ Freeway,Dallas, TX 75241 Cc',    32.6549761, -96.7580581, 'second'],
+['471', 'Stillwater Mining Co., 2562 Nye Road,Nye, MT 59061,CADN, N, C',   45.3838796, -109.8726413, 'second'],
+['472', 'Artex Truck center, 1801 Trinity Blvd.,Texarkana, AR 71854 ',   33.4730077, -94.0286789, 'second'],
+['473', 'Roberts Truck Center  -  Tye, 550 S Access Rd,Tye, TX 79563 ',    32.4596335, -99.8631227, 'second'],
+['474', 'Scania Singapore PTE Ltd., 40 Senoko Road 758112,Singapore,   Cc',    1.4664587, 103.8042271, 'second'],
+['475', 'Peterbilt of New York City, LLC, 11 Michael Ave,Farmingdale, NY 11735,CAD',   40.726773, -73.426646, 'second'],
+['476', 'Carco International, Inc., 2721 Midland Blvd,Fort Smith, AR 72904',   35.4061762, -94.3977907, 'second'],
+['477', 'Sumitomo Metal Mining Pogo, Mile 50 Pogo Mine Road,, AK ,CADN, ',   63.8367895, -145.1298259, 'second'],
+['478', 'FleetPride Inc. - Corpus Christi, 7749 Interstate 37,Corpus Christi, TX 78409',   27.8148839, -97.5097775, 'second'],
+['479', 'Ekati Diamond Mines, 327 B Old Airport Rd,, NWT X1A3T3,CADN, N',    64.71398082507848, -110.61952839187012, 'second'],
+['480', 'NorCal Kenworth - San Leandro, 1755 Adams Ave,San Leandro, CA 94577,',    37.726857, -122.189763, 'second'],
+['481', 'Sacramento County Fleet Services, 4001 Branch Center Rd,Sacramento, CA 95827',    38.54685, -121.3381909, 'second'],
+['482', 'Silvers Garage Ltd., 273 North St,Bridgewater, NS B4V2V7 ',   44.3909697, -64.5260689, 'second'],
+['483', 'City of Fairfield, 420 Gregory Street,Fairfield, CA 94533,CADN, ',    38.246728, -122.054935, 'second'],
+['484', 'Kenworth of Pennsylvania - Clintonville, 4054 State Route 308,Clintonville, PA ',   41.2015572, -79.8740668, 'second'],
+['485', 'Kubota Engine America - Lincolnshire, 505 Schelter Road,Lincolnshire, IL 6006',   42.187573, -87.9394, 'second'],
+['486', 'Emissions Retrofit Group, 2408 Tea Garden St.,San Leandro, CA 94577,CADN',    37.7322695, -122.1706533, 'second'],
+['487', 'Rush Truck Center - Boise, 770 West Amity Road,Boise, ID 83705 C',    43.561673, -116.191032, 'second'],
+['488', 'Russell Transport Inc., 12365 Pine Spring Rd.,El Paso, TX 79928,CADN, ',    31.708169, -106.271528, 'second'],
+['489', 'Highway Motors, Inc. - Harrisonburg, 3185 N Valley Pike,Harrisonburg, VA 2280',   38.4832786, -78.8157489, 'second'],
+['490', 'Southland International Trucks - Madison, 14010 Alabama Hwy 20,Madison, AL 35',   34.6625902, -86.7869271, 'second'],
+['491', 'City of Calgary, 800 Macleod Trail SE,Calgary, AB T2G2M3,CADN, ',   51.0453738, -114.0566039, 'second'],
+['492', 'Cummins Bridgeway - Belle Vernon, 483 Rehobeth Rd,Belle Vernon, PA 15012,CA',   40.1386006, -79.8211098, 'second'],
+['493', 'Cummins Western Canada - Winnipeg, 489 Oak Point Hwy,Winnipeg, MB R2R1V2,CA',   49.9386717, -97.226497, 'second'],
+['494', 'DeCarolis Truck Rental, Inc., 333 Colfax Street,Rochester, NY 14606,',    43.1735639, -77.670093, 'second'],
+['495', 'Pinellas County Schools, 301 Fourth St. SW,Largo, FL 33770,CADN, ',   27.9138539, -82.7922588, 'second'],
+['496', 'Glockner GM Superstore, 4370 US 23,Portsmouth, OH 45662 N',   38.8011673, -82.9841215, 'second'],
+['497', 'Nacarato Volvo Trucks Inc., 519 New Paul Road,La Vergne, TN 37086',   35.9956416, -86.5981838, 'second'],
+['498', 'Tri-State Truck Center - Memphis, 494 Crump Blvd,Memphis, TN 38126,',   35.1252939, -90.045773, 'second'],
+['499', 'Peterbilt Atlantic - Deer Lake NL, 13 Wellon Dr,Deer Lake, NL A8A 2G6,CAD',   49.1878714, -57.4177306, 'second'],
+['500', 'Powells Truck & Equipment, Inc., 13260 Wards Road,Lynchburg, VA 24501,CAD',   37.308857, -79.182693, 'second'],
+['501', 'Inland Kenworth - Carson, 1202 East Carson St,Carson, CA 90745 C',    33.83103, -118.252466, 'second'],
+['502', 'Twiss Transport, Inc., 1501 Lake Ave SE,Largo, FL 33771,CADN, N',   27.899219, -82.770124, 'second'],
+['503', 'Stahl Peterbilt - Grande Prairie, 12020 - 101 Ave,Grand Prairie, AB T8V 8B1,',    55.1711373, -118.8613548, 'second'],
+['504', 'Stahl Peterbilt - Ft. McMurray, 340 Mackenzie Blvd,Fort McMurray, AB T9H 4C4',    56.6663553, -111.3327985, 'second'],
+['505', 'Inter-Boucherville Inc., 50 Chemin Du Tremblay,Boucherville, QC J4B 6Z5,CAD',   45.5570771, -73.4301186, 'second'],
+['506', 'Pennsylvania Truck Centers Inc., 310 Mifflin Drive,Wrightsville, PA 17368,C',   40.029918, -76.54492, 'second'],
+['507', 'Rush Truck Center - Sealy, 4606 NE I-10 Frontage Rd,Sealy, TX 77474,',    29.777683, -96.114684, 'second'],
+['508', 'Coast Counties Peterbilt - Windsor, 7675 Conde Lane,Windsor, CA 95492,CAD',   38.5345781, -122.7985786, 'second'],
+['509', 'Rush Truck Center - Joliet, 103 S Larkin Ave,Joliet, IL 60436 Cc',    41.5154883, -88.1244707, 'second'],
+['510', 'United Diesel Service, Inc., 1903 Penn Mar Avenue,South El Monte, CA 91733-37',   34.048041, -118.034676, 'second'],
+['511', 'Smarts Truck & Trailer Equip., Inc., 4730 Washington Blvd.,Beaumont, TX 7770',    30.0559611, -94.1438487, 'second'],
+['512', 'Cummins Northwest - Renton, 811 SW Grady Way,Renton, WA 98057 Cc',    47.468233, -122.228528, 'second'],
+['513', 'Towne & Country International - Jonesboro, 1701 East Parker Road,Jonesboro, AR ',   35.805866, -90.690246, 'second'],
+['514', 'Werner Enterprises - Fontana, 10251 Calabash Avenue,Fontana, CA 92335,CAD',   34.0671139, -117.498013, 'second'],
+['515', 'Werner Enterprises - Phoenix, 4801 West Magnolia Street,Phoenix, AZ 85043,C',   33.42378, -112.161248, 'second'],
+['516', 'Kenworth of South Louisiana-Gray, 3699 W. Park Ave,Gray, LA 70359',   29.6868595, -90.7847178, 'second'],
+['517', 'New Jersey Turnpike Authority, Interchange 8 & Route 33,Hightstown, NJ 08520',    40.2632614, -74.5361624, 'second'],
+['518', 'Wicks Western Star - Omaha, 10502 South 147th St,Omaha, NE 68138',    41.155936, -96.1456634, 'second'],
+['519', 'Los Angeles Freightliner - Fontana, 13800 Valley Blvd,Fontana, CA 92335,CAD',   34.071162, -117.504268, 'second'],
+['520', 'Diamond International Trucks - Grand Prairie, 9916 108th Street,Grand Prairie, AB, Cz',   55.1697935, -118.8216185, 'second'],
+['521', 'Rechtien International Trucks Inc., 7227 NW 74th Ave,Miami, FL 33166,CAD',    25.838645, -80.317541, 'second'],
+['522', 'Wiers International Trucks Inc., 2111 Jim Neu Drive,Plymouth, IN 46563,CAD',    41.3544673, -86.3339029, 'second'],
+['523', 'Werner Enterprises - Clint (El Paso), 13000 Gateway East Blvd,Clint, TX 79836',   31.6207879, -106.2108317, 'second'],
+['524', 'Werner Enterprises - Indianapolis, 2444 S. West Street,Indianapolis, IN 46225',   39.7332214, -86.168331, 'second'],
+['525', 'Valley Power Systems North - Fresno, 2935 S. Orange Avenue,Fresno, CA 93725,',    36.694768, -119.762957, 'second'],
+['526', 'Valley Power Systems - Mira Loma, 11300 Inland Avenue,Mira Loma, CA 91752,C',   34.0318776, -117.531477, 'second'],
+['527', 'Valley Power Systems - Wilmington, 320 Lakme Ave,Wilmington, CA 90744,CAD',   32.8845601, -117.1963996, 'second'],
+['528', 'Trans Power, Inc - Albany, 2702 Palmyra Road,Albany, GA 31707 Cc',    31.614693, -84.1799961, 'second'],
+['529', 'Western Peterbilt Truck Parts & Equip. - Redding, 1800 Twin View Blvd,Redding, CA, Cz',   40.633906, -122.366436, 'second'],
+['530', 'Button Transportation Inc., 8034 Schroeder Rd.,Dixon, CA 95620,CADN, C',    38.4558598, -121.8593726, 'second'],
+['531', 'Tango Transport, LLC, 130 Corporate Drive,Sibley, LA 71073,CADN, ',   32.5682418, -93.293554, 'second'],
+['532', 'Livermore Amador Valley Transit Authority, 1362 Rutan Court, Suite 100,Livermore, CA, ',    37.6915766, -121.8004746, 'second'],
+['533', 'Eagle Marine Services, Ltd, 3443 W Marginal Way SW,Seattle, WA 98106,CAD',    47.5728894, -122.3626927, 'second'],
+['534', 'Trans Am, 15655 S. 169 Highway,Olathe, KS 66062,CADN, N, Ccum',   38.843286, -94.816565, 'second'],
+['535', 'Sumitomo Construction Machinery - Japan, 236, Roppo-cho, Inage-Ku,Chiba-City, Chi, Cz',   35.6575811, 140.1427322, 'second'],
+['536', 'RWC International - Huntington Park, 3620 Florence Ave,Huntington Park, CA 90',   33.9717669, -118.2025736, 'second'],
+['537', 'Wieland Truck Center - Saginaw, 3165 Wolf Road,Saginaw, MI 48601 ',   43.4528982, -83.8860237, 'second'],
+['538', 'Westrux Intl Inc. - Montebello, 812 W Washington Blvd,Montebello, CA 90640,',   33.9943406, -118.1168665, 'second'],
+['539', 'Camions Lourds De Montreal - Dorval, 1275 Boul Hymus,Dorval, QC H9P 1J5,CAD',   45.4875696, -73.7675112, 'second'],
+['540', 'Centre Du Camion R.B., 1730 Rue Atmec,Gatineau, QC J8R 3Y4 ',   45.511484, -75.5586737, 'second'],
+['541', 'Roberts Truck Center - Salina, 1944 North 9th Street,Salina, KS 67401,CAD',   38.8727721, -97.6122693, 'second'],
+['542', 'Longhorn International Equip. Inc. - Austin, 4711 East 7th Street,Austin, TX ',   30.25485, -97.701458, 'second'],
+['543', 'J & R Fleet Services, 18244 Valley Blvd,Bloomington, CA 92316 Cc',    34.071896, -117.406972, 'second'],
+['544', 'Cummins Power Systems, LLC - Bronx, 890 Zerega Avenue,Bronx, NY 10473,CAD',   40.826307, -73.842603, 'second'],
+['545', 'NOR CAL Truck Sales, 350 W Channel Road,Benicia, CA 94510 ',    38.084639, -122.140122, 'second'],
+['546', 'M.A.C. Truck Parts & Equip. Co., Inc., 2463 Peck-Settlement Rd,Jamestown, NY ',   42.107513, -79.1785982, 'second'],
+['547', 'Diamond International Trucks - Springfield, 2635 East Diamond Drive,Springfield, MO, ',   37.1971672, -93.1980791, 'second'],
+['548', 'RWC International - Tacoma, 2312 Milwaukee Way,Tacoma, WA 98421 ',    47.244782, -122.402335, 'second'],
+['549', 'BECS Pacific Ltd., 3138 S Elm Ave,Fresno, CA 93706 N, C',   36.6897949, -119.789263, 'second'],
+['550', 'Peterbilt Manitoba Ltd. - Winnipeg, 1895 Brookside Blvd.,Winnipeg, MB R3C2E6',    49.9471854, -97.2293112, 'second'],
+['551', 'Watson Truck & Supply, 1501 N. Grimes Bx 10,Hobbs, NM 88240 ',    32.7026116, -103.1360403, 'second'],
+['552', 'Badlands Power Fuels, 3711 4th Ave NE,Watford City, ND 58854,CADN, Cca',    47.8046798, -103.2727685, 'second'],
+['553', 'ASSO MARMITTE S.R.L., Via Industria, 21,Camponogara, VE 30010 Cc',    45.4021796, 12.0739424, 'second'],
+['554', 'ASC Turk Makina Ticaret A.S., 1201 Sokak No 122  Ostim / Yenimahalle,Ankara, TUR, Cz',    39.972193, 32.743536, 'second'],
+['555', 'Rush Truck Center - Dallas, 515 N Loop 12,Irving, TX 75061 ',   32.819396, -96.923241, 'second'],
+['556', 'Freightliner Manitoba Ltd., 2058 Logan Ave,Winnipeg, MB R2R 0H9 ',    49.9255458, -97.2096456, 'second'],
+['557', 'City View Bus Sales & Service, Ltd., 3152 Rideau Rd.,Gloucester, ON K1G 3N4,',    45.2986272, -75.5754849, 'second'],
+['558', 'Five Star International - Mt. Joy, 1294 Strickler Road,Mt. Joy, PA 17552,CA',   40.1146343, -76.458652, 'second'],
+['559', 'Rush Truck Center - Ardmore, 3435 Cypert Way,Ardmore, OK 73401 C',    34.1366098, -97.1347267, 'second'],
+['560', 'Allstate Peterbilt of Williston, Hwy 2 & 85 N,Williston, ND 58801',   48.145234, -103.660276, 'second'],
+['561', 'Five Star International - York, 2818 West Market Street,York, PA 17404,CAD',    39.9470552, -76.7813743, 'second'],
+['562', 'Blanchard Machinery Co. - Summerville, 151 Farmington Rd,Summerville, SC 2948',   33.0342831, -80.143551, 'second'],
+['563', 'Broward County Mass Transit, 3201 West Copans Rd,Pompano Beach, FL 33069,CA',   26.262581, -80.166155, 'second'],
+['564', 'Metro St. Louis, 3300 Spruce Street,St. Louis, MO 63103,CADN, N',   38.630075, -90.229481, 'second'],
+['565', 'Cummins Inc. - Diesel Recon, 2680 Pershing,Memphis, TN 38112,CADN, Cca',    35.155806, -89.969308, 'second'],
+['566', 'Distribuidora Cummins De Baja, Uno Poniente 202 Cd. Industrial Nva. Tijuana,Tijuana, MX',   32.5149469, -117.0382471, 'second'],
+['567', 'Cummins Power Systems - Ronkonkoma, 3025 Veterans Memorial Hwy.,Ronkonkoma, NY ',   40.789006, -73.140289, 'second'],
+['568', 'Robertsons Ready Mix, 27401 East 3rd St,Highland, CA 92346,CADN, ',   34.1066158, -117.2073092, 'second'],
+['569', 'Lucas Truck Sales, 205 State Street,Zanesville, OH 43701 ',   39.9436666, -82.0222343, 'second'],
+['570', 'Cummins Northwest - Coburg, 33070 Roberts Court,Coburg, OR 97408 ',   44.1275868, -123.0547703, 'second'],
+['571', 'Blacksburg Transit, 2800 Commerce Street,Blacksburg, VA 24060,CADN, Cc',    37.1967065, -80.3956127, 'second'],
+['572', 'OMNIBUS De MEXICO SA De CV, Calle Miguel A Dominguez 1229,Monterrey, NL CP744',   25.6883908, -100.3255801, 'second'],
+['573', 'Mondial Automotive, Inc., 114-14 14th Road,College Point, NY 11356,',   40.7846245, -73.8527666, 'second'],
+['574', 'East Coast International Trucks - Dartmouth, 1 Morris Drive,Dartmouth, NS B3B',   44.7055331, -63.6110927, 'second'],
+['575', 'K & B Transportation, 4700 Dakota Ave,South Sioux City, NE 68776,CADN, ',   42.4403578, -96.4139617, 'second'],
+['576', 'Salson Logistics, 2013 Route 130,Florence, NJ 08016,CADN, N, ',   40.097632, -74.807622, 'second'],
+['577', 'FSX Europe, Inc., WWW.FSXINC.COMAl Jerozolimskie 56c,Warszawa, PL 00-803,CA',   52.2287161, 21.0069447, 'second'],
+['578', 'Effingham Truck Sales Inc. - Mount Vernon, 4836 Broadway,Mount Vernon, IL 628',   38.3161604, -88.9072869, 'second'],
+['579', 'Valley Truck Center - Pharr, 4301 North Cage Blvd,Pharr, TX 78577',   26.2313631, -98.1788615, 'second'],
+['580', 'D.M. Bowman, Inc., 10808 Hopewell Road,Williamsport, MD 21795,CADN, Cc',    39.611767, -77.8045099, 'second'],
+['581', 'Husky Terminals, 1101 Port of Tacoma Road,Tacoma, WA 98421,CADN, ',   47.268721, -122.405816, 'second'],
+['582', 'Truck Centers, Inc., 2280 Formosa Road,Troy, IL 62294 N,',    38.7379985, -89.91389749999996, 'second'],
+['583', 'McCandless Truck Center - Grand Junction, 2332 I-70 Frontage Road,Grand Junction, CO, ',    39.1141865, -108.6202845, 'second'],
+['584', 'Peterbilt of Evansville, 8401 A Baumgart Rd,Evansville, IN 47725,',   38.054923, -87.540819, 'second'],
+['585', 'Central Garage Sales & Service, 76 Notre Dame St,Atholville, NB E3N3Z2,CAD',    47.9968432, -66.7084779, 'second'],
+['586', 'Hecla Greens Creek Mining Company, ,,  ,CADN, N, CcumminsN',    58.082981643141494, -134.63749408721924, 'second'],
+['587', 'Filter Service & Supply, 210 N Street,Imperial, CA 92251 ',   32.8462707, -115.5638159, 'second'],
+['588', 'Marten Transport - Phoenix, 2801 35th Ave,Phoenix, AZ 85009,CADN, ',    33.4789728, -112.1343668, 'second'],
+['589', 'Pacific Truck Parts, Inc., 1103 Abbott Street,Salinas, CA 93901 ',    36.6561382, -121.6322547, 'second'],
+['590', 'Long Haul Trucking, 6600 Jansen Ave NE,Albertiville, MN 55301,CADN, Cc',    45.2476399, -93.685127, 'second'],
+['591', 'J.B. Hunt Transport - Chicago, 3650 W 47th St.,Chicago, IL 60632,CADN, ',   41.8079918, -87.7151612, 'second'],
+['592', 'J.B. Hunt Transport - Lithia Springs, 648 Sydney Court,Lithia Springs, GA 301',   33.787515, -84.627874, 'second'],
+['593', 'J.B. Hunt Transport - Southgate, 5650 Southern Ave,Southgate, CA 90280,CAD',    33.9442049, -118.1682316, 'second'],
+['594', 'J.B. Hunt Transport - East Brunswick, 19 Edgeboro Rd,East Brunswick, NJ 00881',   40.4651113, -74.3961757, 'second'],
+['595', 'Gordon Trucking, Inc. - Rancho Cucamonga, 8566 Pecan Ave,Rancho Cucamonga, CA ',    34.096755, -117.521077, 'second'],
+['596', 'Sandman, Inc., 1404 S. 7th Street,San Jose, CA 95112,CADN, N, ',    37.318239, -121.867435, 'second'],
+['597', 'East Coast Leasing, 120 Dogwood Rd,Candler, NC 28715,CADN, N, ',    35.555073, -82.69259, 'second'],
+['598', 'Wyoming Machinery Co. - Cheyenne, 7819 Hutchins Dr,Cheyenne, WY 82007,CAD',   41.136549, -104.709375, 'second'],
+['599', 'Kenworth of Jacksonville, 833 Pickettville Rd,Jacksonville, FL 32220,CAD',    30.332967, -81.7637139, 'second'],
+['600', 'Surgenor Truck Group - Ottawa, 1571 Liverpool Crt.,Ottawa, ON K1B 4L1,CAD',   45.4120015, -75.6234511, 'second'],
+['601', 'Alberts Truck Service, 4900 S. Frontage Rd,Weatherford, OK 73096',    35.5261633, -98.7075744, 'second'],
+['602', 'J & B International, 964 Hercules Drive,Colchester, VT 05446 Cca',    44.500438, -73.173105, 'second'],
+['603', 'Kenworth Grand Falls, 291 Madawaska Rd,Grand Falls, NB E3Y 1A4 C',    47.0557432, -67.7476752, 'second'],
+['604', 'Dion International Trucks, Inc. - San Diego, 5255 Federal Blvd.,San Diego, CA ',    32.720927, -117.081267, 'second'],
+['605', 'San Diego Freightliner, 6006 Miramur Rd,San Diego, CA 92121 ',    32.878031, -117.182195, 'second'],
+['606', 'Western Peterbilt - Union Gap, 2028 Rudkin Rd,Union Gap, WA 98903',   46.5719239, -120.4726562, 'second'],
+['607', 'Rush Truck Center - Nashville, 900 Expo Dr.,Smyrna, TN 37167 Cca',    35.97737, -86.57597, 'second'],
+['608', 'McCandless Truck Center - Colorado Springs, 136 Garden of the Gods,Colorado Springs, Co',   38.8970771, -104.8242118, 'second'],
+['609', 'Rocky Mountain Diesel Ltd. - Western Star Trucks, 1125 Cobham Ave.,Cranbrook, BC, Czi',   49.5063651, -115.7857838, 'second'],
+['610', 'Island Transit, 19758 SR20,Coupeville, WA 98239,CADN, N, Ccum',   48.2079153, -122.6410441, 'second'],
+['611', 'Richwil Truck Centre, Ltd., 314 Lockhart Mill Rd.,Jacksonville, NB E7M3S4,C',   46.1876504, -67.6088567, 'second'],
+['612', 'MHC Kenworth - Raleigh, 7500 Reba Drive,Raleigh, NC 27616 ',    35.882661, -78.577721, 'second'],
+['613', 'MHC Kenworth - Hickory, 3500 17th Ave. Circle SW,Hickory, NC 28602,',   35.707535, -81.397087, 'second'],
+['614', 'MHC Kenworth - Greensboro, 6442 Burnt Poplar Rd.,Greensboro, NC 27409,CAD',   36.081108, -79.954085, 'second'],
+['615', 'MHC Kenworth - Charlotte, 230 E Westinghouse Blvd.,Charlotte, NC 28273,CAD',    35.109892, -80.914196, 'second'],
+['616', 'MHC Kenworth - Wilmington, 200 Sutton Steam Plant Rd.,Wilmington, NC 28401,',   34.283771, -77.969545, 'second'],
+['617', 'MHC Kenworth - Knoxville, 1400 Ault Road,Knoxville, TN 37914 Cca',    36.011722, -83.874123, 'second'],
+['618', 'MHC Kenworth - Jackson, 200 Kenworth Blvd.,Jackson, TN 38305 Cca',    35.6823388, -88.7859587, 'second'],
+['619', 'Peterbilt Truck Parts & Equipment, LLC, 2272 Larkin Circle,Sparks, NV 89431,',    39.522691, -119.695243, 'second'],
+['620', 'Leonard Bus Sales, 63 Duplainville Rd,Saratoga Springs, NY 12866 ',   43.0648854, -73.8304299, 'second'],
+['621', 'Triangle Auto PTE Ltd, 20 Tuas Avenue 2,Singapore,  639451 ',   1.3247234, 103.6540155, 'second'],
+['622', 'Inland Kenworth - Kamloops, 865 Notre Dame Dr.,Kamloops, BC V2C 5N8,',    50.6632798, -120.3637277, 'second'],
+['623', 'Voyles Filter Cleaning, 410 North 5th Ave East,Truman, MN 56088 ',    43.8316215, -94.427941, 'second'],
+['624', 'District of Columbia Public Works, 1725 15th Street NE, Vehicle Lot,Washington, DC, C',   38.9052763, -76.9815877, 'second'],
+['625', 'Ward International Trucks - Pensacola, 5885 North W Street,Pensacola, FL 32',   30.471479, -87.2554059, 'second'],
+['626', 'Baltimore Mack Trucks, Inc., 610 Nursery Road,Linthicum, MD 21090',   39.224023, -76.655005, 'second'],
+['627', 'Cummins Bridgeway - Pittsburgh, 3 Alpha Drive,Pittsburgh, PA 15238,',   40.4914947, -79.8659059, 'second'],
+['628', 'All American Asphalt, 1776 All American Way,Corona, CA 92879,CADN, Cca',    33.867635, -117.523579, 'second'],
+['629', 'Kenworth Mid-Iowa, Inc. - Des Moines, 4111 Delaware Ave,Des Moines, IA 50313',    41.6323055, -93.5812876, 'second'],
+['630', 'Truck Life, 18424 NW Frontage Road Suite 100,Joliet, IL 60404 Cc',    41.548343, -88.182231, 'second'],
+['631', 'Vanguard Truck Center of Phoenix, 2402 South 19th Ave.,Phoenix, AZ 85009,CA',   33.425679, -112.0999121, 'second'],
+['632', 'Peterbilt of McComb, 212 25th St,McComb, MS 39648 N, Cc',   31.23267, -90.451265, 'second'],
+['633', 'Whites International Truck, 1924 Brentwood Street,Highpoint, NC 27260,CAD',   35.9422775, -79.9797226, 'second'],
+['634', 'Altruck International Truck - Burlington, 4149 Harvester Road,Burlington, ON ',   43.3669146, -79.7787811, 'second'],
+['635', 'J.M. Dorsey Company, 4416 Salem Bottom Road,Westminster, MD 21157',   39.4526617, -77.0566886, 'second'],
+['636', 'Prince Logistics Services, 300 Berge du Canal Suite 312,Lachine, QC H8R 1H3,',    45.4422913, -73.6449026, 'second'],
+['637', 'Triad Freightliner of Greensboro, Inc., 6420 Burnt Poplar Rd,Greensboro, NC 2',   36.078135, -79.946123, 'second'],
+['638', 'Peterbilt of Sioux Falls, 4620 N. Cliff Ave,Sioux Falls, SD 57104',   43.5960958, -96.7113927, 'second'],
+['639', 'Jackson Group Peterbilt - Boise, 6633 Federal Way,Boise, ID 83716',   43.543176, -116.157874, 'second'],
+['640', 'Jackson Group Peterbilt - Jerome, 302 E. Frontage Road N.,Jerome, ID 83338,',   42.684722, -114.513243, 'second'],
+['641', 'Jackson Group Peterbilt - Salt Lake City, 1910 South 5500 W,Salt Lake City, UT ',   40.728542, -112.023163, 'second'],
+['642', 'Ogburns Truck Parts, 900 E Northside Drive,Fort Worth, TX 76102 ',    32.777166, -97.337439, 'first'],
+['643', 'MHC Kenworth - Gainsville, 1830 Athens Hwy,Gainesville, GA 30507 ',   34.2814357, -83.79632420000002, 'first'],
+['644', 'MHC Kenworth - McDonough, 2003 Industrial Pkwy,McDonough, GA 30253,',   33.418911, -84.17343299999999, 'first'],
+['645', 'Kenworth Sales - W. Valley, 2125 S. Constitution Blvd,West Valley, UT 84119,',    40.7251042, -111.95910129999999, 'first'],
+['646', 'Western Filters, 45 Forge St,Blacktown, NSW 2148 N, Ccu',   -33.752261, 150.913411, 'first'],
+['647', 'Fort Wayne Truck Center, 3535 Coliseum  Blvd.,Fort Wayne, IN 46808,',   41.116516, -85.18843600000002, 'first'],
+['648', 'Rush Truck Center - Columbus West, 4200 Currency Drive,Columbus, OH 43228,C',   40.004658, -83.119999, 'first'],
+['649', 'Rush Truck Center - Laredo, 10216 Union Pacific Blvd.,Laredo, TX 78045,CAD',    27.613739, -99.49094200000002, 'first'],
+['650', 'BJs Truck Centre, 502 Brackley Point Rd.,Charlottetown, PE C1A 8C2,',   46.2696341, -63.12694950000002, 'first'],
+['651', 'Rush Truck Center - Corpus Christi, 3001 IH-69 S,Robstown, TX 78380,',    27.7903032, -97.6688843, 'first'],
+['652', 'Coffman Truck Sales, 1149 West Lake Street,Aurora, IL 60506 ',    41.7802299, -88.31639810000001, 'first'],
+['653', 'SGT OTOMOTIV MAKINA ?R?NLERI San. VE Tic. Ltd. Sti., Abdullah pasa cad. No20,Basaksehir-Istanbul',    41.08047699999999, 28.78516000000002, 'first'],
+['654', 'Cay Power Group, 2613 Karbach St.,Houston, TX 77092 N, ',   29.811203, -95.461996, 'first'],
+['655', 'North Bay Truck Center, 1245 Illinois St.,Fairfield, CA 94533 Cc',    38.24332, -122.04776500000003, 'first'],
+['656', 'Bersy S.r.l. Unipersonale, Via A. Pitentino 24-46010,Levata di Curatone, MN I',   45.127038, 10.772164, 'first'],
+['657', 'R.E. Garrison Trucking, 9170 Alabama Hwy 157,Cullman, AL 35057,CADN, C',    34.2349085, -86.9280455, 'first'],
+['658', 'McClymonds Supply & Transit, 296 Currie Rd,Portersville, PA 16051,CADN,',   40.9671905, -80.1424197, 'first'],
+['659', 'McCann & Sons Hay Service, 1356 W Iona Ave,Lemoore, CA 93245 Cca',    36.284491, -119.80148400000002, 'first'],
+['660', 'Mike Lowrie Trucking, 7134 Tremont Rd,Dixon, CA 95620 N,',    38.494762, -121.78424899999999, 'first'],
+['661', 'Marten Transport - Laredo, 13105 South Unitech,Laredo, TX 78045,CADN, ',    27.672313, -99.46620000000001, 'first'],
+['662', 'Inland Kenworth - Cranbrook, 816 Industrial Rd #1,Cranbrook, BC V1C 4C6,CAD',   49.5216284, -115.76234790000001, 'first'],
+['663', 'MHC Kenworth - Longview, TX, 5565 SE Loop 281 South,Longview, TX 75602,CAD',    32.4716185, -94.66949569999997, 'first'],
+['664', 'Advantage Truck Center - Charlotte, 3880 Jeff Adams Dr.,Charlotte, NC 28206,',    35.27548, -80.817341, 'first'],
+['665', 'Redwine International, 1700 Skippers Rd.,Emporia, VA 23847 ',   36.6635275, -77.55330029999999, 'first'],
+['666', 'Cummins Western Canada - Saskatoon, 3001 Faithful Ave,Saskatoon, SK S7K 4R4,',    52.1765925, -106.66320109999998, 'first'],
+['667', 'Cummins Western Canada - Regina, 110 Kress Street,Regina, SK S4P 2Z5,CAD',    50.48423703159316, -104.56378691534422, 'first'],
+['668', 'Wraich Transport, LLC, 14320 Slover Avenue,Fontana, CA 92337,CADN, Cca',    34.0646248, -117.49305279999999, 'first'],
+['669', 'Ozark Motor Lines, Inc., 3934 Homewood Road,Memphis, TN 38118,CADN, Cc',    35.041283, -89.924532, 'first'],
+['670', 'Filtre Saglac, Inc., 252 Joseph Gagne S,La Baie, QC G7B 3P6 ',    48.3319499, -70.9001053, 'first'],
+['671', 'Rush Truck Center - Orlando, 1925 W. Princeton St.,Orlando, FL 32804,CAD',    28.571812, -81.40893189999997, 'first'],
+['672', 'Transit Authority of River City - Union Station, 1000 West Broadway,Louisville, KY, C',   38.24709989999999, -85.76841089999999, 'first'],
+['673', 'Professional Auto Transport, 4513 Parkhurst St.,Jurupa Valley, CA 91752,CAD',   34.0050096, -117.53784389999998, 'first'],
+['674', 'Portville Truck & Auto, 29 S. Main St,Portville, NY 14770 ',    42.0381891, -78.33996709999997, 'first'],
+['675', 'Gainesville Truck Center, Inc., 2145 Athens Hwy,Gainesville, GA 30507,CAD',   34.28032, -83.78321690000001, 'first'],
+['676', 'Clean Diesel Emissions, 150 South Wineville Ave,Ontario, CA 91761',   34.061549, -117.54112800000001, 'first'],
+['677', 'Volvo Trucks of Steubenville, 620 South Street,Steubenville, OH 43952,CAD',   40.3575369, -80.62000929999999, 'first'],
+['678', 'Selking International - South Bend, 4849 W. Western Ave,South Bend, IN 46619',    41.6719474, -86.3156907, 'first'],
+['679', 'iTA Truck Sales & Service, 2835 NW Evangeline Thruway,Lafayette, LA 70507,C',   30.2846199, -92.02166980000004, 'first'],
+['680', 'Mammoth Equipment & Exhausts, 32 Tacoma Circuit,Canning Vale, WA 6155,CAD',   -32.062105, 115.91477199999997, 'first'],
+['681', 'Roberts Truck Center - San Angelo, 617 North Bell Street,San Angelo, TX 76903',   31.4736968, -100.41333830000002, 'first'],
+['682', 'Truck Enterprises Inc. - Richmond, 8900 Burge Ave,Richmond, VA 23237,CAD',    37.4069, -77.42467799999997, 'first'],
+['683', 'Roberts Truck Center - Albuquerque, 1623 Aspen Ave NW,Albuquerque, NM 87104,',    35.103917, -106.66155900000001, 'first'],
+['684', 'Advanced Emission Control Solutions, 2695 S. Fourth St.,Fresno, CA 93725,CA',   36.703773, -119.766278, 'first'],
+['685', 'Jackson Group Peterbilt - St George, 203 East Playa Della Rosita,Washington, UT ',    37.133496, -113.52050700000001, 'first'],
+['686', 'Coast Counties Peterbilt - San Leandro, 260 Doolittle Dr.,San Leandro, CA 945',   37.724309, -122.19489299999998, 'first'],
+['687', 'Tom Nehl Truck Company, 417 S. Edgewood Ave,Jacksonville, FL 32254,',   30.32035999999999, -81.7252479, 'first'],
+['688', 'Kentucky Truck Sales, Inc., 1403 Truckers Blvd.,Jeffersonville, IN 47130,CA',   38.3181805, -85.7499838, 'first'],
+['689', 'Husky International Trucks, Inc. - Spokane, 910 N Thierman Rd.,Spokane, WA 99',   47.666013, -117.314138, 'first'],
+['690', 'SelecTrucks of Atlanta, 333 Industrial Blvd.,McDonough, GA 30253 ',   33.416344, -84.16592700000001, 'first'],
+['691', 'Eastern Michigan Kenworth - Dearborn, 3031 Wyoming Ave,Dearborn, MI 48120,C',   42.3097358, -83.15173959999998, 'first'],
+['692', 'NorCal Kenworth - Morgan Hill, 16715 Condit Rd.,Morgan Hill, CA 95037,CAD',   37.1314932, -121.63054640000001, 'first'],
+['693', 'Rush Truck Center - Mobile, 5500 Linwood Steiner Rd.,Theodore, AL 36582,CAD',   30.57775299999999, -88.16922299999999, 'first'],
+['694', 'Ector County Independent School District, 1621 E 5th Street,Odessa, TX 79761',    31.856458, -102.34972399999998, 'first'],
+['695', 'Alis Truck & Trailer Repair, LLC, 8546 Weyand Ave,Sacramento, CA 95828,CAD',    38.498837, -121.38773800000001, 'first'],
+['696', 'Western Truck Center, 3333 State Route 99,Stockton, CA 95215 Cca',    37.925817, -121.2325851, 'first'],
+['697', 'Ransome International, 2320 High Hill Road,Logan Township, NJ 08085,',    39.7822192, -75.36624469999998, 'first'],
+['698', 'Peterbilt of Las Vegas, 4120 Donovan Way,North Las Vegas, NV 89030,',   36.233677, -115.111444, 'first'],
+['699', 'Truck Source, Inc., 8900 N. Vancouver,Portland, OR 97217 ',   45.58768999999999, -122.66596199999998, 'first'],
+['700', 'Shealy Truck Center - Duncan, 331 Midpoint Blvd.,Duncan, SC 29334',   34.895827, -82.14852989999997, 'first'],
+['701', 'Rush Truck Leasing - Albuquerque, 901 64th St.,Albuquerque, NM 97121,CAD',    35.098904, -106.71173699999997, 'first'],
+['702', 'Peterson Trucks - San Leandro, 2712 Teagarden Street,San Leandro, CA 94577,',   37.7071032, -122.15913639999997, 'first'],
+['703', 'David Huggett M.F. Limited, Britannia Road Waltham Cross,Hertfordshire, UK EN',   51.6836828, -0.023569899999984045, 'first'],
+['704', 'Hirschbach Motor Lines - Denton, 4501 N. Elm,Denton, TX 76207,CADN, Cc',    33.260117, -97.1728119, 'first'],
+['705', 'CDTA - Capital District Transportation Auth., 110 Watervliet Ave,Albany, NY 1',   42.680212, -73.781068, 'first'],
+['706', 'LA Fleet Works, 16675 Paramount Blvd.,Paramount, CA 90723 ',    33.8821918, -118.16036409999998, 'first'],
+['707', 'Pliler International - Shreveport, 7690 West 70th St.,Shreveport, LA 71129,',   32.4425268, -93.924827, 'first'],
+['708', 'AMS Truck & Trailer Repair, 233 S. Washington Blvd.,Ogden, UT 84404,',    41.2585251, -111.96965969999997, 'first'],
+['709', 'Marten Transport - Tampa, 8411 Sabal Industrial Blvd.,Tampa, FL 33619,CAD',   27.97275, -82.35639900000001, 'first'],
+['710', 'Altex Transportation, 2600 Rice Avenue,West Sacramento, CA 95691,CADN, ',   38.5868359, -121.5426678, 'first'],
+['711', 'US Citylink Corp., 5625 S Union Ave,Bakersfield, CA 93307,CADN, ',    35.303648, -119.00422100000003, 'first'],
+['712', 'Surgenor Truck Group - Kingston, 261 Binnington Court,Kingston, ON K7M 9H2,',   44.27224469999999, -76.52826069999998, 'first'],
+['713', 'Inland Kenworth Inc. - Fontana, 9730 Cherry Ave,Fontana, CA 92335',   34.0769438, -117.48895820000001, 'first'],
+['714', 'Wiza Truck Service Inc., 20070 W. Lincoln Avenue,New Berlin, WI 53146,CAD',   43.00374, -88.162285, 'first'],
+['715', 'Rush Truck Center - Greeley, 26956 Weld County Road 47,Greeley, CO 80631,CA',   40.390795, -104.62010099999998, 'first'],
+['716', 'Metro Freightliner Hamilton,  Inc., 475 Seaman Street,Stoney Creek, ON L8E 2R',   43.23266659999999, -79.71057100000002, 'first'],
+['717', 'Cummins Crosspoint, LLC - Cross Lanes, 602 New Golf Mountain Road,Cross Lanes, WV, Cz',   38.413008, -81.7947059, 'first'],
+['718', 'Cummins Crosspoint, LLC - Indianapolis, 3621 W. Morris St.,Indianapolis, IN 4',   39.749232, -86.22160500000001, 'first'],
+['719', 'Cummins Crosspoint, LLC - Evansville, 7901 Hwy 41,Evansville, IN 47725,CAD',    37.9389233, -87.54482259999997, 'first'],
+['720', 'Cummins Crosspoint, LLC - Knoxville, 1211 Ault Road,Knoxville, TN 37914,CAD',   36.009273, -83.87493799999999, 'first'],
+['721', 'Cummins Crosspoint, LLC - Louisville, 9820 Bluegrass Parkway,Louisville, KY 4',   38.221185, -85.57083999999998, 'first'],
+['722', 'Cummins Crosspoint, LLC - Nashville, 706 Spence Lane,Nashville, TN 37217,CA',   36.1388683, -86.7232591, 'first'],
+['723', 'Hirschbach Motor Lines - Springfield, 255 Cadwell Drive,Springfield, MA 01104',   42.1538867, -72.5446781, 'first'],
+['724', 'Kenworth of Richfield, 2890 Brecksville Rd,Richfield, OH 44286 C',    41.213083, -81.63926900000001, 'first'],
+['725', 'VoMac Truck Sales & Service, 12242 Declaration Drive,New Haven, IN 46774,CA',   41.0666521, -84.9824453, 'first'],
+['726', 'Marten Transport - Kansas City, 10020 Woodend Rd,Kansas City, KS 66111,CAD',    39.0509041, -94.81063649999999, 'first'],
+['727', 'Howard G. Macneil Truck Parts, Richmond St & Cape Breton,Sydney, NS B1P6J1,',   46.146436, -60.17909420000001, 'first'],
+['728', 'Mid-America International Trucks, Inc., 1750 E Brooks Rd,Memphis, TN 38116,',   35.0611333, -90.0049793, 'first'],
+['729', 'Tommys Truck Sales, 1107 E. Slaton Hwy,Lubbock, TX 79404 ',   33.5315009, -101.8247399, 'first'],
+['730', 'MACK Trucks, Inc., 2800 Commerce Drive,Middletown, PA 17057 ',    40.216617, -76.781473, 'first'],
+['731', 'Diamond International Trucks - North Little Rock, 11401 Diamond Drive,North Little Rock, ',   34.785579, -92.13451700000002, 'first'],
+['732', 'Roberts Truck Center - Lubbock, 4510 Avenue A,Lubbock, TX 79404 ',    33.552874, -101.83681000000001, 'first'],
+['733', 'Peterbilt Medicine Hat, 2250 South Highway Drive SE,Redcliff, AB T0J 2P0,CA',   50.0678776, -110.74995960000001, 'first'],
+['734', 'Inland Kenworth - Montebello, 1600 W. Washington Blvd,Montebello, CA 90640,',   33.9988085, -118.12549949999999, 'first'],
+['735', 'Wallwork Kenworth - Williston, 2615 University Ave,Williston, ND 58801,CAD',    48.16929289999999, -103.61545619999998, 'first'],
+['736', 'Cummins Bridgeway - West Chester, 5400 Rialto Rd,West Chester, OH 45069,CAD',   39.33020399999999, -84.445694, 'first'],
+['737', 'Cummins Bridgeway - Maumee, 801 Illinois Ave,Maumee, OH 43537 Cc',    41.5697793, -83.67594550000001, 'first'],
+['738', 'Cummins Bridgeway - Hilliard, 4000 Lyman Dr,Hilliard, OH 43026 C',    40.035103, -83.127205, 'first'],
+['739', 'Cummins Bridgeway - Cleveland, 7585 Northfield Rd,Cleveland, OH 44146,CAD',   41.3748541, -81.52652990000001, 'first'],
+['740', 'City of Yakima, 2301 Fruitvale Blvd,Yakima, WA 98902,CADN, N, ',    46.614604, -120.539970, 'first'],
+['741', 'Groupe Maska - St. Hyacinthe, 550 av Vaudreuil,Saint Hyacinthe, QC J2S 4H2,',   45.62777089999999, -72.94202949999999, 'first'],
+['742', 'MHC Kenworth - Colorado Springs, 2215 Rand Ave,Colorado Springs, CO 80906,C',   38.80005, -104.800591, 'first'],
+['743', 'Kenworth of Lincoln, 201 SW 27th St,Lincoln, NE 68522 N,',    40.811798, -96.76008999999999, 'first'],
+['744', 'TEC Equipment, Inc. - Des Moines, 25619 Pacific Hwy. S,Des Moines, WA 98198,',    47.37153319999999, -122.30346959999997, 'first'],
+['745', 'TEC Equipment, Inc. - Portland, 750 NE Columbia Blvd.,Portland, OR 97211,CA',   45.5798581, -122.65701039999999, 'first'],
+['746', 'TEC Equipment, Inc. - Sparks/Reno, 1955 E Greg Street,Sparks, NV 89431,CAD',    39.5220983, -119.70635270000002, 'first'],
+['747', 'TEC Equipment, Inc. - La Mirada, 15000 Firestone Blvd.,La Mirada, CA 90638,',   33.8746327, -118.01302570000001, 'first'],
+['748', 'TEC of California, Inc. - Fontana, 14085 Valley Blvd.,Fontana, CA 92335,CAD',   34.0690628, -117.4982096, 'first'],
+['749', 'Central Valley Truck Center, 2707 S East Ave,Fresno, CA 93725 Cc',    36.7028, -119.77157899999997, 'first'],
+['750', 'Fort Wayne Community Schools, 301 West Cook Road,Fort Wayne, IN 46809,CAD',   41.147367, -85.1380269, 'first'],
+['751', 'Finning International, Inc., 19100 94A Avenue - CE1,Surrey, BC V4N 5C3,CAD',    49.1720052, -122.69395859999997, 'first'],
+['752', 'Paesen Trucks - PEER NV, Achterstraat 36,PEER, BE 3990 N',    51.1279064, 5.41679360000000, 'first'],
+['753', 'Diamond International Trucks - Joplin, 2800 Davis Blvd.,Joplin, MO 64804,CA',   37.0601958, -94.46973229999998, 'first'],
+['754', 'Cervus Equipment Peterbilt - Stoney Creek, 924 South Service Rd.,Stoney Creek, ON, Cz',   43.22557399999999, -79.67327209999996, 'first'],
+['755', 'Cervus Equipment Peterbilt - London, 31 Buchanan Court,London, ON N524P9,CA',   42.9366092, -81.18613240000002, 'first'],
+['756', 'HEB Fleet Maintenance - San Antonio, 5311 Rittiman Road Bldg. 2,San Antonio, TX ',    29.485277, -98.38513390000003, 'first'],
+['757', 'HEB Fleet Maintenance - Houston, 4625 Wendfern,Houston, TX 77041,CADN, ',   29.8385179, -95.53701619999998, 'first'],
+['758', 'Wisconsin Kenworth - Oak Creek, 9350 S. 22nd St.,Oak Creek, WI 53154,CAD',    42.87495879999999, -87.9410613, 'first'],
+['759', 'Central Valley Trucking, 3371 North Hwy 59,Merced, CA 95348,CADN, ',    37.325563, -120.50626399999999, 'first'],
+['760', 'Truckworx Kenworth - McComb, 1165 Highway 98 East - Suite B,McComb, MS 39648',    31.1869602, -90.32333110000002, 'first'],
+['761', 'Beelman Truck Company, One Racehorse Drive,E. St. Louis, IL 62205,CADN,',   38.6057218, -90.11674629999999, 'first'],
+['762', 'Wallwork Kenworth - Minot, 2300 20th Ave SE,Minot, ND 58701 ',    48.2108959, -101.25882389999998, 'first'],
+['763', 'Rush Truck Center - Lubbock, 4515 Avenue A,Lubbock, TX 79404 Cca',    33.5528959, -101.83454799999998, 'first'],
+['764', 'Concrete Ready Mix, 33  Hillsdale Ave,San Jose, CA 95136,CADN, ',   37.28572339999999, -121.844266, 'first'],
+['765', 'Westchester County - Dept. of Public Works, Central County Garage,White Plains, NY, C',   41.03525399999999, -73.755537, 'first'],
+['766', 'Wichita Kenworth, Inc. - Wichita, 5115 N. Broadway,Wichita, KS 67219,CAD',    37.7770383, -97.33673590000001, 'first'],
+['767', 'Dodge City Kenworth (Wichita Kenworth, Inc.), 1301 Minneloa Rd.,Dodge City, KS ',   37.7312266, -100.01491529999998, 'first'],
+['768', 'R & J Trucking, Inc., 8110 Southern Blvd.,Youngstown, OH 44512,CADN, C',    41.002868, -80.65539690000003, 'first'],
+['769', 'MBI - Mr. Bults, Inc., 2627 East 139th St.,Burnham, IL 60633,CADN, Cc',   41.6424457, -87.55827680000004, 'first'],
+['770', 'DESSCO - Diesel Electric Service & Supply Co. Inc., 652 West 1700 South,Salt Lake City, ',    40.7336982, -111.9099329, 'first'],
+['771', 'Peterbilt Manitoba Ltd. - Brandon, 1809 18th St. N,Brandon, MB R7C 1A6,CAD',    49.88423830000001, -99.9628897, 'first'],
+['772', 'GAMA GOLD TRADING, Ltd., 21/10 Haorgim St.,Holon, Israel,  5885701,',   32.0096933, 34.80188169999997, 'first'],
+['773', 'International Trucks of Houston, 8900 N. Loop E,Houston, TX 77029',   29.7957216, -95.27172569999999, 'first'],
+['774', 'Sherwood Truck Repair, 21900 Hoover,Warren, MI 48216 N, ',    42.457217, -83.00475599999999, 'first'],
+['775', 'Peterbilt of NW Arkansas, 715 North Bloomington,Lowell, AR 72745 ',   36.26422, -94.13545099999999, 'first'],
+['776', 'Truck Sales & Service, Inc. - Midvale, 3429 Brightwood Road,Midvale, OH 44653',   40.4291079, -81.36878469999999, 'first'],
+['777', 'Rush Truck Center - Springfield, 5245 Prosperity Drive,Springfield, OH 45502',    40.001254, -83.80240700000002, 'first'],
+['778', 'TMC Transportation (Annett Holdings) - Des Moines, 6115 Leland Ave.,Des Moines, IA, C',   41.5294444, -93.69925010000003, 'first'],
+['779', 'TMC Transportation - Indianapolis, 1151 West Thompson Rd.,Indianapolis, IN 46',   39.691953, -86.18047200000001, 'first'],
+['780', 'Snider Fleet Solutions, 4420 N. Graham St.,Charlotte, NC 28206 C',    35.274366, -80.80971199999999, 'first'],
+['781', 'Dikatec AB, Matallvagen 12,Rosersberg, SWE  N, Ccummins',   59.5794595, 17.87196640000002, 'first'],
+['782', 'Foster Farm Poultry, Inc. - Livingston Truck Shop, 1000 Swan Street,Livingston, CA, C',   37.3915458, -120.7224134, 'first'],
+['783', 'Valley Truck Center of Cotulla, 206 West FM 468 Road,Cotulla, TX 78014,CAD',    28.4389271, -99.23566340000002, 'first'],
+['784', 'Selking International - Muncie, 3801 East McGalliard,Muncie, IN 47303,CAD',   40.2191244, -85.3423406, 'first'],
+['785', 'Stater Bros. Market, 301 South Tippecanoe Ave.,San Bernardino, CA 92408,CAD',   34.0973906, -117.25895109999999, 'first'],
+['786', 'Stafford Logistics, Inc., 6375 Discovery Blvd.,Mableton, GA 30126,CADN,',   33.79697, -84.515016, 'first'],
+['787', 'Don Hummer Trucking, 3391 Hwy 6 Trail,Homestead, IA 52236 ',    41.7579663, -91.83380239999997, 'first'],
+['788', 'G. Lopes Construction, Inc., 565 Winthrop Street,Taunton, MA 02780,CADN',   41.880593, -71.16194999999999, 'first'],
+['789', 'REDHEAD Equipment, Highway 1 E  SW20-17-18-West 2nd,Regina, SK S4N 7L2,CAD',    50.4467666, -104.5511879, 'first'],
+['790', 'Transwestern Truck Centres, 5555 80th Ave SE,Calgary, AB T2C 4S6 ',   50.9809893, -113.95537179999997, 'first'],
+['791', 'Whitecourt Transport, Inc., 3710 33 St,Whitecourt, AB T7S 0A2,CADN, Cc',    54.1293928, -115.64343539999999, 'first'],
+['792', 'Advantage Truck Center - Greensboro, 7940 National Service Rd.,Greensboro, NC ',    36.085268, -79.97749699999997, 'first'],
+['793', 'Triangle Transit, 5201 Nelson Road,Morrisville, NC 27560,CADN, ',   35.882853, -78.82079699999997, 'first'],
+['794', 'Performance Peterbilt of Bristol, 33392 Lee Hwy.,Glade Spring, VA 24340,CAD',   36.7690549, -81.78207609999998, 'first'],
+['795', 'Truck Enterprises Inc. - Keyser, H.C. 84 US Route 50 East, Box 89B,Keyser, WV ',    35.77, -78.63999999999999, 'first'],
+['796', 'Rush Truck Center - Lufkin, 3901 N. Medford Dr.,Lufkin, TX 75901 ',   31.3662773, -94.70454999999998, 'first'],
+['797', 'Sangha Truck & Trailer Repair, 3560 Railroad Ave.,Yuba, CA 95991 ',   39.0751977, -121.62614810000002, 'first'],
+['798', 'VPV Transport, LLC, 125 Pennsylvania Ave,Kearny, NJ 07032 ',    40.7394137, -74.10637559999998, 'first'],
+['799', 'Diesel Truck Centre, 2677 Drew Road,Mississauga, ON L4T 3X1 ',    43.7032191, -79.6554787, 'first'],
+['800', 'TruckNation, 10015 N Loop East,Houston, TX 77029 N, Ccu',   29.7807419, -95.26215200000001, 'first'],
+['801', 'Truck Doctors, 3650 Washington St,Gurnee, IL  N, Ccummi',   42.362551, -87.892541, 'first'],
+['802', 'GB Truck & Diesel, 7802 102nd Ave,Peace River, AB T8S 1S1 ',    56.2299176, -117.33759270000002, 'first'],
+['803', 'The Diesel Shop, 53428 Range Road 170,Yellowhead County, AB T7E 3K8,',    53.67192799999999, -116.36015800000001, 'first'],
+['804', 'JX Peterbilt - Elmhurst, 216 West Diversey,Elmhurst, IL 60126 Cc',    41.9289766, -87.94537939999998, 'first'],
+['805', 'Quad Cities Kenworth, 3600 78th Ave W,Rock Island, IL 61201 ',    41.442653, -90.61716139999999, 'first'],
+['806', 'Performance Truck - Cleveland, 1287 US 59 N,Cleveland, TX 77328 ',    30.3817595, -95.06811399999998, 'first'],
+['807', 'Tri-State International Trucks - Bowling Green, 191 Parker Avenue,Bowling Green, KY, ',   37.0095193, -86.3824515, 'first'],
+['808', 'Sierra Pacific Industries, 11605 Reading Road,Red Bluff, CA 96080,CADN,',   40.1291812, -122.1987757, 'first'],
+['809', 'Rush Truck Center - Jacksonville, 5175 W. Beaver St.,Jacksonville, FL 32254,',    30.327853, -81.73443600000002, 'first'],
+['810', 'Carrier Truck Center - Windsor, 4880 Walker Road,Windsor, ON N9A 6J3,CAD',    42.2378626, -82.96375260000002, 'first'],
+['811', 'Milwaukee County Transit System, 1525 W Vine St,Milwaukee, WI 53205,CADN',    43.0536839, -87.93095089999997, 'first'],
+['812', 'Southeastern Freight Lines, 750 Aquila Way,Austell, GA 30168,CADN, Cca',    33.7489529, -84.57601219999998, 'first'],
+['813', 'Peterbilt of St. Louis, 2350 Sauget Industrial Parkway,Sauget, IL 62206,CAD',   38.570134, -90.13356399999998, 'first'],
+['814', 'Truckworx Kenworth - Huntsville, 15090 Alabama Hwy 20,Madison, AL 35756,CAD',   34.6391002, -86.85010979999998, 'first'],
+['815', 'Quality Truck Repair, 3936 Railroad Ave.,Yuba City, CA 95991 Cca',    39.06977, -121.62562700000001, 'first'],
+['816', 'Reynolds Logistics, 4510 E. Tazarv St.,Tucson, AZ 85706,CADN, N',   32.144522, -110.89493800000002, 'first'],
+['817', 'Centre Du Camion Ste-Marie Inc., 300 Boul Saint-Joseph Ouest,Drummondville, QC ',   45.9027247, -72.53090850000001, 'first'],
+['818', 'Timmons Truck Center - Baton Rouge, 8008 Airline Hwy,Baton Rouge, LA 70815,',   30.4657503, -91.10575800000004, 'first'],
+['819', 'Rovan Diesel Inc., 309 Watline Ave.,Mississauga, ON L4Z 1P3 ',    43.6272093, -79.6645249, 'first'],
+['820', 'Old River Companies, Inc., 139 Old Highway 49 South,Richland, MS 39218,CAD',    32.2702996, -90.17096909999998, 'first'],
+['821', 'Whiteford Kenworth, 4625 Western Ave.,South Bend, IN 46619 ',   41.67192989999999, -86.312184, 'first'],
+['822', 'Penske Corporation, 2675 Morgantown Road,Reading, PA 19607,CADN, ',   40.2615612, -75.92179469999996, 'first'],
+['823', 'Fleetserv, 725 S. Lugo Ave.,San Bernardino, CA 92408 N, ',    34.088827, -117.28325699999999, 'first'],
+['824', 'Kenworth Montreal - Lanoraie, 922 Grande Cote Ouest,Lanoraie, PQ J0K 1E0,CA',   45.9217954, -73.25518520000003, 'first'],
+['825', 'Force Incorporated, 1077 Route 119 Hwy. N.,Indiana, PA 15701,CADN, Cca',    40.6421982, -79.1352645, 'first'],
+['826', 'Nortrux, Inc., 18110 118th Ave NW,Edmonton, AB T5S 2G2 N',    53.5695114, -113.63601510000001, 'first'],
+['827', 'NorCal Kenworth - Anderson, 20769 Industry Rd,Anderson, CA 96007 ',   40.428557, -122.28134299999999, 'first'],
+['828', 'Rush Truck Center - Tucson, 755 E. 44th St.,Tucson, AZ 85713 Cca',    32.183867, -110.96006299999999, 'first'],
+['829', 'Peterbilt of Willow Springs, 402 E. Main Street,Willow Springs, MO 65793,CA',   36.9906714, -91.96753769999998, 'first'],
+['830', 'Professional Fleet Services, 2650 S. Custer,Wichita, KS 67217 Cc',    37.646405, -97.37656400000003, 'first'],
+['831', 'Exhaust Emissions Reduction, 301 E. Blaine Street,Corona, CA 92879,',   33.8828418, -117.56271609999999, 'first'],
+['832', 'Cummins Atlantic - Clear Brook, 227 Hopewell Lane,Clear Brook, VA 22624,CAD',   39.2561301, -78.09885400000002, 'first'],
+['833', 'Spirit Truck Lines, 200 W. Nolana,San Juan, TX 78589,CADN, N, ',    26.2304305, -98.15042819999996, 'first'],
+['834', 'Fleetcare Commercial Trucks, 1242 Nowell Drive,Augusta, GA 30901 ',   33.4577003, -81.96603619999996, 'first'],
+['835', 'Rihm Kenworth, 11530 Hudson Blvd.,Lake Elmo, MN 55042 N,',    44.9492803, -92.87206279999998, 'first'],
+['836', 'RR Charlebois, Inc., 950 US Route 7 South,Milton, VT 05468 ',   44.63202099999999, -73.115204, 'first'],
+['837', 'PACCAR Leasing Company, 9620 S. 76th Ave.,Hickory Hills, IL 60547',   41.716119, -87.8105099, 'first'],
+['838', 'PACCAR Leasing Company - Grand Prairie, 1411 W. North Carrier Parkway,Grand Prairie, TX',   32.785443, -97.04136540000002, 'first'],
+['839', 'Aviles Brothers, 8516 Avenida De La Fuente,San Diego, CA 92154 C',    32.557383, -116.95999899999998, 'first'],
+['840', 'Big M Transportation, 6341 B Highway 15,Blue Mountain, MS 38610,CADN, ',    34.650198, -89.02403770000001, 'first'],
+['841', 'DSU Peterbilt - Springfield, OR, 1626 30th St.,Springfield, OR 97478,CAD',    44.0611416, -122.98311960000001, 'first'],
+['842', 'Rush Truck Center - Cleveland, 12970 Snow Road,Parma, OH 44130 C',    41.405064, -81.77152079999996, 'first'],
+['843', 'Norfolk Truck Center, Inc., 736 Tidewater Dr.,Norfolk, VA 23504 ',    36.851339, -76.27505099999996, 'first'],
+['844', 'Border International - Las Cruces, 1670 South Valley Dr.,Las Cruces, NM 88005',   32.2883842, -106.78312929999998, 'first'],
+['845', 'Phils Diesel Clinic, 11980 Bryon Hwy,Byron, CA 94514 N,',   37.8361795, -121.6103273, 'first'],
+['846', 'Advantage Fleet Parts, 920 OMalley Drive,Coopersville, MI 49404 ',    43.0536869, -85.94770199999999, 'first'],
+['847', 'Rush Truck Center - Tampa, 8111 E. Adamo Drive,Tampa, FL 33619 C',    27.951002, -82.365793, 'first'],
+['848', 'Eastern Ohio Truck and Trailer, Inc., 10640 Lancaster Road,Hebron, OH 43025,',    39.940665, -82.53729699999997, 'first'],
+['849', 'D&W Diesel, 1503 Clark Street Road,Auburn, NY 13021 N, ',   42.929233, -76.61897199999999, 'first'],
+['850', 'Bruckner Truck Sales Inc. - Amarillo, 9471 I-40 East,Amarillo, TX 79118,CAD',   35.1950278, -101.72781929999996, 'first'],
+['851', 'M & K Truck Centers, 5300 W. Plattner Drive,Alsip, IL 60803 ',    41.6653451, -87.75225219999999, 'first'],
+['852', 'Quality Equipment Sales - Waxahacie, 7240 N. Interstate 35,Waxahacie, TX 7516',   32.4837963, -96.82926470000001, 'first'],
+['853', 'Quality Equipment Sales - Carlisle, 1711 Shearer Drive,Carlisle, PA 17013,C',   40.19377, -77.23768100000001, 'first'],
+['854', 'Quality Equipment Sales - Indianapolis, 9702 E. 30th Street,Indianapolis, IN ',   39.813403, -85.99660699999998, 'first'],
+['855', 'Rush Truck Center - Yuma, 3382 E. Gila Ridge Dr.,Yuma, AZ 85365 ',    32.6860558, -114.57458930000001, 'first'],
+['856', 'Shealys Truck Center - Columbia, 1340 Bluff Road,Columbia, SC 29201,CAD',   33.968615, -81.0118612, 'first'],
+['857', 'RDO Truck Center Co., 952 35th Ave East,Dickinson, ND 58601 ',    46.8887197, -102.7255831, 'first'],
+['858', 'RDO Truck Center - Grand Forks, 5315 Gateway Dr.,Grand Forks, ND 58203,CAD',    47.9328716, -97.10735219999998, 'first'],
+['859', 'Paul Miller Trucking, 451 Freight St.,Camp Hill, PA 17011,CADN, ',    40.230924, -76.940945, 'first'],
+['860', 'Michigan Kenworth, 7393 Expressway Court SW,Grand Rapids, MI 49548,',   42.82965249999999, -85.67251420000002, 'first'],
+['861', 'A.D. Transport Express, 5601 Belleville Road,Canton, MI 48188,CADN, Cc',    42.2658796, -83.48633919999997, 'first'],
+['862', 'Kenworth of South Texas, 1313 Corn Products Road,Corpus Christi, TX 78409,C',   27.8064414, -97.4855025, 'first'],
+['863', 'Peterbilt Atlantic - Fredericton, 45 Gillis Rd,Fredericton, NB E3C 2G3,CAD',    45.91801299999999, -66.62774289999999, 'first'],
+['864', 'Jackson Group Peterbilt - Salina, 385 East 1620 South,Salina, UT 84654,CAD',    38.9356622, -111.85389079999999, 'first'],
+['865', 'Peterbilt of Idaho, 812 W. Laurel Street,Caldwell, ID 83605 ',    43.6633939, -116.707516, 'first'],
+['866', 'Peterbilt Atlantic - Moncton, 565 Venture Drive,Moncton, NB E1H 2P4,',    46.1317106, -64.7229082, 'first'],
+['867', 'Peterbilt Quebec East - Saint Pascal, 195 Ave. Du Park,Saint Pascal, QC G0L 3',   47.5295575, -69.82535719999998, 'first'],
+['868', 'Tallman Truck Centre - Kingston, 750 Dalton Ave,Kingston, ON K7M 8N8,CAD',    44.2694232, -76.52652739999996, 'first'],
+['869', 'Truck Country of Milwaukee, 2222 West Ryan Rd.,Oak Creek, WI 53154,',   42.8735728, -87.94545849999997, 'first'],
+['870', 'Rush Truck Center - Lake City, 510 SW Arrowhead Terrace,Lake City, FL 32024,',    30.122072, -82.661044, 'first'],
+['871', 'MHC Kenworth - Kingsport, 859 Centenary Rd,Blountville, TN 37617 ',   36.49331, -82.4297881, 'first'],
+['872', 'DC Truck Center, 5411 Raley Blvd.,Sacramento, CA 95838 N',    38.6660641, -121.4300892, 'first'],
+['873', 'Mesilla Valley Transportation, 9525 Escobar,El Paso, TX 79907,CADN, Cc',    31.7026969, -106.2916538, 'first'],
+['874', 'Burroughs Diesel, Inc., 3626 Industrial Blvd.,Laurel, MS 39440 C',    31.659842, -89.18599080000001, 'first'],
+['875', 'Jordan Carriers, 174 Hwy 61 South,Natchez, MS 39120,CADN, N, ',   31.55486509999999, -91.3859142, 'first'],
+['876', 'Caltrans - Altaville, 154 Monte Verde St.,Altaville, CA 95221,CADN, Cc',    38.2272338, -120.31472080000003, 'first'],
+['877', 'Caltrans - Pioneer, 41951 Highway 88,Pioneer, CA 95666,CADN, N',    38.6578506, -120.13287869999999, 'first'],
+['878', 'Thoms Leasing Corporation, 4842 Gillman Road,Blackshear, GA 31516,CADN',    31.3176282, -82.2223634, 'first'],
+['879', 'Southeastern Freight Lines - Dallas, 4211 Irving Blvd.,Dallas, TX 75247,CAD',   32.809581, -96.8880962, 'first'],
+['880', 'USAL Logistics, 2100 Westfield Loop,Houston, TX 77073,CADN, N,',    30.0198969, -95.39489530000003, 'first'],
+['881', 'Kansas City Peterbilt, 8915 Woodend Road,Kansas City, KS 66111 C',    39.0489889, -94.78716930000002, 'first'],
+['882', 'M & K Truck Centers - Byron Center, 8800 Byron Commerce Drive,Byron Center, MI ',   42.8050931, -85.67029049999996, 'first'],
+['883', 'Truckworx Kenworth - Dothan, 461 Ross Clark Circle,Dothan, AL 36303,',    31.2436649, -85.36899030000001, 'first'],
+['884', 'Tri County Motor Sales, 1575 Ferndale Ave.,Johnstown, PA 15905 C',    40.2869062, -78.92824810000002, 'first'],
+['885', 'Champlain Peterbilt, 61 W. Service Rd.,Champlain, NY 12919 ',   44.99498149999999, -73.45834739999998, 'first'],
+['886', 'McMahon Truck Centers, 1688 E. 5th Ave,Columbus, OH 43219 ',    39.98643, -82.95940200000001, 'first'],
+['887', '2413625 Ontario Inc., 1093 Lorimar Drive,Mississauga, ON L5S 1M5 ',   43.6691693, -79.68463930000001, 'first'],
+['888', 'Green Diesel Solutions, 9155 Archibald, Ste 104,Rancho Cucamonga, CA 91730,',   34.0869964, -117.59271209999997, 'first'],
+['889', 'Transco Lines, Inc., 1 Harold Ives Drive,North Little Rock, AR 72117,CAD',    34.7675554, -92.1654638, 'first'],
+['890', 'Nebraska Peterbilt, 8225 S. Hwy. 281,Grand Island, NE 68803 ',    41.0352656, -98.3590681, 'first'],
+['891', 'Arriva Bus, Edmonton Garage, Unit 1E, Towpath Road,London,  N18 3QX,',    51.6103971, -0.040644899999961126, 'first'],
+['892', 'Excalibre Technologies Ltd., Building 13,Mitcheldean,  GL 17 0DD ',   51.86755729999999, -2.4853369999999586, 'first'],
+['893', 'Eco Tech Fleet Services, 8436 NW 61 St,Miami, FL 33166 N',    25.828421, -80.33499599999999, 'first'],
+['894', 'Rush Truck Center - Haines City, 915 Roberts Road,Lake Hamilton, FL 33851,C',   28.058011, -81.634661, 'first'],
+['895', 'Wyoming Machinery Co. - Casper, 5300 W. Old Yellowstone Hwy.,Casper, WY 82604',   42.860256, -106.39463699999999, 'first'],
+['896', 'Hobby Lobby, 7700 SW 44th St.,Oklahoma City, OK 73179,CADN, N,',    35.4206733, -97.64820550000002, 'first'],
+['897', 'Idealease of Atlanta, 2689 Barrett Lakes Blvd.,Kennesaw, GA 30144',   34.015517, -84.57732199999998, 'first'],
+['898', 'Sternberg International - Jasper, 1781 Highway 231 S.,Jasper, IN 47546,CAD',    38.3673297, -86.94396510000001, 'first'],
+['899', 'Mobile Filtration Services, 4419 Ooltewah-Ringgold Rd.,Ringgold, GA 30736,C',   34.922808, -85.10347100000001, 'first'],
+['900', 'Ballard Mack Sales & Service, 442 Southwest Cutoff - Rt 20,Worcester, MA 0160',   42.47398889999999, -71.83588259999999, 'first'],
+['901', 'Fleet Equipment, LLC, 2505 Farrisview Blvd.,Memphis, TN 38118 Cc',    35.0750634, -89.97991730000001, 'first'],
+['902', 'Solano County Transit, 1850 Broadway St.,Vallejo, CA 94589,CADN, ',   38.13368, -122.25142199999999, 'first'],
+['903', 'United Engines, LLC, 5555 W. Reno Ave.,Oklahoma City, OK 73127 C',    35.4649878, -97.61443020000002, 'first'],
+['904', 'Wiley Sanders Truck Lines, Inc., 100 Sanders Rd.,Troy, AL 36079,CADN, ',    31.786961, -85.98095030000002, 'first'],
+['905', 'Liv Transportation, 5151 S. Lawndale Ave,Summit, IL 60501 ',    41.7981805, -87.82491099999999, 'first'],
+['906', 'Skinner Diesel Service Inc., 2440 Lockbourne Road,Columbus, OH 43207,CAD',    39.914699, -82.96732099999997, 'first'],
+['907', 'Rush Truck Center - Albuquerque, 6521 Hanover Rd. NW,Albuquerque, NM 87121,',   35.101251, -106.71284100000003, 'first'],
+['908', 'Hirschbach Motor Lines - Mableton, 7030 Queensferry Rd.,Mableton, GA 30126,',   33.7817385, -84.5405912, 'first'],
+['909', 'C.R. England - West Valley City, 4701 West 2100 South,West Valley City, UT 84',   40.7248291, -112.00414769999998, 'first'],
+['910', 'C.R. England - Colton, 2250 South Riverside Ave,Colton, CA 92324,CADN, ',   34.0343366, -117.3649163, 'first'],
+['911', 'One Stop Oil & Lube, 14562 Slover Ave.,Fontana, CA 92337 ',   34.063263, -117.48757699999999, 'first'],
+['912', 'ProSport Express Inc., 1901 Pratt Blvd.,Elk Grove Village, IL 60007,CADN',    41.9977436, -87.95499699999999, 'first'],
+['913', 'MHC Kenworth - South Fort Worth, 685 John B Sias Memorial Parkway,Edgecliff Village, TX',   32.662553, -97.32941299999999, 'first'],
+['914', 'Holt Distributing, 2246 S. Railroad Ave.,Fresno, CA 93721 ',    36.7185716, -119.77918820000002, 'first'],
+['915', 'Armand Signori Auto Radiateur, 1983 Boulevard des Laurentides,Laval, QC H7M 2',   45.6054198, -73.7307697, 'first'],
+['916', 'Worldwide Equipment, 6416 Asheville Hwy.,Knoxville, TN 37914 Cca',    36.0167113, -83.81826749999999, 'first'],
+['917', 'Worldwide Equipment - Lexington, 945 Nandino Drive,Lexington, KY 40511,CAD',    38.0773628, -84.49854590000001, 'first'],
+['918', 'Cleantaxx, Industriestr. 12,Langenhagen,  D-30855 N, Cc',   52.47794, 9.742489999999975, 'first'],
+['919', 'Maudlin International Trucks - Orlando, 2300 S. Division Ave.,Orlando, FL 328',   28.5161, -81.38557500000002, 'first'],
+['920', 'Rush Truck Center - Pharr, 4700 N. Cage Blvd.,Pharr, TX 78577 Cc',    26.235187, -98.17523790000001, 'first'],
+['921', 'Paul Transportation, 15202 East Admiral Place,Tulsa, OK 74116,CADN, Cc',    36.1606379, -95.80635440000003, 'first'],
+['922', 'US Truck & Trailer Repair Inc., 2072 W. Yosemite Ave.,Manteca, CA 95337,CAD',   37.7970005, -121.25160140000003, 'first'],
+['923', 'McMahon Truck Centers of Nashville, 161 Charter Place,La Vergne, TN 37086,C',   35.9905696, -86.59116219999999, 'first'],
+['924', 'Armour Transportation Systems, 700 Edinburg Drive,Moncton, NB E1E 2L4,CAD',   46.0923439, -64.84343890000002, 'first'],
+['925', 'Southland International Trucks - Tuscaloosa, 3540 Skyline Blvd. E,Tuscaloosa, AL, Czi',   33.162884, -87.53467569999998, 'first'],
+['926', 'Kenworth Northeast Group - Boston, 1150 West Chestnut Street,Brockton, MA 023',   42.0533183, -71.06294789999998, 'first'],
+['927', 'W.W. Williams Co. - Phoenix, 2602 S. 19th Ave.,Phoenix, AZ 85009 ',   33.42404399999999, -112.100642, 'first'],
+['928', 'W.W. Williams Co. - Hilliard, 3535 Parkway Lane,Hilliard, OH 43026,',   40.025596, -83.12462599999998, 'first'],
+['929', 'W.W. Williams Co. - Birmingham, 1160 Bankhead Hwy. West,Birmingham, AL 35204',    33.5333045, -86.85603739999999, 'first'],
+['930', 'Interstate Fleet Maintenance Inc., 10040 Miller Way,Southgate, CA 90280,CAD',   33.9394344, -118.17000459999997, 'first'],
+['931', 'Rush Truck Center - Kankakee, 613 Eastgate Industrial Parkway,Kankakee, IL 60',   41.125579, -87.83209999999997, 'first'],
+['932', 'MBI Energy Services, 12980 35th Street SW,Belfield, ND 58622,CADN, Cca',    46.9051461, -103.18514770000002, 'first'],
+['933', 'ABJ Logistics, 4011 Irving Blvd # C,Dallas, TX 75247,CADN, N, ',    32.809157, -96.88547, 'first'],
+['934', 'Manteca Unified School District, 2271 W. Louise Ave.,Manteca, CA 95337,CAD',    37.8125206, -121.25627380000003, 'first'],
+['935', 'Lakeside International - Madison, 3116 Commercial Ave.,Madison, WI 53714,CA',   43.10745259999999, -89.33578720000003, 'first'],
+['936', 'Metro - St. Paul, 515 North Cleveland Ave.,Saint Paul, MN 55114,CADN, ',    44.9577655, -93.18737220000003, 'first'],
+['937', 'Cummins Bridgeway - Grand Rapids, 3715 Clay Ave. SW,Grand Rapids, MI 49548,',   42.896653, -85.67683999999997, 'first'],
+['938', 'Concord Coach Lines, Inc., 7 Langdon St.,Concord, NH 03301,CADN, ',   43.191318, -71.53121799999997, 'first'],
+['939', 'Waters Truck & Tractor Co., 96 East Plymouth,Columbus, MS 39703 ',    33.5022527, -88.43875860000003, 'first'],
+['940', 'Cummins Northeast - Dedham, 100 Allied Dr.,Dedham, MA 02026 ',    42.225653, -71.172935, 'first'],
+['941', 'Armellini Express Lines, 3446 SW Amrellini Ave.,Palm City, FL 34990,CADN',    27.164267, -80.30430799999999, 'first'],
+['942', 'Great Lakes Peterbilt, 5900 Southport Road, I94 & 249,Portage, IN 46368,CAD',   41.5758707, -87.17614550000002, 'first'],
+['943', 'Hawthorne Power Systems, 10930 Willow Court,San Diego, CA 92127 ',    33.0139573, -117.0995868, 'first'],
+['944', 'Statewide Towing, 173 River Road,Chelsea, ME 04330 N, C',   44.2830834, -69.7773186, 'first'],
+['945', 'Bruckner Truck Sales - Wichita Falls, 4520 Northwest Freeway,Wichita Falls, TX ',   33.9502375, -98.55812530000003, 'first'],
+['946', 'Servicio Lucas Diesel S.A., Panamericana Norte 5325, Conchali,Santiago, Region Metropolitana,Cs',   -33.387938, -70.69015609999997, 'first'],
+['947', 'MHC Kenworth - St. Joseph, 2500 S. 4th Street,St. Joseph, MO 64501,',   39.742742, -94.856333, 'first'],
+['948', 'Rocking C Truck & Trailer, 10040 Canal Road,Gulfport, MS 39503 C',    30.4286038, -89.13641380000001, 'first'],
+['949', 'Peterbilt of Des Moines, 3445 Adventureland Drive W,Altoona, IA 50009,CAD',   41.660723, -93.50545899999997, 'first'],
+['950', 'Peterbilt of Charlotte, 3502 Jeff Adams Drive,Charlotte, NC 28206',   35.273644, -80.82427000000001, 'first'],
+['951', 'UD Trucks Japan, 1-1 Ageo City,Saitama Prefecture, JN 362-8523,CADN, C',    35.953331, 139.57777150000004, 'first'],
+['952', 'C.R. England - Smithfield, 201 Berry Hill Road,Smithfield, VA 23430,CADN',    36.99637999999999, -76.63109829999996, 'first'],
+['953', 'C.R. England - Laredo, 8422 Amparan Road,Laredo, TX 78045,CADN, ',    27.6135742, -99.50866510000003, 'first'],
+['954', 'C.R. England - South Holland, 17201 State Street,South Holand, IL 60473,CAD',   41.58425769999999, -87.61441830000001, 'first'],
+['955', 'Tri State DPF Cleaning Services, 206 E. King Street,Shippensburg, PA 17257,',   40.0521061, -77.51646219999998, 'first'],
+['956', 'McCarthy Building Companies, Inc., 2849 E. Myrtle Street,Stockton, CA 95205,',    37.96193299999999, -121.250294, 'first'],
+['957', 'Caltrans - Oakland, 200 Burma Road,Oakland, CA 94607,CADN, N, ',    37.8228748, -122.3112577, 'first'],
+['958', 'Rush Truck Center - Huntley, 11816 S. IL Route 47,Huntley, IL 60142,',    42.156788, -88.428359, 'first'],
+['959', 'MHC Kenworth - Cedar Rapids, 360 French Court Southwest,Cedar Rapids, IA 5240',   41.9270157, -91.6955092, 'first'],
+['960', 'Inland Kenworth - Burnaby, 5550 Goring Street,Burnaby, BC V5B 3A4',   49.262865, -122.983677, 'first'],
+['961', 'Truck Enterprises Inc. - Hagerstown, 13510 Volvo Way,Hagerstown, MD 21740,C',   39.6843257, -77.73014969999997, 'first'],
+['962', 'General Truck Sales, 4300 North Broadway,Muncie, IN 47303 ',    40.227423, -85.36749199999997, 'first'],
+['963', 'Allstate Peterbilt of Youngstown, 3680 Leharps Road,Youngstown, OH 44515,CA',   41.121078, -80.7137429, 'first'],
+['964', 'Allstate Peterbilt of Findlay, 1330 West Trenton Ave.,Findlay, OH 45840,CAD',   41.0592493, -83.67642109999997, 'first'],
+['965', 'Allstate Peterbilt of New Philadelphia, 327 Stonecreek Road NW,New Philadelphia, OH, ',   40.4899575, -81.48149420000004, 'first'],
+['966', 'VoMac Truck Sales & Service - Evansville Mack, 10000 Highway 57,Evansville, IN ',   38.069017, -87.50727010000003, 'first'],
+['967', 'West Container Repair, 2525 Kreutzer Drive,Columbus,, IN 47201 C',    39.1868709, -85.895173, 'first'],
+['968', 'Cummins Inc. - Houston, 4444 Kennedy Commerce Drive,Houston, TX 77032,CAD',   29.921088, -95.32259599999998, 'first'],
+['969', 'Ontario DPF Cleaning Specialist Inc., 129 Rivers Road East,Callander, ON P0H ',   46.1775629, -79.35826780000002, 'first'],
+['970', 'Williams Diesel Service Inc., 5045 SW 1st Lane,Ocala, FL 34474 C',    29.18582, -82.20441199999999, 'first'],
+['971', 'Jacksonville Transportation Authority, 1500 W. Church St.,Jacksonville, FL 32',   30.3333492, -81.68034929999999, 'first'],
+['972', 'Volvo Truck & Bus Centre N. & Scotland, 9 Fifty Pitches Place,Glasgow,  G51 4',   55.8585279, -4.350479199999995, 'first'],
+['973', 'Peterbilt of Atlanta - Kennesaw, 2395 Old 41 Highway,Kennesaw, GA 30144,CAD',   34.0109034, -84.60747420000001, 'first'],
+['974', 'K & R Truck Sales Inc., 840 Interchange Drive,Holland, MI 49423 ',    42.7382018, -86.07021079999998, 'first'],
+['975', 'Fran Rock Truck Repair, 230 West Nyack Road,West Nyack, NY 10994 ',   41.0970763, -73.99549259999998, 'first'],
+['976', 'DTE Energy, 7940 Livernois,Detroit, MI 48210,CADN, N, Ccummin',   42.3510822, -83.1347758, 'first'],
+['977', 'Curts Diesel and Repair, 21880 Temescal Canyon Road,Corona, CA 92883,CAD',    33.802059, -117.50309700000003, 'first'],
+['978', 'Peterbilt of Lincoln, 6262 Arbor Road,Lincoln, NE 68507 N',   40.8930632, -96.6434448, 'first'],
+['979', 'Smokey Point Distributing, 17305 59th Ave NE,Arlington, WA 98223,CADN, ',   48.153629, -122.14978300000001, 'first'],
+['980', 'W.W. Williams Co. - Brunswick, 1176 Industrial Parkway North,Brunswick, OH 44',   41.2440179, -81.79884500000003, 'first'],
+['981', 'W.W. Williams Co. - Savannah, 14 Westgate Blvd.,Savannah, GA 31405,',   32.055415, -81.14315999999997, 'first'],
+['982', 'W.W. Williams Co. - North Las Vegas, 2860 Losee Road,North Las Vegas, NV 8903',   36.21122100000001, -115.13086099999998, 'first'],
+['983', 'Goldcorp - Musselwhite Mine, ,Kenora District, ON ,CADN, N, C',   52.610891, -90.366654, 'first'],
+['984', 'Inland Kenworth - Phoenix, 1021 N. 59th Ave.,Phoenix, AZ 85043 C',    33.459399, -112.18539499999997, 'first'],
+['985', 'Old River Companies, Inc. - Baton Rouge, 2421 Monterrey Dr.,Baton Rouge, LA 7',   30.4718425, -91.08466469999996, 'first'],
+['986', 'Performance Peterbilt of SW Virginia, 220 Kelly Road,Fancy Gap, VA 24328,CA',   36.6740537, -80.71368770000004, 'first'],
+['987', 'Performance Peterbilt of Tallahassee, 31767 Blue Star Hwy,Midway, FL 32343,',   30.4977961, -84.44299480000001, 'first'],
+['988', 'MHC Kenworth - Salina, 2301 North Ohio Street,Salina, KS 67401 C',    38.8797106, -97.59510569999998, 'first'],
+['989', 'Cumberland Truck Equipment, 25 Roadway Drive,Carlisle, PA 17015 ',    40.230109, -77.11289499999998, 'first'],
+['990', 'French-Ellison Truck Center, 4300 N. Cage Street,Pharr, TX 78577 ',   26.2307829, -98.17693939999998, 'first'],
+['991', 'Sahling Kenworth, 2206 East 25th Street,Kearney, NE 68847 ',    40.70263449999999, -99.05305039999996, 'first'],
+['992', 'Superior Equipment Repair, 9900 Hill View Road,New Castle, CA 95658,',    38.87819410000001, -121.12130380000002, 'first'],
+['993', 'Truckworx Kenworth - Montgomery, 3401 Industrial Drive,Montgomery, AL 36108,',    32.3809986, -86.3772525, 'first'],
+['994', 'Undisclosed Independent, Optyma Ha doesnt want to be on map,Villard-Bonnot,  ',   45.238732, 5.888011000000006, 'first'],
+['995', 'DPF Cleaning Specialist Ltd. - Mississauga, 1225 Aerowood Dr.,Mississauga, ON ',    43.6401899, -79.63833699999998, 'first'],
+['996', 'Kenworth of Cincinnati, 65 Partnership Way,Cincinnati, OH 45241 ',    39.2916535, -84.42394089999999, 'first'],
+['997', 'MHC Kenworth - Van Buren, 1906 North 6th Street,Van Buren, AR 72956,',    35.463645, -94.353253, 'first'],
+['998', 'Meyers Truck Service, LLC, 9562 Highway 15,Mexico, MO 65265 ',   39.1860255, -91.89129679999996, 'first']
+];
 
-         // Add the control to the map
-         options.gmap.controls[options.position].push(control);
+function initialize() {
+    var center = new google.maps.LatLng(37.3331615, -79.9769357);
+    var mapOptions = {
+        center: center,
+        zoom: 4,
+        mapTypeId: google.maps.MapTypeId.TERRAIN
+    };
 
-         // When the button is clicked pan to sydney
-         google.maps.event.addDomListener(control, 'click', options.action);
-         return control;
-     }
-   
-function initialize(int) {
-        //set up the map
-        geocoder = new google.maps.Geocoder();
-        var mapDiv = document.getElementById('map');
-        var myOptions = {
-          zoom: 4,
-      panControl: true,
-          center: new google.maps.LatLng(39,-98.044922),
-          mapTypeId: google.maps.MapTypeId.ROADMAP,
-          mapTypeControl: true,
-      mapTypeControlOptions: {
-          style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
-         }
-        }
-        map = new google.maps.Map(mapDiv, myOptions);
-    var infoWindow = new google.maps.InfoWindow();
-  var image1 = { url: '../data3/unobfuscated/images/blue_1.png'};
-    var image = {url: '../data3/unobfuscated/images/icon_1.png'};
-  var fsxicon ={url: '../data3/unobfuscated/images/yellowhq.png',
-  size: new google.maps.Size(87, 32),
-
-    origin: new google.maps.Point(0,0),
-    anchor: new google.maps.Point(77, 32)
-  }; 
-  var fsxEicon ={url: '../data3/unobfuscated/images/yellowhq_2.png',
-  size: new google.maps.Size(87, 32),
-
-    origin: new google.maps.Point(0,0),
-    anchor: new google.maps.Point(10, 32)
-  }; 
-if (int==0){
-  //clearData();
-for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CPM != "Y"){
-      if (json[i].CPF !="Y"){
-      if (json[i].CAD =="Y"){
-      placeMarker(i); counter++;  }}}
-      if(json[i].CPM=="Y" && json[i].CAD=="Y")
-      {placeMarker(i);  counter++;
-        }
-        if(json[i].CPF=="Y" && json[i].CAD=="Y")
-      {placeMarker(i);  counter++;
-        }
-        
-  } document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!'; }
-
-    if (int==1){
-clearData();
-  
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CAsia == "Y"&& json[i].CAD=="Y"){
-      placeMarker(i);
-      counter++;}   
-  } zoomFit(); map.setZoom(4);document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-
-            }
-        if (int==2){
-clearData();
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CAu == "Y" && json[i].CAD=="Y"){
-      placeMarker(i);counter++;}    
-  } zoomFit(); map.setZoom(4);document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-
-        if (int==3){
-  clearData();
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CEuro == "Y"&& json[i].CAD=="Y"){
-      placeMarker(i);counter++;}    
-  } zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-
-            }
-        if (int==4){
-clearData();
-  for (var i = 0, length = json.length; i < length; i++) {
-    if (json[i].CNA == "Y"&& json[i].CAD=="Y"){
-      placeMarker(i); counter++;  }
-  }zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        if (int==5){
-clearData();
-  
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CSA == "Y"&& json[i].CAD=="Y"){
-      placeMarker(i);counter++;}    
-  } zoomFit(); map.setZoom(4);document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-
-            }
-        if (int==6){
-clearData();
-  
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CPM != "Y"){
-      if (json[i].CPF !="Y"){
-      placeMarker(i);counter++;}  if(json[i].CPM=="Y" && json[i].CAD=="Y")
-      {placeMarker(i);  counter++;
-        }
-        if(json[i].CPF=="Y" && json[i].CAD=="Y")
-      {placeMarker(i);  counter++;
-        }}  
-  } zoomFit(); document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-
-            }
-        
-
-function zoomFit(){
-  var bounds = new google.maps.LatLngBounds ();
-//  Go through each...
-for (var i = 0, LtLgLen = LatLngList.length; i < LtLgLen; i++) {
-  //  And increase the bounds to take this point
-  bounds.extend (LatLngList[i]);
-}
-//  Fit these bounds to the map
-map.fitBounds (bounds);
-  } 
-function clearData(){
-  for (var i = 0; i < markersArray.length; i++ ) {
-    markersArray[i].setMap(null);
-  }
-    LatLngList = [];
-  counter= null;
-   return;
-  } 
-function placeMarker(id){
-      var data = json[id]
-      if(data.Cname=="FSX Equipment, Inc."){
-        latLng = new google.maps.LatLng(data.lat, data.lng);
-      var marker = new google.maps.Marker({
-        position: latLng,
-        map: map,
-        title: data.Cname,
-         icon: fsxicon
-      }); markersArray.push(marker);LatLngList.push(latLng);}
-      else if(data.Cname=="FSX Europe, Inc."){
-        latLng = new google.maps.LatLng(data.lat, data.lng);
-      var marker = new google.maps.Marker({
-        position: latLng,
-        map: map,
-        title: data.Cname,
-         icon: fsxEicon
-      }); markersArray.push(marker);LatLngList.push(latLng);} 
-      
-      else if (data.CPending == "Y"){
-        latLng = new google.maps.LatLng(data.lat, data.lng);
-        var marker = new google.maps.Marker({
-        position: latLng,
-        map: map,
-        title: data.Cname,
-         icon: image1
-      }); markersArray.push(marker);LatLngList.push(latLng);}
-      else if (data.CPending=="N")  {
-        latLng = new google.maps.LatLng(data.lat, data.lng);
-        var marker = new google.maps.Marker({
-        position: latLng,
-        map: map,
-        title: data.Cname,
-         icon: image
-      });markersArray.push(marker);LatLngList.push(latLng);} 
-      
-      
-  
-      
-
-      // Creating a closure to retain the correct data, notice how I pass the current data in the loop into the closure (marker, data)
-      (function(marker, data) {
-var content = '<div style="text-align:center"><strong>'+data.Cname+'</strong><br/>'+data.Cstreet+'<br/>'+data.Ccity+', '+data.Cstate+' '+data.Czip+'<br/>'+data.Cweb+'</div>';
-        // Attaching a click event to the current marker
-        google.maps.event.addListener(marker, "click", function(e) {
-          infoWindow.setContent(content);
-          infoWindow.open(map, marker);
-        });
-
-
-      })(marker, data);
-
-
-  
-}
-  
-
-        
-        //start process to set up custom drop down
-        //create the options that respond to click
-        var AllDealers = {
-            gmap: map,
-            name: 'Dealers Worldwide',
-            title: "Select to View ALL Dealers",
-            id: "1",
-            action: function(){
-                  clearData();
-  
-    // Looping through the JSON data
-for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CPM != "Y"){
-      if (json[i].CPF !="Y"){
-      if (json[i].CAD =="Y"){
-      placeMarker(i); counter++;  }}}
-      if(json[i].CPM=="Y" && json[i].CAD=="Y")
-      {placeMarker(i);  counter++;
-        }
-        if(json[i].CPF=="Y" && json[i].CAD=="Y")
-      {placeMarker(i);  counter++;
-        }
-        
-  }zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-        var optionDiv1 = new optionDiv(AllDealers);
-      var AllNADealers = {
-            gmap: map,
-            name: 'North America',
-            title: "Select to view North America Dealers",
-            id: "2",
-            action: function(){
-                  clearData();
-  
-    // Looping through the JSON data//if (json[i].CAD == "Y"){
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CAD == "Y" && json[i].CNA == "Y"){
-      placeMarker(i); counter++;  }
-  }zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-        var optionDiv16 = new optionDiv(AllNADealers);
-        
-        var Caterpillar = {
-            gmap: map,
-            name: 'Caterpillar',
-            title: "Select to View Caterpillar Dealers",
-            id: "3",
-            action: function(){
-          clearData();
-    // Looping through the JSON data
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].Ccat == "Y"){
-      placeMarker(i);counter++;}    
-  } zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-        var optionDiv2 = new optionDiv(Caterpillar);
-    
-               var Cummins = {
-            gmap: map,
-            name: 'Cummins',
-            title: "Select to View Cummins Dealers",
-            id: "4",
-            action: function(){
-                  clearData();
-    // Looping through the JSON data
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].Ccummins == "Y"){
-      placeMarker(i);counter++;}    
-  }zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-       
-        var optionDivC3 = new optionDiv(Cummins);
-    
-                   var Independent = {
-            gmap: map,
-            name: 'Independent',
-            title: "Select to View Independent Dealers",
-            id: "5",
-            action: function(){
-  clearData();
-    // Looping through the JSON data
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CIndep == "Y"){
-      placeMarker(i);counter++;}    
-  }zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-       
-        var optionDiv3 = new optionDiv(Independent);
-    
-    var International = {
-            gmap: map,
-            name: 'International',
-            title: "Select to View International Dealers",
-            id: "6",
-            action: function(){
-  clearData();
-    // Looping through the JSON data
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CInt == "Y"){
-      placeMarker(i);counter++;}    
-  } //zoomFit();
-map.setZoom(4);document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-var IntLL = new google.maps.LatLng(41.804078,-88.242187);
-map.panTo(IntLL)
-            }
-        }
-       
-        var optionDiv4 = new optionDiv(International);
-    
-        
-    var Kenworth = {
-            gmap: map,
-            name: 'Kenworth',
-            title: "Select to View Kenworth Dealers",
-            id: "7",
-            action: function(){
-  clearData();
-
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CKen == "Y"){
-      placeMarker(i);counter++;}    
-  } 
-  map.setZoom(4);document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-  var KenLL = new google.maps.LatLng(42.423457,-97.03125);
-  map.panTo(KenLL)
-            }
-        }
-       
-        var optionDiv5 = new optionDiv(Kenworth);
-    
-        var Peterbilt = {
-            gmap: map,
-            name: 'Peterbilt',
-            title: "Select to View Peterbilt Dealers",
-            id: "8",
-            action:function(){
-  clearData();
-
-
-    // Looping through the JSON data
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CPB == "Y"){
-      placeMarker(i);counter++;}    
-  } zoomFit();
-  map.setZoom(4);document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-var IntLL = new google.maps.LatLng(43.133061,-93.711133);
-map.panTo(IntLL)
-            }
-        }
-       
-        var optionDiv6 = new optionDiv(Peterbilt);
-    
-        var DetroitDiesel = {
-            gmap: map,
-            name: 'Detroit Diesel',
-            title: "Select to View Detroit Diesel Dealers",
-            id: "9",
-            action: function(){
-  clearData();
-
-
-    // Looping through the JSON data
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].Cdd == "Y"){
-      placeMarker(i);counter++;}    
-  } zoomFit();
-  map.setZoom(4);document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-       
-        var optionDiv7 = new optionDiv(DetroitDiesel);
-        
-        var Freightliner = {
-            gmap: map,
-            name: 'Freightliner',
-            title: "Select to View Freightliner Dealers",
-            id: "10",
-            action: function(){
-  clearData();
-
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CFL == "Y"){
-      placeMarker(i);counter++;}    
-  } zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-       
-        var optionDiv8 = new optionDiv(Freightliner);
-        
-        var VolvoMack = {
-            gmap: map,
-            name: 'Volvo-Mack',
-            title: "Select to View Volvo-Mack Dealers",
-            id: "11",
-            action: function(){
-  clearData();
-  
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CVolvo == "Y" || json[i].CMack == "Y"){
-      placeMarker(i);counter++;}    
-  }zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-       
-        var optionDiv9 = new optionDiv(VolvoMack);
-        
-        var Europe = {
-            gmap: map,
-            name: 'Other-Europe',
-            title: "Select to View Europe Dealers",
-            id: "12",
-            action: function(){
-  clearData();
-
-    // Looping through the JSON data
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CEuro == "Y" && json[i].CAD=="Y"){
-      placeMarker(i);counter++;}    
-  } zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-
-            }
-        }
-       
-        var optionDiv10 = new optionDiv(Europe);
-
-        var Canada = {
-            gmap: map,
-            name: 'Other-Canada',
-            title: "Select to View Canada Dealers",
-            id: "13",
-            action: function(){
-  clearData();
-  
-map.panTo(new google.maps.LatLng(50.7577,-90));
-    // Looping through the JSON data
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CCA == "Y" && json[i].CAD=="Y"){
-      placeMarker(i);counter++;}    
-  }zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-       
-        var optionDiv11 = new optionDiv(Canada);
-    
-    
-    var Australia = {
-            gmap: map,
-            name: 'Other-Australia',
-            title: "Select to View Australia Dealers",
-            id: "14",
-            action: function(){
-  clearData();
-
-
-    // Looping through the JSON data
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CAu == "Y" && json[i].CAD=="Y"){
-      placeMarker(i);counter++;}    
-  } zoomFit();
-  map.setZoom(4);document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-       
-        var optionDiv12 = new optionDiv(Australia);
-    
-        var Municipalities = {
-            gmap: map,
-            name: 'Other-Municipalities',
-            title: "Select to View Municipalities",
-            id: "15",
-            action: function(){
-                clearData();
-  
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CPM == "Y"){
-      placeMarker(i);counter++;}    
-  }zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-       
-        var optionDiv13 = new optionDiv(Municipalities);
-        
-        var PrivateFleets = {
-            gmap: map,
-            name: 'Other-Private Fleets',
-            title: "Select to View Private Fleets",
-            id: "PrivateFleets",
-            action: function(){
-                clearData();
-  
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CPF == "Y"){
-      placeMarker(i);counter++;}    
-  }zoomFit();document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-            }
-        }
-       
-        var optionDiv14 = new optionDiv(PrivateFleets);
-    
-    var Asia = {
-            gmap: map,
-            name: 'Other-Asia ',
-            title: "Select to View Asia Dealers",
-            id: "PrivateFleets",
-            action: function(){
-                clearData();
-  
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CAsia == "Y" && json[i].CAD=="Y"){
-      placeMarker(i);counter++;}    
-  }zoomFit();
-    map.setZoom(4);document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-
-            }
-        } 
-  var optionDiv15 = new optionDiv(Asia);
-       
-        
-    
-        var Isuzu = {
-            gmap: map,
-            name: 'Isuzu ',
-            title: "Select to View Isuzu Dealers",
-            id: "Isuzu",
-            action: function(){
-                clearData();
-  
-  for (var i = 0, length = json.length; i < length; i++) {
-      if (json[i].CIZ == "Y" && json[i].CAD=="Y"){
-      placeMarker(i);counter++;}    
-  }zoomFit();
-    map.setZoom(4);document.title='Where to find the FSX advantage - '+counter  +' installed systems and growing!';  
-
-            }
-        }
-       var optionDiv16 = new optionDiv(Isuzu);
-        
-        //create the input box items
-        
-        //possibly add a separator between controls        
-        var sep = new separator();
-        
-        //put them all together to create the drop down       
-        var ddDivOptions = {
-          items: [optionDiv1, optionDiv16, optionDiv2, optionDivC3, optionDiv3, optionDiv4, optionDiv5, optionDiv6, optionDiv7, optionDiv8, optionDiv9,optionDiv16, optionDiv10,optionDiv15, optionDiv11,optionDiv12, optionDiv13,optionDiv14, sep],
-          id: "myddOptsDiv"           
-        }
-        //alert(ddDivOptions.items[1]);
-        var dropDownDiv = new dropDownOptionsDiv(ddDivOptions);               
-                
-        var dropDownOptions = {
-            gmap: map,
-            //name: '- Select Dealers -',
-            id: 'ddControl',
-            title: 'Select Map',
-            position: google.maps.ControlPosition.TOP_RIGHT,
-            dropDown: dropDownDiv 
-        }
-        
-        var dropDown1 = new dropDownControl(dropDownOptions);              
+   map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+    for (i = 0; i < markers1.length; i++) {
+        addMarker(markers1[i]);
     }
-    //  google.maps.event.addDomListener(window, 'load', initialize(0));
-   function codeAddress() {
-     initialize(0);
-  var address = document.getElementById('address').value;
-  geocoder.geocode( { 'address': address}, function(results, status) {
-    if (status == google.maps.GeocoderStatus.OK) {
-      map.setCenter(results[0].geometry.location);
-    map.setZoom(9);
-    } else {
-      alert('Please enter a vaild city, state or zipcode');
-    }
-  });
 }
-    </script>
-    <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-31807274-1']);
-  _gaq.push(['_setDomainName', 'vislab-ccom.unh.edu']);
-  _gaq.push(['_trackPageview']);
+function addMarker(marker) {
+    var category = marker[4];
+    var title = marker[1];
+    var pos = new google.maps.LatLng(marker[2], marker[3]);
+    var content = marker[1];
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    marker1 = new google.maps.Marker({
+        title: title,
+        position: pos,
+        category: category,
+        map: map
+    });
 
-</script>  
-<table width="100%">
-<tr align="center">
-<td valign="middle">
+    gmarkers1.push(marker1);
 
-<div id="map" style="width:850px; height:580px"></div></td>
-</tr>
-</table>
-<div  class="clear"></div><!-- #BeginLibraryItem "../Library/footer.lbi" -->
-    <div id="footer">
+    // Marker click listener
+    google.maps.event.addListener(marker1, 'click', (function (marker1, content) {
+        return function () {
+            console.log('Gmarker 1 gets pushed');
+            infowindow.setContent(content);
+            infowindow.open(map, marker1);
+            map.panTo(this.getPosition());
+            map.setZoom(15);
+        }
+    })(marker1, content));
+}
 
-<p>
-FSX Equipment Inc. || 10404 Mountain Loop Highway
-Granite Falls, WA 98252-1617 || 360-691-2999 </p>
-<p>&copy; Copyright FSX Incorporated 2008-2015, All Rights Reserved</p>
- <a href="../../index.html">Home </a> |  <a href="../ContactUs.html">Contact</a> |  <a href="../pressArchives.html">News</a> | <a href="../Products/products.html">Products</a> | <a href="../Competition/compare.html">Competitive Comparison </a>| <a href="../EnvNSafety/EnvHome.html">Enviromental &amp; Safety </a>| <a href="ForBid.html">Bid Spec. Language</a> | <a href="LocMap.html">Service Locator Map</a> |<a href="../BaseLinesNScience/CurrentBL.html"> Baseline Chart</a> | <a href="../video/video.html"> Video</a></div><!-- #EndLibraryItem --><!-- end .content --></div>
-</div>
-  <!-- end .container --></div>
-  <script type="text/javascript">
-var MenuBar2 = new Spry.Widget.MenuBar("MenuBar2", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
-  </script>
+/**
+ * Function to filter markers by category
+ */
 
-</body>
-</html>
+filterMarkers = function (category) {
+    for (i = 0; i < markers1.length; i++) {
+        marker = gmarkers1[i];
+        // If is same category or category not picked
+        if (marker.category == category || category.length === 0) {
+            marker.setVisible(true);
+        }
+        // Categories don't match 
+        else {
+            marker.setVisible(false);
+        }
+    }
+}
+
+// Init map
+initialize();
+</script>
+
+<?php include ('footer.php') ?>

@@ -501,6 +501,13 @@ table.sortable tr.sortbottom td {
 #worldMap {
   height: 500px;
 }
+#map-canvas {
+    height: 500px;
+}
+
+.chooseCat{
+	margin-bottom: 10px;
+}
 
 .controls {
   margin-top: 10px;
