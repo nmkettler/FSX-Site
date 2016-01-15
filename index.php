@@ -99,7 +99,7 @@
 
       </div>
     </div>
-
+    <div class="visible-md visible-lg"> <!--Only visible on large/Medium screen-->
       <div class="widewrapper_main">
       <img src="cleaning2.png" class="img-responsive" id = "homeImg" alt="Responsive image">
       <!-- class = "img-responsive" alt = "Responsive image" to make image responsive-->
@@ -108,6 +108,7 @@
                     </video>-->
 
       </div>
+    </div>
      <!--Mobile Call Menu--> 
 
 <div class="container marketing">
@@ -117,15 +118,15 @@
     <div class="col-lg-4">
       <div class="visible-xs">
                 <div class="row">
-          <div class="footer-col col-md-12" id="hiddenMobile">
+          <div class="col-md-12" id="hiddenMobile">
             <ul class="list-inline">
-              <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/pages/FSX-Inc-FSX-Equipment-Inc/146834845525900?rf=432189793569062">
+              <a class="btn btn-social-icon btn-facebook" href="tel:360-691-5991">
                 <i class="fa fa-phone fa-3x"></i>               
               </a>
                <a class="btn btn-social-icon btn-facebook" href="mailto:%73%61%6c%65%73%40%66%73%78%69%6e%63%2e%63%6f%6d">
                 <i class="fa fa-envelope fa-3x"></i>
                </a>
-                <a class="btn btn-social-icon btn-facebook" href="tel:360-691-5991">
+                <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/pages/FSX-Inc-FSX-Equipment-Inc/146834845525900?rf=432189793569062">
                  <i class="fa fa-facebook-square fa-3x"></i>
                 </a>
             </ul>
