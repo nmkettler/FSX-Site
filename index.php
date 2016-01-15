@@ -145,15 +145,21 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
+          <a href="traptester.php">
           <img class="img-square" src="img/TrapTester7.jpg" alt="Generic placeholder image" width="240" height="240">
+        </a>
           <h2>FSX DPF Cleaning Equipment</h2>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
+          <a href="cleaningcomparison.php">
           <img class="img-square" src="img/fsxLogo1.png" alt="Generic placeholder image" width="240" height="240">
+        </a>
           <h2>Proven Cleaning Method</h2>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
+          <a href="basepkg.php">
           <img class="img-square" src="img/baspkgimg.png" alt="Generic placeholder image" width="240" height="240">
+        </a>
           <h2>Durable Machines</h2>
         </div><!-- /.col-lg-4 -->
       </div>
