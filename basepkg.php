@@ -59,7 +59,7 @@
                             <li><a href="trapblaster7.php">TrapBlaster<span class="name1">™</span> Pneumatic Cleaner</a></li>
                             <li> <a href="traptester.php">  TrapTester<span class="name1">™</span> <span class="name1"> </span> Air Flow Test Bench</a></li>
                             <li><a href="trapburner7.php">TrapBurner<span class="name1">™</span><span class="name1"> </span> Thermal Cleaner</a></li>
-                            <li> <a href="SootSucker2.php">SootSucker<span class="name1">™</span> Dust Collector</a></li>
+                            <li> <a href="sootsucker2.php">SootSucker<span class="name1">™</span> Dust Collector</a></li>
                            </ul>
                            <h3>Electrical Options Chart</h3>
                             <a href="img/FSXEquipmentElectrical&AirReq.pdf" target="_new"><img rel="example2" src="img/Electrical-&-Air-Req.jpg" alt="electrical options chart" width="350" height="276"></a>

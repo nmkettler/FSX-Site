@@ -68,7 +68,7 @@
     		<a href = "basepkg.php" class = "list-group-item text-center">
     			<h4 class = "list-group-item-heading">Full System</h4>
     			<p class = "list-group-item-text">
-    				<img class = "featuredImg" src = "img/FSX_dealer_package.jpg" height = "150px"> 
+    				<img class = "featuredImg" src = "img/dealerpackage.jpg" height = "150px"> 
     			</p>
     		</a>
     		<a href = "trapblaster7.php" class = "list-group-item">
