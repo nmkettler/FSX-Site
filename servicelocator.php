@@ -9,9 +9,9 @@
     <div class="col-md-12">
       <select id="type" class="center-block chooseCat" onchange="filterMarkers(this.value);">
         <option value="">Please select category</option>
-        <option value="first">First</option>
-        <option value="second">Second</option>
-        <option value="third">third</option>
+        <option value="first">Cummins</option>
+        <option value="second">Caterpillar</option>
+        <option value="third">Hugs</option>
     </select>
       <div id="map-canvas" class="center-block"></div>      
     </div>
