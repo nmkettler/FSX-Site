@@ -20,7 +20,7 @@
                         <br>
 
                       </td>
-                      <td width="96" align="center"><img src="img/fsxLOGO.png" alt="FSX Cleaning Characteristics" width="63" height="32" align="middle"></td>
+                      <td width="96" align="center"><img src="css/fsxLOGO.png" alt="FSX Cleaning Characteristics" width="63" height="32" align="middle"></td>
                     </tr>
                     <!-- New Row -->
                     <tr class="featureList">

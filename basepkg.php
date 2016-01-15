@@ -13,7 +13,7 @@
                                         <h3><strong>FSX Complete Cleaning System Package</strong></h3>
                                     </div>
                                    
-                                    <img class = "featuredImg" src = "img/fsx_dealer_package.jpg">
+                                    <img class = "featuredImg" src = "img/dealerpackage.jpg">
                                     <ul class="nav nav-tabs">
                 <li class="active"><a data-toggle="tab" href="#features">Requirements</a></li>
                 <li class = "m1"><a data-toggle="tab" href="#menu1">Specifications</a></li>
