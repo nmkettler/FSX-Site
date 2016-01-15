@@ -20,7 +20,7 @@
                         <br>
 
                       </td>
-                      <td width="96" align="center"><img src="css/fsxLOGO.png" alt="FSX Cleaning Characteristics" width="63" height="32" align="middle"></td>
+                      <td width="96" align="center"><img src="img/fsxLogo.png" alt="FSX Cleaning Characteristics" width="63" height="32" align="middle"></td>
                     </tr>
                     <!-- New Row -->
                     <tr class="featureList">
@@ -171,7 +171,7 @@
                       <td width="14%" align="center">PULSE
                         <br> B
                       </td>
-                      <td width="13%" align="center"><img src="img/FSXLOGO.png" alt="FSX Cleaning Characteristics" width="63" height="32" align="middle"></td>
+                      <td width="13%" align="center"><img src="img/fsxLogo.png" alt="FSX Cleaning Characteristics" width="63" height="32" align="middle"></td>
                     </tr>
                     <tr>
                       <td height="48" class="featureList">MAXIMUM &amp; MINIMUM HEIGHT DIMENSIONS OF FILTER</td>
