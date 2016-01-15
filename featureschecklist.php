@@ -110,7 +110,7 @@
                       <td align="center"> PULSE
                         <br> B
                       </td>
-                      <td width="110" align="center"><img src="img/FSXLOGO.png" alt="FSX Cleaning Characteristics" width="63" height="32" align="middle"></td>
+                      <td width="110" align="center"><img src="img/fsxLogo.png" alt="FSX Cleaning Characteristics" width="63" height="32" align="middle"></td>
                     </tr>
                     <!-- New Row -->
                     <tr>

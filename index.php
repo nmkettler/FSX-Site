@@ -117,7 +117,7 @@
     <div class="col-lg-4">
       <div class="visible-xs">
                 <div class="row">
-          <div class="footer-col col-md-12" id="footSocMedia">
+          <div class="footer-col col-md-12" id="hiddenMobile">
             <ul class="list-inline">
               <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/pages/FSX-Inc-FSX-Equipment-Inc/146834845525900?rf=432189793569062">
                 <i class="fa fa-phone fa-3x"></i>               

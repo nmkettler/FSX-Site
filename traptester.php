@@ -5,7 +5,7 @@
 
     <div class = "col-md-3">
      	  <img class = "featuredImg" src = "img/GSAAdvantage.jpg" width = "230px">
-     	   <img class = "featuredImg" src = "img/traptester7.jpg" width = "200px">                                                
+     	   <img class = "featuredImg" src = "img/TrapTester7.jpg" width = "200px">                                                
     </div>
 
     <div class = "col-md-6">
